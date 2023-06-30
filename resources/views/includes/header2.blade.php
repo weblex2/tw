@@ -1,5 +1,5 @@
 
-<nav aria-label="primary" class="relative z-20 flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-end md:flex-row h-40 bg-zinc-800 text-white">
+<nav aria-label="primary" class="relative z-50 flex-col flex-grow hidden pb-4 md:pb-0 md:flex md:justify-end md:flex-row h-40 bg-zinc-800 text-white">
   <div>
     <a href="#" class="flex items-left px-2 left-5 top-2 w-[200px] absolute">
       <img src="img/CBF_OHNE_EFFEKT_12119_neu.png" alt="Logo" class="py-4 z-3 w-[200px]" />

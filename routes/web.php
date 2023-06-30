@@ -42,6 +42,10 @@ Route::get('/privacypolicy', function () {
     return view('privacypolicy');
 });
 
+Route::get('/contact', function () {
+    return view('contact');
+});
+
 Route::controller(MainController::class)->group(function(){
     Route::get('', 'index')->name('index');
 });

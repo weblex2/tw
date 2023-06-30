@@ -256,7 +256,7 @@
                     Wir suchen Verstärkung in unserem Team
                 </div>
                 <div class="flex items-center justify-center py-10">
-                <button class="text-xs font-bold bg-green-500 px-10 py-5 anmelden">Bewerben Sie sich jetzt</button>
+                <a href="/contact" class="text-xs font-bold bg-green-500 px-10 py-5 anmelden">Bewerben Sie sich jetzt</a>
                 </div>
             </div>
         </div>

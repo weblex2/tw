@@ -4,7 +4,7 @@
 @tailwind utilities;
 
 body{
-    /*background-color: #111111;*/ 
+    /*background-color: #111111;*/
     font-family: 'Lato', sans-serif;
 }
 
@@ -51,8 +51,8 @@ nav .ref:hover{
 }
 
 .m{
-    @apply p-12 md:p-6 
-} 
+    @apply p-12 md:p-6
+}
 .m h1{
     @apply font-extrabold text-xl mb-3
 }
@@ -67,7 +67,7 @@ nav .ref:hover{
 }
 
 .icon-big{
-    @apply md:p-6 p-6 border-2 border-white text-white text-2xl rounded-full 
+    @apply md:p-6 p-6 border-2 border-white text-white text-2xl rounded-full
 }
 
 .content-wrapper{
@@ -79,12 +79,12 @@ nav .ref:hover{
 }
 
 .content{
-    @apply w-[75%]  ;
+    @apply w-[75%];
     font-family: 'Lato', sans-serif;
 }
 
 .content h1, .content h2, .content h3, .content h4, .content h5{
-    @apply text-green-500 
+    @apply text-green-500
 }
 
 .content h1{
@@ -108,7 +108,7 @@ nav .ref:hover{
 }
 
 .content-wrapper-center{
-    @apply flex items-center w-full text-black bg-white border border-green-500 
+    @apply flex items-center w-full text-black bg-white border border-green-500
 }
 
 
@@ -137,7 +137,7 @@ nav .ref:hover{
 }
 
 .carousel{
-    @apply w-full max-w-full 
+    @apply w-full max-w-full
 }
 
 .carousel-wrapper{
@@ -145,7 +145,7 @@ nav .ref:hover{
 }
 
 .peeweeheader{
-    @apply w-full h-96 bg-cover; 
+    @apply w-full h-96 bg-cover;
     background-image: url(../../public/img/dl/Cheerleading-450x236.jpg);
 
 }
@@ -156,10 +156,10 @@ nav .ref:hover{
 
 .whatwedo p {
     @apply font-bold text-xl
-}    
+}
 
 
-/* TRININGSZEITEN */    
+/* TRININGSZEITEN */
 .training, .privacypolicy {
     @apply bg-white text-black mb-5 py-10
 }
@@ -191,4 +191,10 @@ nav .ref:hover{
 
 .juniorpic{
     @apply object-fill h-[100%] w-full m-1
-}    
+}
+
+input[type="text"], input[type="email"], textarea{
+    @apply border-2 border-white bg-slate-400 p-5 bg-opacity-0 placeholder-gray-200
+}
+
+
