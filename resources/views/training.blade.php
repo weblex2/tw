@@ -4,16 +4,15 @@
             
             <div class="grid grid-cols-5">
                 <div></div>    
-                <div class="col-span-3">
-                    <h1 class="text-black">Trainingszeiten</h1>
+                <div class="col-span-3 tt">
+                    <div class="h1">Trainingszeiten</div>
                 </div>
                 <div></div>
                 
                 <div></div>
-                <div>
+                <div class="tt">
                     <div class="w-full">
-                        <h2>PEEWEES</h2>
-                        <span class="w-max border border-zinc-800">__</span>
+                        <div class="h2">PEEWEES</div>
                     </div> 
                     <h3>Trainingszeiten</h3>
                     <div>
@@ -28,7 +27,7 @@
                         <div>85622 Feldkirchen</div>
                     </div>
                 </div>
-                <div>
+                <div class="tt">
                     <h2>JUNIORS</h2>
                     <h3>Trainingszeiten</h3>
                     <div>
@@ -48,7 +47,7 @@
                         <div>85622 Feldkirchen</div>
                     </div>
                 </div>
-                <div>
+                <div class="tt">
                     <h2>SENIORS</h2>
                     <h3>Trainingszeiten</h3>
                     <div>

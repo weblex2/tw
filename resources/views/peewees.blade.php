@@ -101,7 +101,7 @@
 
     <!-- Images -->
     <div class="content-wrapper">
-        <div class="grid lg:grid-cols-5 grid-cols-1 lg:gap-3 w-full max-w-full bg-gray-500 justify-between px-5">
+        <div class="team-image-wrapper">
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/peewee/Foto-Gators-Rise-Pyra-705x529.jpg')}}"></div>
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/peewee/pee-1030x1030.jpg')}}"></div>
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/peewee/1672157543942-1030x578.jpg')}}"></div>

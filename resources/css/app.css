@@ -7,6 +7,14 @@ body{
     font-family: 'Lato', sans-serif;
 }
 
+#modal-background{
+    @apply absolute z-30 bg-black bg-opacity-80 h-screen w-screen flex items-center justify-center text-white hidden
+}
+
+#modal{
+
+}
+
 :root {
     --main-bg-color: brown;
     --main-link-color: green;
@@ -19,7 +27,7 @@ nav {
 }
 
 nav .ref {
-    @apply px-2 pt-2
+    @apply px-2 py-2
 }
 nav .ref:hover{
     @apply bg-green-800
@@ -39,7 +47,7 @@ nav .ref:hover{
 }
 
 .footer-content{
-    @apply grid lg:grid-cols-3
+    @apply grid lg:grid-cols-3 lg:w-[75%]
 }
 
 #footer h2{
@@ -90,6 +98,9 @@ nav .ref:hover{
     @apply absolute bg-black bg-opacity-60 h-full w-full 
 }
 
+.team-image-wrapper{
+    @apply grid lg:grid-cols-5 grid-cols-1 lg:gap-3 w-full max-w-full bg-gray-500 justify-between px-5
+}
 
 .team-header-content{
     @apply p-20 text-white flex justify-center
@@ -131,7 +142,18 @@ nav .ref:hover{
     @apply lg:col-span-2 p-10 col-span-1
 }    
 
-    
+.tt .h1{
+    @apply text-5xl font-bold mb-10
+}
+
+.tt .h2{
+    @apply text-2xl font-bold mb-3
+}
+
+.tt h3{
+    @apply text-green-500
+}
+
 .training-times, .coachbox{
     @apply lg:border border-slate-500 p-10 mt-10 h-fit lg:shadow-2xl 
 }
@@ -246,6 +268,7 @@ nav .ref:hover{
 .zoomable {
     transition: all 0.7s;
     overflow: hidden;
+    cursor:pointer;
 }
 
 .zoomable:hover{

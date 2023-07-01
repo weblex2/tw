@@ -104,7 +104,7 @@
 
     <!-- Images -->
     <div class="content-wrapper">
-        <div class="grid lg:grid-cols-5 grid-cols-1 lg:gap-3 w-full max-w-full bg-gray-500 justify-between px-5">
+        <div class="team-image-wrapper">
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/dl/1672157585724-705x480.jpg')}}"></div>
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/dl/Foto-Gators-United-Aufstellung-klein-705x569.jpg')}}"></div>
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/dl/1672157601017-705x447.jpg')}}"></div>
