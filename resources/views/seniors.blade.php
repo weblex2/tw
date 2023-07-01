@@ -4,8 +4,8 @@
         <div class="content team-header-content">
             <div class="team-header-content-grid">
                 <div>    
-                    <h1>JUNIOR ALLGIRL</h1>
-                    <h1>GATORS UNITED</h1>
+                    <h1>SENIORS</h1>
+                    <h1>GATORS WARRIORS</h1>
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon fa-star"></i>
