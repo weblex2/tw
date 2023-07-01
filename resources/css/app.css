@@ -87,7 +87,7 @@ nav .ref:hover{
 }
 
 .content-wrapper{
-    @apply  text-black  flex w-full justify-center  sm:w-full
+    @apply  text-black flex w-full justify-center  sm:w-full
 }
 
 .team-header{

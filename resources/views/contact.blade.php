@@ -1,6 +1,6 @@
 <x-guest-layout>
     <div class="relative content-wrapper bg-[url('../../public/img/Cheerleading.jpg')] bg-cover bg-fixed bg-no-repeat">
-        <div class="absolute w-full h-full bg-black bg-opacity-80 -mt-20 z-10"></div>
+        <div class="absolute w-full h-full bg-black bg-opacity-80  z-10"></div>
         <div class="content  max-w-[70%] text-white z-20">
             <div class="grid grid-cols-5 gap-4">
                 <div>
