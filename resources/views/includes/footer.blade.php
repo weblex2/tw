@@ -1,5 +1,5 @@
 <div id="footer" class="w-full flex justify-center p-12">
-    <div class="content grid grid-cols-3">
+    <div class="footer-content">
         <div class="px-5">
             <div class="border-t border-b border-gray-500 py-4">
             <h2>CHEERBASE FELDKIRCHEN E.V.</h2>
@@ -39,6 +39,12 @@
         </div>
     </div>
 </div>    
-<div class="copyright">
-    © Cheer Base Feldkirchen e.V. | Made with ♡ by no.brand Werbeagentur
+<div class="copyright flex justify-center items-center ">
+    <div class="text-xs text-white  w-[75%] pt-2">
+        <div class="copy float-left pl-10 ">© Cheer Base Feldkirchen e.V. | Made with ♡ by no.brand Werbeagentur</div>
+        <div class="social float-right pr-10">
+            <a href="https://www.facebook.com/CheerBaseFeldkirchen/" target="_blank"><i class="text-xs hover:bg-blue-500 -mt-3 px-3 py-2 rounded-full fa-brands fa-facebook-f"></i></a>
+            <a href="https://www.instagram.com/cbf_gators/?hl=de"  target="_blank"><i class="text-xs hover:bg-yellow-500 -mt-3 px-3 py-2 rounded-full fa-brands fa-instagram"></i></a>
+        </div>
+    </div>
 </div>  

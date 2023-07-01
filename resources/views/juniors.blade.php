@@ -1,24 +1,38 @@
 <x-guest-layout>
-    <div class="content-header bg-[url('../../public/img/dl/header_juniors.jpg')]">
-        <div class="content p-20 text-white flex justify-center">
-            <div class="grid grid-cols-2  w-[70%]">
-            <div>    
-                <div class="text-7xl text-white font-bold">JUNIOR ALLGIRL</div>
-                <div class="text-7xl text-white font-bold mb-10">GATORS UNITED</div>
-                <div><i class="fa-solid fa-star text-green-500"></i><span  class="font-semibold"> 31 Juniors</span></div>
-                <div><i class="fa-solid fa-user-group text-green-500"></i> <span  class="font-semibold"> 6 Coache</span>s</div>
-                <div><i class="fa-solid fa-calendar text-green-500"></i>&nbsp; <span  class="font-semibold"> 31 Juniors</span></div>
-                <div><i class="fa-solid fa-trophy  text-green-500"></i> <span  class="font-semibold"> Junior Allgirl Level 3</span></div>
-            </div>
-            <div></div>  
+    <div class="team-header juniorheader">
+        <div class="dark"></div>
+        <div class="content team-header-content">
+            <div class="team-header-content-grid">
+                <div>    
+                    <h1>JUNIOR ALLGIRL</h1>
+                    <h1>GATORS UNITED</h1>
+                    <br>
+                    <div class="icon-wrapper">
+                        <i class="icon fa-star"></i>
+                        <span class="font-semibold"> 31 Juniors</span>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="icon fa-user-group"></i>
+                        <span  class="font-semibold"> 6 Coaches</span>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="icon fa-calendar "></i>
+                        <span  class="font-semibold"> &nbsp;&nbsp;31 Juniors</span>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="icon fa-trophy"></i>
+                        <span  class="font-semibold"> Junior Allgirl Level 3</span>
+                    </div>
+                </div>
             </div>  
         </div>
     </div>
-
+ 
+    <!-- what we do --> 
     <div class="content-wrapper bg-white">
-        <div class="content lg:w-[70%] bg-white">
-            <div class="grid lg:grid-cols-4 gap-4 grid-cols-1 gap-1">
-                <div class="col-span-2 p-10">
+        <div class="whatwedo-wrapper">
+            <div class="whatwedo">
+                <div class="row1">
                     <h2>WAS WIR MACHEN</h2>
                     Unser Junior Allgirl – Team sind Mädchen im Alter zwischen 12 – 17 Jahren und sind die “Goldene Mitte”.<br>
                     <br>
@@ -59,40 +73,41 @@
                     <br>
 
                 </div>
-                <div class="border border-slate-500 p-10 mt-10 h-fit">
+                <div class="training-times">
                     <h2>Trainingszeiten</h2>
-                    Montag<br>
-                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;
+                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;Montag</h6><br>
                     Von 18.00 bis 20.00 Uhr<br>
                     <br>
-                    Mittwoch<br>
-                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;
+                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp; Mittwoch<br>
                     Von 17.30 bis 19.30 Uhr<br>
                     <br>
-                    Sonntag<br>
+                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;Sonntag<br>
                     Von 17.30 bis 19.30 Uhr<br>
-                    <br>
-                    <button href="xxx" class="anmelden w-full py-5 px-10 bg-green-500">
-                        Anmelden
+                    
+                    <button href="/contact" class="btn btn-contact">
+                        Anmeldung
                     </button>
                 </div>
-                <div class="mt-10 h-fit px-4">
+                <div class="coachbox-wrapper">
 
-                    <div class="lg:border lg:border-slate-500 p-10">
-                        <h1>Coaches</h1>
+                    <div class="coachbox">
+                        <h2>Coaches</h2>
+                        <h4>Headcoaches:</h4>
                         <img class="zoomable"src="{{asset('img/dl/Foto-Junior-Head-Coaches-1030x711.jpg')}}">
                         <br>
-                        <h4>Headcoaches:</h4>
                         Ali & Anki
                         <br>
                         <br>
+                        <h4>Co-Coaches:</h4>
                         <img class="zoomable" src="{{asset('img/dl/Foto-Junior-Co-Coaches-1030x787.jpg')}}">
                         <br>
-                        <h4>Co-Coaches:</h4>
                         Nele & Emma
                         <br>
                         <br>
+                        <h4>Assistant-Coaches:</h4>
                         <img class="zoomable" src="{{asset('img/dl/Mexo-Melisa-1030x870.jpg')}}">
+                        <br>
+                        Mexo & Melisa
                     </div>
                 </div>
             </div>
@@ -102,11 +117,11 @@
     <!-- Images -->
     <div class="content-wrapper">
         <div class="grid lg:grid-cols-5 grid-cols-1 lg:gap-3 w-full max-w-full bg-gray-500 justify-between px-5">
-            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/dl/1672157585724-705x480.jpg')}}"></div>
-            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/dl/Foto-Gators-United-Aufstellung-klein-705x569.jpg')}}"></div>
-            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/dl/1672157601017-705x447.jpg')}}"></div>
-            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/dl/J-LM.jpg') }}"></div>
-            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/dl/1672157573761-1030x773.jpg')}}"></div>
+            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/juniors/1672157585724-1030x701.jpg')}}"></div>
+            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/juniors/Foto-Gators-United-Aufstellung-klein-1030x832.jpg')}}"></div>
+            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/juniors/1672157601017-1030x652.jpg')}}"></div>
+            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/juniors/J-LM.jpg') }}"></div>
+            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/juniors/1672157573761-1030x773.jpg')}}"></div>
         </div>
     </div>   
 </x-guest-layout>

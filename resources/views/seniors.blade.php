@@ -1,23 +1,37 @@
 <x-guest-layout>
-    <div class="content-header bg-[url('../../public/img/dl/sw-2-705x247.jpg')]">
-        <div class="content p-20 text-white flex justify-center">
-            <div class="grid grid-cols-2  w-[70%]">
-            <div>    
-                <div class="text-7xl text-white font-bold">JUNIOR ALLGIRL</div>
-                <div class="text-7xl text-white font-bold mb-10">GATORS UNITED</div>
-                <div><i class="fa-solid fa-star text-green-500"></i><span  class="font-semibold"> 16 Seniors</span></div>
-                <div><i class="fa-solid fa-user-group text-green-500"></i> <span  class="font-semibold"> 2 Coaches</span>s</div>
-                <div><i class="fa-solid fa-calendar text-green-500"></i>&nbsp; <span  class="font-semibold"> Alter ab 17 Jahren</span></div>
-                <div><i class="fa-solid fa-trophy  text-green-500"></i> <span  class="font-semibold"> Senior Coed Level 3</span></div>
-            </div>
-            <div></div>  
+    <div class="team-header seniorheader">
+        <div class="dark"></div>
+        <div class="content team-header-content">
+            <div class="team-header-content-grid">
+                <div>    
+                    <h1>JUNIOR ALLGIRL</h1>
+                    <h1>GATORS UNITED</h1>
+                    <br>
+                    <div class="icon-wrapper">
+                        <i class="icon fa-star"></i>
+                        <span class="font-semibold"> 16 Seniors</span>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="icon fa-user-group"></i>
+                        <span  class="font-semibold"> 2 Coaches</span>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="icon fa-calendar "></i>
+                        <span  class="font-semibold"> &nbsp;&nbsp;Alter ab 17 Jahren</span>
+                    </div>
+                    <div class="icon-wrapper">
+                        <i class="icon fa-trophy"></i>
+                        <span  class="font-semibold"> Senior Coed Level 3</span>
+                    </div>
+                </div>
             </div>  
         </div>
     </div>
 
+    <!-- what we do --> 
     <div class="content-wrapper bg-white">
-        <div class="content lg:w-[70%] bg-white">
-            <div class="grid lg:grid-cols-4 gap-4 grid-cols-1 gap-1">
+        <div class="whatwedo-wrapper">
+            <div class="whatwedo">
                 <div class="col-span-2 p-10">
                     <h2>WAS WIR MACHEN</h2>
                     Unser Junior Allgirl – Team sind Mädchen im Alter zwischen 12 – 17 Jahren und sind die “Goldene Mitte”.<br>
@@ -59,43 +73,34 @@
                     <br>
 
                 </div>
-                <div class="border border-slate-500 p-10 mt-10 h-fit">
+                <div class="training-times">
                     <h2>Trainingszeiten</h2>
-                    Montag<br>
-                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;
+                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;Montag</h6><br>
                     Von 18.00 bis 20.00 Uhr<br>
                     <br>
-                    Mittwoch<br>
-                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;
+                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp; Mittwoch<br>
                     Von 17.30 bis 19.30 Uhr<br>
                     <br>
-                    Sonntag<br>
+                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;Sonntag<br>
                     Von 17.30 bis 19.30 Uhr<br>
-                    <br>
-                    <button class="anmelden w-full py-5 px-10 bg-green-500">Anmelden</button>
+                    
+                    <a href="/contact" class="btn btn-contact">
+                        Anmeldung
+                    </a>
                 </div>
-                <div class="mt-10 h-fit px-4">
+                <div class="coachbox-wrapper">
 
-                    <div class="lg:border lg:border-slate-500 pt-10">
-                        <h1>Coaches</h1>
-                        <img class="zoomable"src="{{asset('img/dl/Foto-Junior-Head-Coaches-1030x711.jpg')}}">
+                    <div class="coachbox">
+                        <h2>Coaches</h2>
+                        <img class="zoomable"src="{{asset('img/dl/Foto-Senior-Coaches-1030x747.jpg')}}">
                         <br>
-                        <h4>Headcoaches:</h4>
-                        Ali & Anki
-                        <br>
-                        <br>
-                        <img class="zoomable" src="{{asset('img/dl/Foto-Junior-Co-Coaches-1030x787.jpg')}}">
-                        <br>
-                        <h4>Co-Coaches:</h4>
-                        Nele & Emma
-                        <br>
-                        <br>
-                        <img class="zoomable" src="{{asset('img/dl/Mexo-Melisa-1030x870.jpg')}}">
+                        <h4>Guilia & Sophie</h4>
                     </div>
                 </div>
             </div>
         </div>
     </div>
+
 
     <!-- Images -->
     <div class="content-wrapper">

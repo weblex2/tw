@@ -48,7 +48,7 @@
         <div class="ml-4 absolute z-10 hidden bg-grey-200 group-hover:block bg-green-600">
 
             <div class="pb-4 shadow-lg">
-              <div class="grid grid-cols-1 gap-4 w-[203px]">
+              <div class="grid grid-cols-1 gap-4 w-full">
                 <div class="ref">Datenschutz</div>
               </div>
             </div>

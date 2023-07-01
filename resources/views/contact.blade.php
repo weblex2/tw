@@ -1,10 +1,9 @@
 <x-guest-layout>
-    <div class="content-wrapper bg-[url('../../public/img/Cheerleading.jpg')] bg-cover bg-fixed">
-        <div class="absolute w-full h-full bg-black bg-opacity-40 -mt-20 z-10"></div>
+    <div class="relative content-wrapper bg-[url('../../public/img/Cheerleading.jpg')] bg-cover bg-fixed bg-no-repeat">
+        <div class="absolute w-full h-full bg-black bg-opacity-80 -mt-20 z-10"></div>
         <div class="content  max-w-[70%] text-white z-20">
             <div class="grid grid-cols-5 gap-4">
                 <div>
-
                     <h2>IMPRESSUM</h2>
                     <div>Angaben gemäß §5 TMG:</div>
                     <div>Cheer Base Feldkirchen e.V.</div>
@@ -41,8 +40,11 @@
                                     <input class="w-full" type="text" name="betreff" placeholder="Betreff*">
                                 </div>
                                 <div class="col-span-2">
-                                    <textarea class="w-full h-25" name="content" placeholder="Nachricht*"></textarea>
+                                    <textarea class="w-full h-25" name="content" rows=10 placeholder="Nachricht*"></textarea>
                                 </div>
+                                <div class="col-span-2 align-center pt-10">
+                                    <a href="/contact" class="btn btn-submit">Senden</a>
+                                </div>    
                             </div>
                         </form>
                     </div>
