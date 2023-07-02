@@ -1,15 +1,13 @@
 <x-guest-layout>
     <div class="content-wrapper training">
-        <div class="content">
+        <div class="content flex justify-center">
             
-            <div class="grid grid-cols-5">
-                <div></div>    
+            <div class="grid grid-cols-1  lg:grid-cols-3 lg:w-[50%]">
+                  
                 <div class="col-span-3 tt">
                     <div class="h1">Trainingszeiten</div>
                 </div>
-                <div></div>
                 
-                <div></div>
                 <div class="tt">
                     <div class="w-full">
                         <div class="h2">PEEWEES</div>
@@ -62,7 +60,7 @@
                         <div>85622 Feldkirchen</div>
                     </div>    
                 </div>
-                <div></div>
+                
             </div>    
 
         </div>    
