@@ -23,8 +23,16 @@ body{
 /* NAV   */
 
 nav {
-    @apply z-10 w-full
+    @apply relative w-full bg-zinc-800 z-50 lg:flex-row lg:flex-grow pb-4 md:pb-0 flex md:justify-end flex-col lg:h-40  text-white
 }
+
+.nav-item{
+    @apply flex group-hover:bg-green-500 flex-row items-center h-full w-full px-4 py-4 mt-2 text-base font-bold text-left uppercase bg-transparent  md:w-auto md:mt-0 md:ml-4 focus:outline-none hover:bg-green-600
+}
+
+.sub-menu{
+    @apply block hidden ml-4 lg:absolute z-10 hidden group-hover:block lg:group-hover:bg-green-600
+}    
 
 nav .ref {
     @apply px-2 py-2
@@ -33,8 +41,16 @@ nav .ref:hover{
     @apply bg-green-800
 }
 
+.logo{
+    @apply flex px-2 left-5 top-2 w-[200px] absolute hidden lg:block;
+}
+
 .menu-item-wrapper{
-    @apply p-5 h-full hover:bg-green-700 hover:bg-opacity-70 items-center align-middle flex sm:bg-black
+    @apply p-5 h-full hover:bg-green-700 hover:bg-opacity-70 items-center align-middle flex 
+}
+
+.menu-item-wrapper2{
+    @apply p-5 h-full items-center align-middle flex text-white
 }
 
 .menu-item{
@@ -300,3 +316,5 @@ input[type="text"], input[type="email"], textarea{
 .btn-submit:hover{
     @apply bg-green-500 text-black 
 }
+
+
