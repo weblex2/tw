@@ -1,6 +1,7 @@
 
 <div class="nav-toggle">
-  <div class="hamburger"><i class="fa-solid fa-bars text-white"></i></div>
+  <div class='logo-sm'><img src="img/CBF_OHNE_EFFEKT_12119_neu.png" alt="Logo" class="p-4 w-[120px]" /></div>
+  <div class="hamburger text-right"><i class="fa-solid fa-bars text-white"></i></div>
 </div>
 <nav id="menu" aria-label="primary" class="">
   <div>
@@ -52,7 +53,7 @@
 
             <div class="pb-4 shadow-lg">
               <div class="grid grid-cols-1 gap-4 w-full">
-                <div class="ref">Datenschutz</div>
+                <div class="ref"><a href="/privacypolicy">Datenschutz</a></div>
               </div>
             </div>
         </div>

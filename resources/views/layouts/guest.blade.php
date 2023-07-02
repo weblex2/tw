@@ -51,7 +51,7 @@
             {{ $slot }}
         </div>
         @include('includes.footer')
-        <div class="fixed flex items-center justify-center z-10 w-20 h-20 bottom-20 right-20 border-2 border-green-800 bg-slate-500">
+        <div class="up">
           <a href="#top"><i class="fa-solid fa-chevron-up text-3xl font-extrabold"></i></a>
         </div>
     </body>

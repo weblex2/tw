@@ -20,15 +20,19 @@ body{
 /* NAV   */
 
 nav {
-    @apply hidden lg:fixed lg:relative w-full bg-zinc-800 z-50 lg:flex-row lg:flex-grow pb-4 md:pb-0 flex md:justify-end flex-col lg:h-40  text-white
+    @apply hidden lg:flex w-full bg-zinc-800 z-50 lg:flex-row lg:flex-grow pb-4 md:pb-0 md:justify-end flex-col lg:h-40  text-white
 }
 
 .nav-toggle{
-    @apply lg:hidden h-16 bg-zinc-800 flex -mb-3 flex-row-reverse items-center pr-5 pb-2
+    @apply lg:hidden h-24 bg-zinc-800 flex -mb-3  items-center pr-5 pb-2
+}
+
+.logo-sm, .hamburger{
+    @apply w-1/2
 }
 
 .nav-item{
-    @apply  lg:flex group-hover:bg-green-500 flex-row items-center h-full w-full px-4 py-4 mt-2 text-base font-bold text-left uppercase bg-transparent  md:w-auto md:mt-0 md:ml-4 focus:outline-none hover:bg-green-600
+    @apply  flex group-hover:bg-green-500 flex-row items-center h-full w-full px-4 py-4 mt-2 text-base font-bold text-left uppercase bg-transparent  md:w-auto md:mt-0 md:ml-4 focus:outline-none hover:bg-green-600
 }
 
 .sub-menu{
@@ -182,6 +186,9 @@ nav .ref:hover{
     @apply text-lg font-bold ml-1
 }
 
+.up{
+    @apply hidden lg:fixed flex items-center justify-center z-10 w-20 h-20 bottom-20 right-20 border-2 border-green-800 bg-slate-500
+}
 
 .content h1{
     @apply text-3xl font-bold mb-5
