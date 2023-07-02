@@ -20,11 +20,11 @@ body{
 /* NAV   */
 
 nav {
-    @apply hidden lg:flex w-full bg-zinc-800 z-50 lg:flex-row lg:flex-grow pb-4 md:pb-0 md:justify-end flex-col lg:h-40  text-white
+    @apply mt-0 hidden lg:flex w-full bg-zinc-800 z-50 lg:flex-row lg:flex-grow pb-4 md:pb-0 md:justify-end flex-col lg:h-40  text-white
 }
 
 .nav-toggle{
-    @apply lg:hidden h-24 bg-zinc-800 flex -mb-3  items-center pr-5 pb-2
+    @apply -mb-3 lg:hidden h-24 bg-zinc-800 flex  items-center pr-5 pb-2 border-b-2 border-white z-30
 }
 
 .logo-sm, .hamburger{
@@ -92,7 +92,7 @@ nav .ref:hover{
 }
 
 .m{
-    @apply p-5 lg:p-12
+    @apply py-10 px-3 lg:p-12
 }
 .m h1{
     @apply font-extrabold text-xl mb-3
