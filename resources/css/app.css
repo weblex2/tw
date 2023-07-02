@@ -23,7 +23,7 @@ body{
 /* NAV   */
 
 nav {
-    @apply relative w-full bg-zinc-800 z-50 lg:flex-row lg:flex-grow pb-4 md:pb-0 flex md:justify-end flex-col lg:h-40  text-white
+    @apply fixed w-full bg-zinc-800 z-50 lg:flex-row lg:flex-grow pb-4 md:pb-0 flex md:justify-end flex-col lg:h-40  text-white
 }
 
 .nav-item{
