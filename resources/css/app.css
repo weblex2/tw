@@ -20,7 +20,7 @@ body{
 /* NAV   */
 
 nav {
-    @apply mt-0 hidden lg:flex w-full bg-zinc-800 z-50 lg:flex-row lg:flex-grow pb-4 md:pb-0 md:justify-end flex-col lg:h-40  text-white
+    @apply  mt-0 hidden lg:flex w-full bg-zinc-800 z-50 lg:flex-row lg:flex-grow pb-4 md:pb-0 md:justify-end flex-col lg:h-40  text-white
 }
 
 .nav-toggle{
@@ -229,11 +229,11 @@ nav .ref:hover{
 
 
 .p {
-    @apply h-[600px] w-full flex justify-center items-center text-center align-middle text-2xl brightness-50 font-extrabold text-white duration-300;
+    @apply h-[600px] w-full flex justify-center items-center text-center align-middle text-2xl brightness-[0.25] font-extrabold text-white duration-300;
 }
 
 .p:hover{
-    @apply brightness-100 scale-110
+    @apply brightness-100 scale-125
 }
 
 .p1{
