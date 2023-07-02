@@ -185,7 +185,7 @@ nav .ref:hover{
 }
 
 .training-times, .coachbox{
-    @apply lg:border border-slate-500 lg:p-10 mt-10 h-fit lg:shadow-2xl 
+    @apply p-5 m-3 lg:m-0 border border-slate-500 lg:p-10 mt-10 h-fit lg:shadow-2xl 
 }
 .coachbox-wrapper {
     @apply  h-fit lg:px-4
