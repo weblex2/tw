@@ -103,6 +103,11 @@
         $('.closeModal').on('click', function(e){
             $('#interestModal').addClass('invisible');
         });
+
+        $('.nav-toggle').click(function(){
+          $('#menu').toggle();
+        })
+
     });
 </script>
 

@@ -4,7 +4,7 @@
             
             <div class="grid grid-cols-1  lg:grid-cols-3 lg:w-[50%]">
                   
-                <div class="col-span-3 tt">
+                <div class="lg:col-span-3 tt">
                     <div class="h1">Trainingszeiten</div>
                 </div>
                 

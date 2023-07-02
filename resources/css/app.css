@@ -11,9 +11,6 @@ body{
     @apply absolute z-30 bg-black bg-opacity-80 h-screen w-screen flex items-center justify-center text-white hidden
 }
 
-#modal{
-
-}
 
 :root {
     --main-bg-color: brown;
@@ -23,11 +20,15 @@ body{
 /* NAV   */
 
 nav {
-    @apply fixed lg:relative w-full bg-zinc-800 z-50 lg:flex-row lg:flex-grow pb-4 md:pb-0 flex md:justify-end flex-col lg:h-40  text-white
+    @apply hidden lg:fixed lg:relative w-full bg-zinc-800 z-50 lg:flex-row lg:flex-grow pb-4 md:pb-0 flex md:justify-end flex-col lg:h-40  text-white
+}
+
+.nav-toggle{
+    @apply lg:hidden h-16 bg-zinc-800 flex -mb-3 flex-row-reverse items-center pr-5 pb-2
 }
 
 .nav-item{
-    @apply flex group-hover:bg-green-500 flex-row items-center h-full w-full px-4 py-4 mt-2 text-base font-bold text-left uppercase bg-transparent  md:w-auto md:mt-0 md:ml-4 focus:outline-none hover:bg-green-600
+    @apply  lg:flex group-hover:bg-green-500 flex-row items-center h-full w-full px-4 py-4 mt-2 text-base font-bold text-left uppercase bg-transparent  md:w-auto md:mt-0 md:ml-4 focus:outline-none hover:bg-green-600
 }
 
 .sub-menu{
@@ -123,7 +124,7 @@ nav .ref:hover{
 }
 
 .team-header-content-grid{
-    @apply w-[70%] z-20 
+    @apply lg:w-[70%] z-20 
 }
 
 .team-header-content-grid div h1{

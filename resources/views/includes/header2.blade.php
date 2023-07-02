@@ -1,5 +1,8 @@
 
-<nav aria-label="primary" class="">
+<div class="nav-toggle">
+  <div class="hamburger"><i class="fa-solid fa-bars text-white"></i></div>
+</div>
+<nav id="menu" aria-label="primary" class="">
   <div>
     <a href="#" class="logo">
       <img src="img/CBF_OHNE_EFFEKT_12119_neu.png" alt="Logo" class="py-4 z-3 w-[200px]" />
@@ -56,7 +59,7 @@
   </div>
 
   <div class="relative group">
-    <div class="flex flex-row mr-10 items-center h-full  w-full px-4 py-4 mt-2 text-base font-bold text-left uppercase bg-transparent md:w-auto md:mt-0 md:ml-4 focus:outline-none">
+    <div class="nav-item">
         <a href="https://www.facebook.com/CheerBaseFeldkirchen/" target="_blank"><i class="hover:bg-blue-500 px-3 py-2 rounded-full fa-brands fa-facebook-f"></i></a>
         <a href="https://www.instagram.com/cbf_gators/?hl=de"  target="_blank"><i class="hover:bg-yellow-500 px-2 py-2 rounded-full fa-brands fa-instagram"></i></a>
     </div>
