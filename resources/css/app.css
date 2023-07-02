@@ -35,6 +35,10 @@ nav {
     @apply  flex group-hover:bg-green-500 flex-row items-center h-full w-full px-4 py-4 mt-2 text-base font-bold text-left uppercase bg-transparent  md:w-auto md:mt-0 md:ml-4 focus:outline-none hover:bg-green-600
 }
 
+.nav-item-no-hover{
+    @apply  flex flex-row items-center h-full w-full px-4 py-4 mt-2 text-base font-bold text-left uppercase bg-transparent  md:w-auto md:mt-0 md:ml-4 focus:outline-none 
+}
+
 .sub-menu{
     @apply block hidden ml-4 lg:absolute z-10 hidden group-hover:block lg:group-hover:bg-green-600
 }    
@@ -62,6 +66,8 @@ nav .ref:hover{
     @apply px-2 text-white font-semibold hover:text-slate-200 transition duration-300 font-bold
 }
 
+
+
 /* Footer */
 #footer {
     @apply bg-zinc-800
@@ -81,9 +87,12 @@ nav .ref:hover{
     @apply border-t border-green-500 p-4 bg-zinc-900 text-zinc-400 font-bold
 }
 
+.index-grid-1{
+    @apply grid grid-cols-3 text-white
+}
 
 .m{
-    @apply p-12 md:p-6
+    @apply p-5 lg:p-12
 }
 .m h1{
     @apply font-extrabold text-xl mb-3
@@ -99,7 +108,7 @@ nav .ref:hover{
 }
 
 .icon-big{
-    @apply md:p-6 p-6 border-2 border-white text-white text-2xl rounded-full
+    @apply px-3 py-2 border-2 border-white text-white text-2xl 
 }
 
 .content{
@@ -176,7 +185,7 @@ nav .ref:hover{
 }
 
 .training-times, .coachbox{
-    @apply lg:border border-slate-500 p-10 mt-10 h-fit lg:shadow-2xl 
+    @apply lg:border border-slate-500 lg:p-10 mt-10 h-fit lg:shadow-2xl 
 }
 .coachbox-wrapper {
     @apply  h-fit lg:px-4
@@ -244,7 +253,7 @@ nav .ref:hover{
 }
 
 .carousel-wrapper{
-    @apply block max-w-full max-h-[50rem] overflow-hidden mb-3
+    @apply block max-w-full max-h-[50rem] overflow-hidden 
 }
 
 .peeweeheader{

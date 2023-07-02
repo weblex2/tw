@@ -60,7 +60,7 @@
   </div>
 
   <div class="relative group">
-    <div class="nav-item">
+    <div class="nav-item-no-hover">
         <a href="https://www.facebook.com/CheerBaseFeldkirchen/" target="_blank"><i class="hover:bg-blue-500 px-3 py-2 rounded-full fa-brands fa-facebook-f"></i></a>
         <a href="https://www.instagram.com/cbf_gators/?hl=de"  target="_blank"><i class="hover:bg-yellow-500 px-2 py-2 rounded-full fa-brands fa-instagram"></i></a>
     </div>
