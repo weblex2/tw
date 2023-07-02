@@ -2,9 +2,9 @@
     <div class="bg-zinc-800">
     <div class="carousel-wrapper">
         <div class="carousel">
-            <div><img class="max-w-full w-full h-auto" src="{{  asset('img/slide1.jpg') }}"></div>
-            <div><img class="max-w-full w-full" src="{{  asset('img/slide2.jpg') }}"></div>
-            <div><img class="max-w-full w-full" src="{{  asset('img/slide3.jpg') }}"></div>
+            <div><img class="max-w-full w-full h-auto" src="{{  asset('img/dl/Verein-Ges-Slide-1-scaled.jpg') }}"></div>
+            <div><img class="max-w-full w-full" src="{{  asset('img/dl/Team-Slide-2-scaled.jpg') }}"></div>
+            <div><img class="max-w-full w-full" src="{{  asset('img/dl/X-Out-Slide-3-scaled.jpg') }}"></div>
             <div><img class="max-w-full w-full" src="{{  asset('img/slide4.jpg') }}"></div>
         </div>
     </div>   
@@ -36,16 +36,12 @@
             <div class="grid grid-cols-12 text-white">
                 <div  class="col-span-3"><i class="rounded-full icon-big px-7 py-6  fa fa-house"></i></div>
                 <div class="col-span-9">
-                    <h1>HALLEN</h1>
+                    <h1>TRAININGSZEITEN</h1>
                     <hr class="mb-3">
-                    <p>Unser Training findet statt in folgenden Hallen</p>
-                    <p><b>Gemeinschaftshalle Feldkirchen</b></p>
-                    <p>Richthofenstrasse 1</p>
-                    <p>85622 Feldkirchen</p>
-                    <br>
-                    <p><b>Sporthalle Feldkirchen</b></p>
-                    <p>Olympiastraße 1</p>
-                    <p>85622 Feldkirchen</p>
+                    <p>Weitere Informationen zu unseren 
+                        <a href="http://cheer-base.de/timetable"><strong>Trainingszeiten</strong> </a>
+                        finden Sie <a href="http://cheer-base.de/timetable">hier</a>.
+                    </p>
                 </div>
                 </div>
         </div>
@@ -63,18 +59,15 @@
         </div>
     </div>    
 
-    <div class="grid grid-cols-1 lg:grid-cols-4 gap-4 px-3 mb-3">
-       <div class="wrapper overflow-hidden">
-        <div class="p p1">PEEWEES</div> 
+    <div class="index-pic-wrapper">
+       <div class="wrapper overflow-hidden m-2">
+        <div class="p p1">JUNIORS</div> 
        </div> 
-       <div class="wrapper overflow-hidden">
-        <div class="p p2">SENIORS</div>
+       <div class="wrapper overflow-hidden m-2">
+        <div class="p p2">PEEWEES</div>
        </div>
-       <div class="wrapper overflow-hidden"> 
-        <div class="p p3">JUNIORS ALLGIRL</div>
-       </div>
-       <div class="wrapper overflow-hidden"> 
-       <div class="p p4">JUNIORS COED</div>
+       <div class="wrapper overflow-hidden m-2"> 
+        <div class="p p3">SENIORS</div>
        </div>
     </div>   
 
@@ -92,7 +85,7 @@
             <div class="text-3xl text-stone-300">gegründet</div>
         </div>  
         <div class="bg-stone-400 text-white text-center align-middle p-10">
-            <div class="text-5xl font-extrabold">4</div>
+            <div class="text-5xl font-extrabold">3</div>
             <div class="text-3xl text-stone-300">Teams</div>
         </div>   
     </div>  

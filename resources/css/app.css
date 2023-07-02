@@ -91,6 +91,10 @@ nav .ref:hover{
     @apply grid grid-cols-3 text-white
 }
 
+.index-pic-wrapper{
+    @apply grid grid-cols-1 lg:grid-cols-3 py-3
+}
+
 .m{
     @apply py-10 px-3 lg:p-12
 }
@@ -225,7 +229,7 @@ nav .ref:hover{
 
 
 .p {
-    @apply p1 h-96 flex justify-center items-center text-center align-middle text-2xl brightness-50 font-extrabold text-white duration-300;
+    @apply h-[600px] w-full flex justify-center items-center text-center align-middle text-2xl brightness-50 font-extrabold text-white duration-300;
 }
 
 .p:hover{
@@ -233,15 +237,17 @@ nav .ref:hover{
 }
 
 .p1{
-    background-image: url(../../public/img/peewees3-705x609.jpg);
+    background-image: url(../../public/img/dl/Beitragsbild-Juniors.jpg);
+    @apply bg-cover
 }
 
 .p2{
-    background-image: url(../../public/img/slider2-705x470.jpg);
+    background-image: url(../../public/img/dl/Peewees-Beitragsbild.jpg);
+    @apply bg-cover
 }
 
 .p3{
-    background-image: url(../../public/img/cheer_schleife1-705x441.jpg);
+    background-image: url(../../public/img/dl/Beitragsbild-Seniors.jpg);
 }
 
 .p4{
