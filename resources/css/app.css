@@ -233,7 +233,7 @@ nav .ref:hover{
 }
 
 .p:hover{
-    @apply brightness-100 scale-125
+    @apply brightness-100 scale-110
 }
 
 .p1{

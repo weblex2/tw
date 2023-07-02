@@ -2,9 +2,9 @@
     <div class="bg-zinc-800">
     <div class="carousel-wrapper">
         <div class="carousel">
-            <div><img class="max-w-full w-full h-auto" src="{{  asset('img/dl/Verein-Ges-Slide-1-scaled.jpg') }}"></div>
-            <div><img class="max-w-full w-full" src="{{  asset('img/dl/Team-Slide-2-scaled.jpg') }}"></div>
-            <div><img class="max-w-full w-full" src="{{  asset('img/dl/X-Out-Slide-3-scaled.jpg') }}"></div>
+            <div><img class="max-w-full w-full h-full bg-cover" src="{{  asset('img/dl/Verein-Ges-Slide-1-scaled.jpg') }}"></div>
+            <div><img class="max-w-full w-full h-full" src="{{  asset('img/dl/Team-Slide-2-scaled.jpg') }}"></div>
+            <div><img class="max-w-full w-full h-full" src="{{  asset('img/dl/X-Out-Slide-3-scaled.jpg') }}"></div>
         </div>
     </div>   
     
