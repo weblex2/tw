@@ -9,14 +9,14 @@
                     </div>
                     <div>
                         <div class="pt-10 lg:text-center">
-                            <div><span class="text-5xl">107</span> <span class="text-4xl text-zinc-600">Mitglieder</span></div>
-                            <div><span class="text-xl">in unseren Teams</span></div>
+                            <div><span class="text-5xl mr-2">107</span><span class="text-4xl text-zinc-600">Mitglieder</span></div>
+                            <div class="text-xl mt-2">in unseren Teams</div>
                         </div>
                     </div>
                     <div>
                         <div class="pt-10 lg:text-center">
-                            <div><span class="text-5xl">8</span> <span class="text-4xl text-zinc-600">Coaches</span></div>
-                            <div><span class="text-xl">für Peewees, Juniors &<br> Seniors</span></div>
+                            <div><span class="text-5xl mr-2">8</span> <span class="text-4xl text-zinc-600">Coaches</span></div>
+                            <div class="text-xl mt-2">für Peewees, Juniors &<br> Seniors</div>
                         </div>
                     </div>
                 </div>
