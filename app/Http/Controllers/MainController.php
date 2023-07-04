@@ -8,18 +8,21 @@ use Mail;
 class MainController extends Controller
 {
     public function index(){
-        $this->sendMail('alex@noppenberger.org','Hi', 'Ho');
-        #return view('index');
+        //$this->sendMail('alex@noppenberger.org','Hi', 'Ho');
+        return view('index');
     }
 
-    public function sendMail($name, $firstname, $to, $subject, $body) {
+    public function sendMail(Request $request) {
+        $name = $request->name;
+        $firstname = $request->firstname;
+        $subject   = $request->subject;
+        $body = $request->body;
         $data = array('name'=>$name." ".$firstname);
 
-        Mail::send(['text'=>'mail'], $data, function($message) {
+        Mail::send(['html'=>'mail'], $data, function($message) {
             $message->to('alex@noppenberger.org', 'Tutorials Point')->subject
             ('Laravel Basic Testing Mail');
             $message->from('alex@noppenberger.org','Virat Gandhi');
         });
-        echo "Sent!";
     }
 }

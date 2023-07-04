@@ -49,11 +49,10 @@
         <div class="nav-item">
             <span>Kontakt / Impressum</span>
         </div>
-        <div class="sub-menu">
-
-            <div class="pb-4 shadow-lg">
+        <div class="sub-menu w-full">
+            <div class="pb-4 shadow-lg w-full">
               <div class="grid grid-cols-1 gap-4 w-full">
-                <div class="ref"><a href="/privacypolicy">Datenschutz</a></div>
+                <div class="ref w-full"><a href="/privacypolicy">Datenschutz</a></div>
               </div>
             </div>
         </div>
