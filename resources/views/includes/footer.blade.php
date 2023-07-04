@@ -6,45 +6,45 @@
             </div>
             <div class="pt-8 text-gray-300">
                 <div>Vorsitzende:</div>
-                <div>Christine Puzicha</div>                 
+                <div>Christine Puzicha</div>
                 <div>Wolframstrasse 20</div>
                 <div>85652 Pliening</div>
                 <div>Deutschland</div>
                 <div>Mobil: 0177 6293472</div>
                 <div>Email: <a href="mailto:info@cheer-base.com">info@cheer-base.com</a></div>
-            </div>    
+            </div>
         </div>
         <div class="px-5">
             <div class="border-t border-b border-gray-500 py-4">
                 <h2>IMPRESSUM</h2>
             </div>
             <div  class="pt-8 text-gray-300">
-                <div>Angaben gemäss §5 TMG:</div>                 
+                <div>Angaben gemäss §5 TMG:</div>
                 <div>Cheer Base Feldkirchen e.V.</div>
                 <div>Wolframstrasse 20</div>
                 <div>85652 Pliening</div>
                 <div><a href="/datenschutz">Datenschutzrichtlinien</a></div>
                 <div>Design & Programmierung:</div>
                 <div><a href="#">no.brand Werbeagentur</a></div>
-            </div>    
+            </div>
         </div>
         <div class="px-5">
             <div class="border-t border-b border-gray-500 py-4">
                 <h2>MITGLIED VON</h2>
-            </div>    
+            </div>
             <div class="pt-8 text-gray-300">
                 <div><img src='img/ccvd_logo.freigestellt-1.png'></div><br>
                 <div><img src='img/gymcheer.png'></div>
             </div>
         </div>
     </div>
-</div>    
+</div>
 <div class="copyright flex justify-center items-center ">
     <div class="text-xs text-white  w-[75%] pt-2">
         <div class="copy float-left pl-10 ">© Cheer Base Feldkirchen e.V. | Made with ♡ by no.brand Werbeagentur</div>
-        <div class="social float-right pr-10">
+        <div class="social">
             <a href="https://www.facebook.com/CheerBaseFeldkirchen/" target="_blank"><i class="text-xs hover:bg-blue-500 -mt-3 px-3 py-2 rounded-full fa-brands fa-facebook-f"></i></a>
             <a href="https://www.instagram.com/cbf_gators/?hl=de"  target="_blank"><i class="text-xs hover:bg-yellow-500 -mt-3 px-3 py-2 rounded-full fa-brands fa-instagram"></i></a>
         </div>
     </div>
-</div>  
+</div>

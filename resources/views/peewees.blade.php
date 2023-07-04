@@ -3,7 +3,7 @@
         <div class="dark"></div>
         <div class="content team-header-content">
             <div class="team-header-content-grid">
-                <div>    
+                <div>
                     <h1>PEEWEES</h1>
                     <h1>GATORS RISE</h1>
                     <br>
@@ -24,15 +24,15 @@
                         <span  class="font-semibold"> Level 1</span>
                     </div>
                 </div>
-            </div>  
+            </div>
         </div>
     </div>
-    
-    <!-- what we do --> 
+
+    <!-- what we do -->
     <div class="content-wrapper bg-white">
         <div class="whatwedo-wrapper">
             <div class="whatwedo">
-                <div class="col-span-2 p-10">
+                <div class="col-span-5 p-10">
                     <h2>WAS WIR MACHEN</h2>
                     Unser Junior Allgirl – Team sind Mädchen im Alter zwischen 12 – 17 Jahren und sind die “Goldene Mitte”.<br>
                     <br>
@@ -80,13 +80,12 @@
                     <br>
                     <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;<span class="day">Sonntag</span><br>
                     Von 17.30 bis 19.30 Uhr<br>
-                    
+
                     <a href="/contact" class="btn btn-contact">
                         Probetraining <br>auf Anfrage
                     </a>
                 </div>
                 <div class="coachbox-wrapper">
-
                     <div class="coachbox">
                         <h2>Coaches</h2>
                         <img class="zoomable"src="{{asset('img/dl/Foto-Peewee-Coaches-1030x749.jpg')}}">
@@ -108,6 +107,6 @@
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/peewee/schleifen-1030x1030.jpg') }}"></div>
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/peewee/Foto-Gators-Rise-Aufstellung-2-1030x773.jpg')}}"></div>
         </div>
-    </div>  
+    </div>
 
 </x-guest-layout>

@@ -1,24 +1,24 @@
 <x-guest-layout>
     <div class="content-wrapper training">
         <div class="content flex justify-center">
-            
-            <div class="grid grid-cols-1  lg:grid-cols-3 lg:w-[50%]">
-                  
-                <div class="lg:col-span-3 tt">
+
+            <div class="grid grid-cols-1 w-[75%] ml-20 lg:grid-cols-3">
+
+                <div class="col-span-3 tt">
                     <div class="h1">Trainingszeiten</div>
                 </div>
-                
+
                 <div class="tt">
                     <div class="w-full">
                         <div class="h2">PEEWEES</div>
-                    </div> 
+                    </div>
                     <h3>Trainingszeiten</h3>
                     <div>
                         <div>Mittwoch: 17.30 Uhr – 19.30 Uhr</div>
                         <div>Gemeindehalle Feldkirchen</div>
                         <div>Richthofenstrasse 1</div>
                         <div>85622 Feldkirchen</div>
-                        <br/>    
+                        <br/>
                         <div>Sonntag: 17.00 Uhr – 19.00 Uhr</div>
                         <div>Gemeindehalle Feldkirchen</div>
                         <div>Richthofenstrasse 1</div>
@@ -33,12 +33,12 @@
                         <div>Dreifachturnhalle Feldkirchen</div>
                         <div>Olympiastr. 1</div>
                         <div>85622 Feldkirchen</div>
-                        <br/> 
+                        <br/>
                         <div>Mittwoch: 17.30 Uhr – 19.30 Uhr</div>
                         <div>Gemeindehalle Feldkirchen</div>
                         <div>Richthofenstrasse 1</div>
                         <div>85622 Feldkirchen</div>
-                        <br/> 
+                        <br/>
                         <div>Sonntag: 17.00 Uhr – 19.00 Uhr</div>
                         <div>Gemeindehalle Feldkirchen</div>
                         <div>Richthofenstrasse 1</div>
@@ -58,11 +58,11 @@
                         <div>Gemeindehalle Feldkirchen</div>
                         <div>Richthofenstrasse 1</div>
                         <div>85622 Feldkirchen</div>
-                    </div>    
+                    </div>
                 </div>
-                
-            </div>    
 
-        </div>    
-    </div>      
+            </div>
+
+        </div>
+    </div>
 </x-guest-layout>

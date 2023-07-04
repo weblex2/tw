@@ -3,7 +3,7 @@
         <div class="dark"></div>
         <div class="content team-header-content">
             <div class="team-header-content-grid">
-                <div>    
+                <div>
                     <h1>JUNIOR ALLGIRL</h1>
                     <h1>GATORS UNITED</h1>
                     <br>
@@ -24,15 +24,15 @@
                         <span  class="font-semibold"> Junior Allgirl Level 3</span>
                     </div>
                 </div>
-            </div>  
+            </div>
         </div>
     </div>
- 
-    <!-- what we do --> 
+
+    <!-- what we do -->
     <div class="content-wrapper bg-white">
         <div class="whatwedo-wrapper">
             <div class="whatwedo">
-                <div class="row1">
+                <div class="col-span-5 p-10">
                     <h2>WAS WIR MACHEN</h2>
                     Unser Junior Allgirl – Team sind Mädchen im Alter zwischen 12 – 17 Jahren und sind die “Goldene Mitte”.<br>
                     <br>
@@ -73,7 +73,7 @@
                     <br>
 
                 </div>
-                <div class="training-times">
+                <div class="training-times col-span-3">
                     <h2>Trainingszeiten</h2>
                     <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;Montag</h6><br>
                     Von 18.00 bis 20.00 Uhr<br>
@@ -83,7 +83,7 @@
                     <br>
                     <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;Sonntag<br>
                     Von 17.30 bis 19.30 Uhr<br>
-                    
+
                     <button href="/contact" class="btn btn-contact">
                         Anmeldung
                     </button>
@@ -123,5 +123,5 @@
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/juniors/J-LM.jpg') }}"></div>
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/juniors/1672157573761-1030x773.jpg')}}"></div>
         </div>
-    </div>   
+    </div>
 </x-guest-layout>

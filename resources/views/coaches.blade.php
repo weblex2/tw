@@ -1,35 +1,34 @@
 <x-guest-layout>
-    <div class="content-wrapper flex justify-center p-24">
+    <div class="content-wrapper flex p-20">
         <div class="content">
-            <div>
-                <div class="grid grid-cols-4 gap-5">
-                    <div class="col-span-4"><h1 class="text-6xl">Unser Team</h1></div>
-                    <div class="col-span-2 text-zinc-600 font-semibold">
-                        2013 haben wir ganz klein als eigener Verein begonnen. Mittlerweile sind wir zu einem großen mitgliederstarken Verein herangewachsen.
+                <div class="grid grid-cols-1 lg:grid-cols-4 gap-2">
+                    <div class="lg:col-span-4"><h1>Unser Team</h1></div>
+                    <div class="lg:col-span-2 text-xl text-zinc-600 font-semibold flex items-center">
+                        2013 haben wir ganz klein als eigener Verein begonnen.<br>
+                        Mittlerweile sind wir zu einem großen mitgliederstarken Verein herangewachsen.
                     </div>
                     <div>
-                        <div class="text-center">
+                        <div class="pt-10 lg:text-center">
                             <div><span class="text-5xl">107</span> <span class="text-4xl text-zinc-600">Mitglieder</span></div>
                             <div><span class="text-xl">in unseren Teams</span></div>
                         </div>
                     </div>
                     <div>
-                        <div class="text-center">
+                        <div class="pt-10 lg:text-center">
                             <div><span class="text-5xl">8</span> <span class="text-4xl text-zinc-600">Coaches</span></div>
                             <div><span class="text-xl">für Peewees, Juniors &<br> Seniors</span></div>
                         </div>
                     </div>
                 </div>
-            </div>
         </div>
     </div>
 
 
-    <div class="grid grid-cols-3 coachesgrid">
+    <div class="grid grid-cols-1 lg:grid-cols-3 coachesgrid">
         <!-- 1. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-auto bg-scroll bg-[url('../../public/img/Foto-Coach-Lea-II.jpg')]">
         </div>
-        <div class="bg-black text-white p-20 flex  items-center">
+        <div class="coach-info-1">
             <div>
             <h1>LEA</h1>
             <div>Peewee Head-Coach</div>
@@ -47,7 +46,7 @@
         <!-- 2. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Lena-Marie-1.jpg')]">
         </div>
-        <div class="bg-black text-white p-20 flex items-center">
+        <div class="coach-info-1">
             <div>
                 <h1>LENA-MARIE</h1>
                 <div>Peewee Coach</div>
@@ -66,7 +65,7 @@
         <!-- 3. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Jasi-bearbeitet.jpg')]">
         </div>
-        <div class="bg-black text-white p-20 flex items-center">
+        <div class="coach-info-1">
             <div>
                 <h1>JASI</h1>
                 <div>Peewee Coach</div>
@@ -85,7 +84,7 @@
         <!-- 4. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Ali.jpg')]">
         </div>
-        <div class="bg-black text-white p-20 flex items-center">
+        <div class="coach-info-1">
             <div>
                 <h1>ALI</h1>
                 <div>Junior Head-Coach</div>
@@ -104,7 +103,7 @@
         <!-- 5. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Anki-bearbeitet.jpg')]">
         </div>
-        <div class="bg-black text-white p-20 flex items-center">
+        <div class="coach-info-1">
             <div>
                 <h1>ANKI</h1>
                 <div>Junior Head-Coach</div>
@@ -123,7 +122,7 @@
         <!-- 6. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Nele-III.jpg')]">
         </div>
-        <div class="bg-black text-white p-20 flex items-center">
+        <div class="coach-info-1">
             <div>
                 <h1>NELE</h1>
                 <div>Junior Coach</div>
@@ -142,7 +141,7 @@
         <!-- 7. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Mexo.jpg')]">
         </div>
-        <div class="bg-black text-white p-20 flex items-center">
+        <div class="coach-info-1">
             <div>
                 <h1>MEXO</h1>
                 <div>Junior Assitant-Coach</div>
@@ -161,7 +160,7 @@
         <!-- 8. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Sophie-bearbeitet.jpg')]">
         </div>
-        <div class="bg-black text-white p-20 flex items-center">
+        <div class="coach-info-1">
             <div>
                 <h1>SOPHIE</h1>
                 <div>Senior Head-Coach</div>
@@ -180,7 +179,7 @@
         <!-- 9. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Vorstand-Christine-Puzicha-bearbeitet.jpg')]">
         </div>
-        <div class="bg-black text-white p-20 flex items-center">
+        <div class="coach-info-1">
             <div>
                 <h1>CHRISTINE</h1>
                 <div>Position: 1. Vorsitzende</div>
@@ -198,7 +197,7 @@
         <!-- 10. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Lea-VS-1030x1024.jpg')]">
         </div>
-        <div class="bg-black text-white p-20 flex items-center">
+        <div class="coach-info-1">
             <div>
                 <h1>LEA</h1>
                 <div>Position: 2. Vorsitzende</div>
@@ -216,7 +215,7 @@
         <!-- 11. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Doreen-VS-994x1030.jpg')]">
         </div>
-        <div class="bg-black text-white p-20 flex items-center">
+        <div class="coach-info-1">
             <div>
                 <h1>DOREEN</h1>
                 <div>Position: Kassier</div>
@@ -234,7 +233,7 @@
         <!-- 12. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Thomas-VS-951x1030.jpg')]">
         </div>
-        <div class="bg-black text-white p-20 flex items-center">
+        <div class="coach-info-1">
             <div>
                 <h1>THOMAS</h1>
                 <div>Position: Schriftführer / Jugendbeauftragter</div>
@@ -243,17 +242,20 @@
             </div>
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
-            <h2>Über Thomas:</h2>
-            Thomas ist seit 2022 Schriftführer u. Jugendbeauftragter der Cheerbase Feldkirchen e.V.
+            <div>
+                <h2>Über Thomas:</h2>
+                Thomas ist seit 2022 Schriftführer u. Jugendbeauftragter der Cheerbase Feldkirchen e.V.
+            </div>
         </div>
+
     </div>
     <div class="content-wrapper">
-        <div class="content flex items-center justify-center pt-20">
-            <div class="">
+        <div class="content flex items-center justify-center p-20">
+            <div>
                 <div class="text-5xl flex items-center justify-center mb-2">HABEN SIE INTERESSE, </div>
-                <div class="text-5xl flex items-center justify-center mb-20">UNSER TEAM ZU VERSTÄRKEN?</div>
+                <div class="text-5xl flex items-center justify-center mb-10">UNSER TEAM ZU VERSTÄRKEN?</div>
                 <div class="flex items-center justify-center">
-                    Wir suchen Verstärkung in unserem Team
+                    <div class="text-xl">Wir suchen Verstärkung in unserem Team</div>
                 </div>
                 <div class="flex items-center justify-center py-10">
                 <a href="/contact" class="text-xs font-bold bg-green-500 px-10 py-5 anmelden">Bewerben Sie sich jetzt</a>
