@@ -24,7 +24,7 @@ nav {
 }
 
 .nav-toggle{
-    @apply -mb-3 lg:hidden w-full fixed h-24 bg-zinc-800 flex  items-center pr-5 pb-2 border-b-2 border-white z-30
+    @apply -mb-3 lg:hidden w-full relative h-24 bg-zinc-800 flex  items-center pr-5 pb-2 border-b-2 border-white z-30
 }
 
 .logo-sm, .hamburger{
