@@ -2,8 +2,9 @@
     <div class="main-content">
     <div class="relative content-wrapper bg-[url('../../public/img/Cheerleading.jpg')] bg-cover bg-fixed bg-no-repeat">
         <div class="absolute w-full h-full bg-black bg-opacity-80  z-10"></div>
-        <div class="content  max-w-[70%] text-white z-20">
-            <div class="grid grid-cols-5 gap-4">
+        <div class="content  max-w-[80%] lg:max-w-[70%] text-white z-20">
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+
                 <div>
                     <h2>IMPRESSUM</h2>
                     <div>Angaben gemäß §5 TMG:</div>
@@ -27,26 +28,25 @@
                     <h2>DESIGN/PROGRAMMIERUNG:</h2>
                     <div>no.brand Werbeagentur</div>
                 </div>
-                <div></div>
-                <div class="col-span-3">
 
-                    <div class="contact p-10">
+                <div>
+                    <div class="contact py-5 lg:py-0 lg:px-10">
                         <form id="frmContact" action="" method="">
                             @csrf
-                            <div class="grid grid-cols-2 gap-4">
-                                <div class="col-span-2 relative">
+                            <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+                                <div class="lg:col-span-2 relative">
                                     <div class="msg-success">Email wurde verschickt!</div>
                                     <h1>Kontakt</h1>
                                 </div>
                                 <div><input class="w-full" type="text" id="name" name="name" placeholder="Name*" value="Alex Noppenberger"></div>
                                 <div><input class="w-full" type="email" id="email" name="email" placeholder="Email*" value="alex@noppal.de"></div>
-                                <div class="col-span-2">
+                                <div class="lg:col-span-2">
                                     <input class="w-full" type="text" id="subject" name="betreff" placeholder="Betreff*" value="Betreff">
                                 </div>
-                                <div class="col-span-2">
+                                <div class="lg:col-span-2">
                                     <textarea class="w-full h-25" id="content" name="content" rows=10 placeholder="Nachricht*">Nachricht bla bla</textarea>
                                 </div>
-                                <div class="col-span-2 align-center pt-10">
+                                <div class="lg:col-span-2 align-center pt-10">
                                     <button type='button' onclick="sendMail()" class="btn btn-submit">Senden</button>
                                 </div>
                             </div>
@@ -56,7 +56,7 @@
             </div>
         </div>
     </div>
-    </div>
+
     <script>
 
         function hideMessage(){
