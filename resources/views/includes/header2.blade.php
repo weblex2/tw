@@ -21,8 +21,8 @@
             <span>Unser Team</span>
         </div>
         <div class="sub-menu">
-            <div class="pb-4 shadow-lg">
-              <div class="w-[200px] ">
+            <div class="pb-4 lg:shadow-lg">
+              <div class="lg:w-[200px] ">
                 <div class="ref"><a href="/peewees">Peewees</a></div>
                 <div class="ref"><a href="/juniors">Juniors</a></div>
                 <div class="ref"><a href="/seniors">Seniors</a></div>

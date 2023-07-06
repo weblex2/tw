@@ -2,9 +2,9 @@
     <div class="content-wrapper training">
         <div class="content flex justify-center">
 
-            <div class="grid grid-cols-1 w-[75%] ml-20 lg:grid-cols-3">
+            <div class="grid grid-cols-1 w-[75%] lg:ml-20 lg:grid-cols-3">
 
-                <div class="col-span-3 tt">
+                <div class="lg:col-span-3 tt">
                     <div class="h1">Trainingszeiten</div>
                 </div>
 
