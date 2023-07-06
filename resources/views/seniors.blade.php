@@ -1,5 +1,5 @@
 <x-guest-layout>
-    <div class="team-header seniorheader">
+    <div class="team-header seniorheader ">
         <div class="dark"></div>
         <div class="content team-header-content">
             <div class="team-header-content-grid">

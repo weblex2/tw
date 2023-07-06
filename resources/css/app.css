@@ -149,7 +149,7 @@ nav .ref:hover{
 }
 
 .team-header-content-grid div h1{
-    @apply text-7xl text-white font-bold
+    @apply text-6xl lg:text-7xl text-white font-bold
 }
 
 .team-header-content-grid .icon-wrapper{
