@@ -1,14 +1,10 @@
 <x-guest-layout>
     <div class="main-content">
-    <div class="content-wrapper p-10">
-        <div class="grid grid-cols-5">
+    <div class="flex justify-center py-10 lg:py-20">
 
-        <div></div>
-        <div class="col-span-3"><h1>DATENSCHUTZERKLÄRUNG</h1></div>
-        <div></div>
+        <div class="datenschutz">
+        <div><h1>DATENSCHUTZERKLÄRUNG</h1></div>
 
-        <div></div>
-        <div class="col-span-3">
         Verantwortliche Stelle im Sinne der Datenschutzgesetze ist:<br/>
         Cheer Base Feldkirchen e.V.<br/>
         <br/>
@@ -23,7 +19,7 @@
         Diese Webseite verwendet Google Maps API, um geographische Informationen visuell darzustellen. Bei der Nutzung von Google Maps werden von Google auch Daten über die Nutzung der Kartenfunktionen durch Besucher erhoben, verarbeitet und genutzt. Nähere Informationen über die Datenverarbeitung durch Google können Sie <a href="">den Google-Datenschutzhinweisen</a> entnehmen. Dort können Sie im Datenschutzcenter auch Ihre persönlichen Datenschutz-Einstellungen verändern.<br/>
         <br/>
         Ausführliche Anleitungen zur Verwaltung der eigenen Daten im Zusammenhang mit Google-Produkten finden Sie hier.
-        <br/>
+        <br/><br/>
         <h2>Verwendung von Google Analytics</h2>
         Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. (folgend: Google). Google Analytics verwendet sog. „Cookies“, also Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Webseite durch Sie ermöglichen. Die durch das Cookie erzeugten Informationen über Ihre Benutzung dieser Webseite werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Aufgrund der Aktivierung der IP-Anonymisierung auf diesen Webseiten, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Webseite auszuwerten, um Reports über die Webseitenaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Webseitenbetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt.<br/>
         <br/>
@@ -83,7 +79,6 @@
         Die Datenschutzerklärung wurde mit dem Datenschutzerklärungs-Generator der activeMind AG erstellt.
         </div>
 
-    </div>
     </div>
     </div>
 </x-guest-layout>

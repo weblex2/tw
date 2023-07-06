@@ -128,6 +128,10 @@ nav .ref:hover{
     font-family: 'Lato', sans-serif;
 }
 
+.datenschutz{
+    @apply p-3 lg:w-[75%];
+}
+
 .content-wrapper{
     @apply  text-black flex w-full justify-center  sm:w-full
 }
@@ -219,11 +223,11 @@ nav .ref:hover{
     @apply hidden lg:fixed flex items-center justify-center z-10 w-20 h-20 bottom-20 right-20 border-2 border-green-800 bg-slate-500
 }
 
-.content h1{
-    @apply text-5xl font-bold mb-5
+.content h1, .datenschutz h1{
+    @apply text-2xl lg:text-5xl font-bold mb-5
 }
 
-.content h2{
+.content h2, .datenschutz h2{
     @apply text-2xl font-bold mb-3
 }
 

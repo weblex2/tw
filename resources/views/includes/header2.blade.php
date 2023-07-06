@@ -1,11 +1,13 @@
 
 <div class="nav-toggle">
-  <div class='logo-sm'><img src="img/CBF_OHNE_EFFEKT_12119_neu.png" alt="Logo" class="p-4 w-[120px]" /></div>
+  <div class='logo-sm'>
+      <a href="/home"><img src="img/CBF_OHNE_EFFEKT_12119_neu.png" alt="Logo" class="p-4 w-[120px]" /></a>
+  </div>
   <div class="hamburger text-right"><i class="fa-solid fa-bars text-white"></i></div>
 </div>
 <nav id="menu" aria-label="primary" class="">
   <div>
-    <a href="#" class="logo">
+    <a href="/index" class="logo">
       <img src="img/CBF_OHNE_EFFEKT_12119_neu.png" alt="Logo" class="py-4 z-3 w-[200px]" />
     </a>
   </div>
