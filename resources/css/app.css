@@ -282,8 +282,17 @@ nav .ref:hover{
     @apply w-full max-w-full
 }
 
+.slick-slide {
+    height: calc(100% - 24rem);
+    @apply   w-full;
+}
+
+.slick-slide img {
+    height:800px;
+}
+
 .carousel-wrapper{
-    @apply  block max-w-full max-h-[50rem] overflow-hidden
+    @apply  block max-w-full max-h-[70rem] overflow-hidden
 }
 
 .peeweeheader{
