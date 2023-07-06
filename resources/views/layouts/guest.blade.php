@@ -40,7 +40,7 @@
             $route = Route::current()->uri();
             $opacity = " bg-opacity-100 ";
             if ($route=="/"){
-                $opacity = " bg-opacity-0 ";
+                $opacity = " bg-opacity-100 ";
             }
         @endphp
 
