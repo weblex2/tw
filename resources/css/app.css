@@ -180,8 +180,11 @@ nav .ref:hover{
     @apply lg:col-span-2 p-10 col-span-1
 }
 
+.tt{
+    @apply mb-10
+}
 .tt .h1{
-    @apply text-5xl font-bold mb-10
+    @apply text-4xl lg:text-5xl font-bold lg:mb-10
 }
 
 .tt .h2{
