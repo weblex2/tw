@@ -1,4 +1,5 @@
 <x-guest-layout>
+    <div class="main-content">
     <div class="team-header juniorheader">
         <div class="dark"></div>
         <div class="content team-header-content">
@@ -123,5 +124,7 @@
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/juniors/J-LM.jpg') }}"></div>
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/juniors/1672157573761-1030x773.jpg')}}"></div>
         </div>
+    </div>
+
     </div>
 </x-guest-layout>

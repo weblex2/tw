@@ -1,25 +1,14 @@
 <x-guest-layout>
-   
-    <div class="relative pt-20 h-25 bg-slate-500  w-full text-slate-100">
-        blubb<br>
-        blubb<br>
-        blubb<br>
-        blubb<br>
-        blubb<br>
-        blubb<br>
-        blubb<br>
-        blubb<br>
-        blubb<br>
-    </div>  
-    <div class="relative content-wrapper-center">
+    <div class="main-content">
+    <div class="content-wrapper p-10">
         <div class="grid grid-cols-5">
-        
+
         <div></div>
-        <div class="col-span-3"><h1>DATENSCHUTZERKLÄRUNG</h1></div>        
+        <div class="col-span-3"><h1>DATENSCHUTZERKLÄRUNG</h1></div>
         <div></div>
 
         <div></div>
-        <div class="col-span-3">    
+        <div class="col-span-3">
         Verantwortliche Stelle im Sinne der Datenschutzgesetze ist:<br/>
         Cheer Base Feldkirchen e.V.<br/>
         <br/>
@@ -93,6 +82,8 @@
 
         Die Datenschutzerklärung wurde mit dem Datenschutzerklärungs-Generator der activeMind AG erstellt.
         </div>
-        <div></div>
-    </div>       
+
+    </div>
+    </div>
+    </div>
 </x-guest-layout>

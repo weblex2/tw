@@ -1,4 +1,5 @@
 <x-guest-layout>
+    <div class="main-content">
     <div class="content-wrapper flex p-20">
         <div class="content">
                 <div class="grid grid-cols-1 lg:grid-cols-4 gap-2">
@@ -262,6 +263,7 @@
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </x-guest-layout>
 

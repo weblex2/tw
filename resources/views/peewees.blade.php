@@ -1,4 +1,5 @@
 <x-guest-layout>
+    <div class="main-content">
     <div class="team-header peeweeheader">
         <div class="dark"></div>
         <div class="content team-header-content">
@@ -108,5 +109,5 @@
             <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/peewee/Foto-Gators-Rise-Aufstellung-2-1030x773.jpg')}}"></div>
         </div>
     </div>
-
+    </div>
 </x-guest-layout>

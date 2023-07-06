@@ -1,4 +1,5 @@
 <x-guest-layout>
+    <div class="main-content">
     <div class="content-wrapper training">
         <div class="content flex justify-center">
 
@@ -64,5 +65,6 @@
             </div>
 
         </div>
+    </div>
     </div>
 </x-guest-layout>

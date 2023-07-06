@@ -1,4 +1,5 @@
 <x-guest-layout>
+    <div class="main-content">
     <div class="relative content-wrapper bg-[url('../../public/img/Cheerleading.jpg')] bg-cover bg-fixed bg-no-repeat">
         <div class="absolute w-full h-full bg-black bg-opacity-80  z-10"></div>
         <div class="content  max-w-[70%] text-white z-20">
@@ -44,12 +45,13 @@
                                 </div>
                                 <div class="col-span-2 align-center pt-10">
                                     <a href="/contact" class="btn btn-submit">Senden</a>
-                                </div>    
+                                </div>
                             </div>
                         </form>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
     </div>
 </x-guest-layout>
