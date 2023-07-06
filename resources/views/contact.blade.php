@@ -31,20 +31,20 @@
                 <div class="col-span-3">
 
                     <div class="contact p-10">
-                        <form id="frmContact">
+                        <form id="frmContact" action="" method="">
                             @csrf
                             <div class="grid grid-cols-2 gap-4">
                                 <div class="col-span-2"><h1>Kontakt</h1></div>
-                                <div><input class="w-full" type="text" name="name" placeholder="Name*"></div>
-                                <div><input class="w-full" type="email" name="email" placeholder="Email*"></div>
+                                <div><input class="w-full" type="text" id="name" name="name" placeholder="Name*" value="Alex Noppenberger"></div>
+                                <div><input class="w-full" type="email" id="email" name="email" placeholder="Email*" value="alex@noppal.de"></div>
                                 <div class="col-span-2">
-                                    <input class="w-full" type="text" name="betreff" placeholder="Betreff*">
+                                    <input class="w-full" type="text" id="subject" name="betreff" placeholder="Betreff*" value="Betreff">
                                 </div>
                                 <div class="col-span-2">
-                                    <textarea class="w-full h-25" name="content" rows=10 placeholder="Nachricht*"></textarea>
+                                    <textarea class="w-full h-25" id="content" name="content" rows=10 placeholder="Nachricht*">Nachricht bla bla</textarea>
                                 </div>
                                 <div class="col-span-2 align-center pt-10">
-                                    <a href="/contact" class="btn btn-submit">Senden</a>
+                                    <button type='button' onclick="sendMail()" class="btn btn-submit">Senden</button>
                                 </div>
                             </div>
                         </form>
@@ -54,4 +54,29 @@
         </div>
     </div>
     </div>
+    <script>
+        function sendMail(){
+            $.ajaxSetup({
+                headers: {
+                    'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+                }
+            });
+            var name      = $('#name').val();
+            var email     = $('#email').val();
+            var content      = $('#content').val();
+            var subject   = $('#subject').val();
+            alert (name + " "+ email+" "+subject+" "+content);
+            $.ajax({
+                type:'POST',
+                url:"{{route('sendMail')}}",
+                data:{name:name, email:email, subject:subject, body:content},
+                success:function(data){
+                    //all good!
+                },
+                error:function(data){
+                    console.log(data);
+                }
+            });
+        }
+    </script>
 </x-guest-layout>

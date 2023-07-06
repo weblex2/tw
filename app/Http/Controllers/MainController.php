@@ -2,8 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use Illuminate\Http\Request;
 use Mail;
+use Illuminate\Http\Request;
+use Illuminate\Http\Response;
+
+
 
 class MainController extends Controller
 {
@@ -13,16 +16,29 @@ class MainController extends Controller
     }
 
     public function sendMail(Request $request) {
-        $name = $request->name;
-        $firstname = $request->firstname;
+        $name      = $request->name;
         $subject   = $request->subject;
-        $body = $request->body;
-        $data = array('name'=>$name." ".$firstname);
+        $email     = $request->email;
+        $body      = $request->body;
+        $data = array('name'=>$name, 'email' => $email, 'subject' => $subject, 'body' => $body);
 
-        Mail::send(['html'=>'mail'], $data, function($message) {
-            $message->to('alex@noppenberger.org', 'Tutorials Point')->subject
-            ('Laravel Basic Testing Mail');
-            $message->from('alex@noppenberger.org','Virat Gandhi');
+        $res = Mail::send(['html'=>'mail'], $data, function($message) use ($data) {
+            $message->to('alex@noppenberger.org', 'Alex Noppenberger')->subject
+            ($data['subject']);
+            $message->from($data['email'],$data['name']);
         });
+
+
+
+        if ($res){
+            return response()->json([
+                'success' => true
+            ], 200);
+        }
+        else{
+            return response()->json([
+                'success' => false
+            ], 500);
+        }
     }
 }

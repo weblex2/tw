@@ -51,7 +51,7 @@ Route::get('/contact', function () {
 });
 
 Route::controller(MainController::class)->group(function(){
-    Route::get('', 'index')->name('index');
+    Route::post('sendMail', 'sendMail')->name('sendMail');
 });
 
 /*
