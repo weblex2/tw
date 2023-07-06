@@ -39,6 +39,10 @@ nav {
     @apply  flex flex-row items-center h-full w-full px-4 py-4 mt-2 text-base font-bold text-left uppercase bg-transparent  md:w-auto md:mt-0 md:ml-4 focus:outline-none
 }
 
+.nav-item div{
+    @apply text-center w-full
+}
+
 .sub-menu{
     @apply block hidden lg:ml-4 lg:absolute z-50 hidden group-hover:block lg:group-hover:bg-green-600
 }

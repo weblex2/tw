@@ -14,13 +14,13 @@
 
   <div class="relative group">
         <div class="nav-item">
-             <span><a href="/">Home</a></span>
+             <div><a href="/">Home</a></div>
         </div>
   </div>
 
   <div class="relative group">
         <div class="nav-item">
-            <span>Unser Team</span>
+            <div>Unser Team</div>
         </div>
         <div class="sub-menu">
             <div class="pb-4 lg:shadow-lg">
@@ -36,7 +36,7 @@
 
   <div class="relative group">
       <div class="nav-item">
-          <span><a href="/training">Trainingszeiten</a></span>
+          <div><a href="/training">Trainingszeiten</a></div>
       </div>
   </div>
 
@@ -49,7 +49,7 @@
 
   <div class="relative group">
         <div class="nav-item">
-            <span>Kontakt / Impressum</span>
+            <div>Kontakt / Impressum</div>
         </div>
         <div class="sub-menu w-full lg:w-[230px]">
             <div class="pb-4 shadow-lg w-full">
