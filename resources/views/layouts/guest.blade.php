@@ -19,7 +19,7 @@
         <script src="https://code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
         <link rel="stylesheet" type="text/css" href="slick-1.8.1/slick/slick.css"/>
         <script type="text/javascript" src="slick-1.8.1/slick/slick.min.js"></script>
-        
+
     </head>
     <body>
         <!-- This example requires Tailwind CSS v2.0+ -->
@@ -32,11 +32,17 @@
                     </div>
                 </div>
             </div>
-        </div>   
+        </div>
 
 
 
-
+        @php
+            $route = Route::current()->uri();
+            $opacity = " bg-opacity-100 ";
+            if ($route=="/"){
+                $opacity = " bg-opacity-0 ";
+            }
+        @endphp
 
         <!-- Page Heading -->
         @include('includes.header2')
@@ -83,18 +89,18 @@
           }
         }
 
-        
-        
+
+
         </script>
 
 
 <script type="text/javascript">
-    
+
     $(document).ready(function () {
         $('#interestModal').on('click', function(){
             $('#interestModal').addClass('invisible');
         });
-        
+
         $('.zoomable').on('click', function(e){
             var img = $(this).attr('src');
             $('#modal-image').html("<img src="+img+">");

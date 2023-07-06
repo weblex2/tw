@@ -1,11 +1,10 @@
-
 <div class="nav-toggle">
   <div class='logo-sm'>
       <a href="/home"><img src="img/CBF_OHNE_EFFEKT_12119_neu.png" alt="Logo" class="p-4 w-[120px]" /></a>
   </div>
   <div class="hamburger text-right"><i class="fa-solid fa-bars text-white"></i></div>
 </div>
-<nav id="menu" aria-label="primary" class="">
+<nav id="menu" aria-label="primary" class="{{$opacity}}">
   <div>
     <a href="/home" class="logo">
       <img src="img/CBF_OHNE_EFFEKT_12119_neu.png" alt="Logo" class="py-4 z-3 w-[200px]" />
