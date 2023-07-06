@@ -19,7 +19,7 @@ class MainController extends Controller
         $name      = $request->name;
         $subject   = $request->subject;
         $email     = $request->email;
-        $body      = $request->body;
+        $body      = nl2br($request->body);
         $data = array('name'=>$name, 'email' => $email, 'subject' => $subject, 'body' => $body);
 
         $res = Mail::send(['html'=>'mail'], $data, function($message) use ($data) {
