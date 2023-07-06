@@ -7,7 +7,7 @@
 </div>
 <nav id="menu" aria-label="primary" class="">
   <div>
-    <a href="/index" class="logo">
+    <a href="/home" class="logo">
       <img src="img/CBF_OHNE_EFFEKT_12119_neu.png" alt="Logo" class="py-4 z-3 w-[200px]" />
     </a>
   </div>
@@ -51,7 +51,7 @@
         <div class="nav-item">
             <span>Kontakt / Impressum</span>
         </div>
-        <div class="sub-menu w-full">
+        <div class="sub-menu w-full lg:w-[215px]">
             <div class="pb-4 shadow-lg w-full">
               <div class="grid grid-cols-1 gap-4 w-full">
                 <div class="ref w-full"><a href="/privacypolicy">Datenschutz</a></div>

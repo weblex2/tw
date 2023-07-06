@@ -32,7 +32,7 @@ nav {
 }
 
 .nav-item{
-    @apply  flex group-hover:bg-green-500 flex-row items-center h-full w-full px-4 py-4 mt-2 text-base font-bold text-left uppercase bg-transparent  md:w-auto md:mt-0 md:ml-4 focus:outline-none hover:bg-green-600
+    @apply lg:border-0  flex group-hover:bg-green-500 flex-row items-center h-full w-full px-4 py-4 mt-2 text-base font-bold text-left uppercase bg-transparent  xl:ml-4 focus:outline-none hover:bg-green-600 border-b border-zinc-200
 }
 
 .nav-item-no-hover{
@@ -44,7 +44,7 @@ nav {
 }
 
 nav .ref {
-    @apply px-5 lg:px-4 py-3 lg:py-2
+    @apply md:px-10 px-5 lg:px-4 py-3 lg:py-2
 }
 nav .ref:hover{
     @apply bg-green-800
