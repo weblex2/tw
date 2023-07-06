@@ -283,11 +283,11 @@ nav .ref:hover{
 }
 
 .slick-slide {
-    @apply lg:h-[calc(100%-24rem)] w-full h-[35rem]
+    @apply lg:h-[calc(100%-24rem)] w-full h-[16rem]
 }
 
 .slick-slide img {
-    @apply lg:h-[calc(100%-24rem)] w-full h-[35rem]
+    @apply lg:h-[calc(100%-24rem)] w-full h-[16rem]
 }
 
 .carousel-wrapper{
