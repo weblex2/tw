@@ -34,7 +34,10 @@
                         <form id="frmContact" action="" method="">
                             @csrf
                             <div class="grid grid-cols-2 gap-4">
-                                <div class="col-span-2"><h1>Kontakt</h1></div>
+                                <div class="col-span-2 relative">
+                                    <div class="msg-success">Email wurde verschickt!</div>
+                                    <h1>Kontakt</h1>
+                                </div>
                                 <div><input class="w-full" type="text" id="name" name="name" placeholder="Name*" value="Alex Noppenberger"></div>
                                 <div><input class="w-full" type="email" id="email" name="email" placeholder="Email*" value="alex@noppal.de"></div>
                                 <div class="col-span-2">
@@ -55,6 +58,11 @@
     </div>
     </div>
     <script>
+
+        function hideMessage(){
+            $('.msg-success').hide(500);
+        }
+
         function sendMail(){
             $.ajaxSetup({
                 headers: {
@@ -63,15 +71,21 @@
             });
             var name      = $('#name').val();
             var email     = $('#email').val();
-            var content      = $('#content').val();
+            var content   = $('#content').val();
             var subject   = $('#subject').val();
-            alert (name + " "+ email+" "+subject+" "+content);
+
+
             $.ajax({
                 type:'POST',
                 url:"{{route('sendMail')}}",
                 data:{name:name, email:email, subject:subject, body:content},
                 success:function(data){
-                    //all good!
+                    $('.msg-success').show();
+                    $('#name').val("");
+                    $('#email').val("");
+                    $('#content').val("");
+                    $('#subject').val("");
+                    var t = setTimeout(hideMessage, 5000);
                 },
                 error:function(data){
                     console.log(data);

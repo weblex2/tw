@@ -362,4 +362,7 @@ input[type="text"], input[type="email"], textarea{
     @apply bg-green-500 text-black
 }
 
+.msg-success{
+    @apply -mt-3 hidden absolute right-0  p-5 border-2 border-green-800 bg-green-500 float-right
+}
 

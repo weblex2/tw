@@ -23,8 +23,8 @@ class MainController extends Controller
         $data = array('name'=>$name, 'email' => $email, 'subject' => $subject, 'body' => $body);
 
         $res = Mail::send(['html'=>'mail'], $data, function($message) use ($data) {
-            $message->to('alex@noppenberger.org', 'Alex Noppenberger')->subject
-            ($data['subject']);
+            $message->to('alex@noppenberger.org', 'Alex Noppenberger');
+            $message->subject($data['subject']);
             $message->from($data['email'],$data['name']);
         });
 
