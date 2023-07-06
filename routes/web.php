@@ -18,6 +18,11 @@ Route::get('/welcome', function () {
     return view('welcome');
 });
 
+
+Route::get('/index', function () {
+    return view('index');
+});
+
 Route::get('/home', function () {
     return view('index');
 });
@@ -49,7 +54,7 @@ Route::get('/privacypolicy', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
-  
+
 Route::controller(MainController::class)->group(function(){
     Route::post('sendMail', 'sendMail')->name('sendMail');
 });
