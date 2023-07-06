@@ -11,7 +11,6 @@ use Illuminate\Http\Response;
 class MainController extends Controller
 {
     public function index(){
-        //$this->sendMail('alex@noppenberger.org','Hi', 'Ho');
         return view('index');
     }
 
