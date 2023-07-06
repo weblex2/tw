@@ -49,7 +49,7 @@ Route::get('/privacypolicy', function () {
 Route::get('/contact', function () {
     return view('contact');
 });
-
+  
 Route::controller(MainController::class)->group(function(){
     Route::post('sendMail', 'sendMail')->name('sendMail');
 });
