@@ -44,7 +44,7 @@ nav {
 }
 
 nav .ref {
-    @apply px-2 py-2
+    @apply px-5 lg:px-2 py-3 lg:py-2
 }
 nav .ref:hover{
     @apply bg-green-800
