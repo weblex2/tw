@@ -149,7 +149,15 @@ nav .ref:hover{
 }
 
 .team-image-wrapper{
-    @apply grid lg:grid-cols-5 grid-cols-1 lg:gap-3 w-full max-w-full bg-gray-500 justify-between px-5
+    @apply grid lg:grid-cols-5 grid-cols-1 lg:gap-3 w-full max-w-full bg-zinc-700 justify-between
+}
+
+.team-image-container{
+    @apply overflow-hidden my-3 mx-3 relative
+}
+
+.team-img-shade{
+    @apply bg-white bg-opacity-80 absolute w-full h-full
 }
 
 .team-header-content{
@@ -351,6 +359,21 @@ nav .ref:hover{
 
 .juniorpic{
     @apply object-fill h-[100%] w-full m-1
+}
+
+.overlay {
+    position: absolute;
+    bottom: 0;
+    background: rgb(0, 0, 0);
+    background: rgba(0, 0, 0, 0.5); /* Black see-through */
+    color: #f1f1f1;
+    width: 100%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
 }
 
 input[type="text"], input[type="email"], textarea{

@@ -102,11 +102,15 @@
     <!-- Images -->
     <div class="content-wrapper">
         <div class="team-image-wrapper">
-            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/peewee/Foto-Gators-Rise-Pyra-705x529.jpg')}}"></div>
-            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/peewee/pee-1030x1030.jpg')}}"></div>
-            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/peewee/1672157543942-1030x578.jpg')}}"></div>
-            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/peewee/schleifen-1030x1030.jpg') }}"></div>
-            <div class="overflow-hidden mx-4 my-6"><img class="zoomable juniorpic" src="{{asset('img/peewee/Foto-Gators-Rise-Aufstellung-2-1030x773.jpg')}}"></div>
+            <div class="team-image-container">
+
+                <img class="zoomable juniorpic" src="{{asset('img/peewee/Foto-Gators-Rise-Pyra-705x529.jpg')}}">
+                <div class="overlay"></div>
+            </div>
+            <div class="team-image-container"><img class="zoomable juniorpic" src="{{asset('img/peewee/pee-1030x1030.jpg')}}"></div>
+            <div class="team-image-container"><img class="zoomable juniorpic" src="{{asset('img/peewee/1672157543942-1030x578.jpg')}}"></div>
+            <div class="team-image-container"><img class="zoomable juniorpic" src="{{asset('img/peewee/schleifen-1030x1030.jpg') }}"></div>
+            <div class="team-image-container"><img class="zoomable juniorpic" src="{{asset('img/peewee/Foto-Gators-Rise-Aufstellung-2-1030x773.jpg')}}"></div>
         </div>
     </div>
     </div>
