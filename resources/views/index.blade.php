@@ -18,7 +18,7 @@
             <div class="col-span-9">
                 <h1>Hallen</h1>
                 <hr class="mb-3">
-                <p>Unser Training findet statt in folgenden Hallen</p>
+                <p>Unser Training findet statt in folgenden Hallen statt:</p>
                 <br>
                 <p>Gemeindehalle Feldkirchen</p>
                 <p>Richthofenstrasse 1</p>
@@ -38,6 +38,8 @@
                 <div class="col-span-9">
                     <h1>TRAININGSZEITEN</h1>
                     <hr class="mb-3">
+                    <p>Wir trainieren montags, mittwochs und sonntags.</p><br>
+
                     <p>Weitere Informationen zu unseren
                         <a href="http://cheer-base.de/timetable"><strong>Trainingszeiten</strong> </a>
                         finden Sie <a href="http://cheer-base.de/timetable">hier</a>.
@@ -51,9 +53,39 @@
                     <i class="rounded-full icon-big px-7 py-6  fa fa-trophy"></i>
                 </div>
                 <div class="col-span-9">
-                    <h1>AKTUELLE MEISTERSCHAFTEN 2019/2020</h1>
+                    <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN 2023/2024</h1>
                     <hr class="mb-3">
-                    <p>derzeit keine</p>
+                    <h1>2023:</h1>
+                    <h4>Juli</h4>
+                    Jubiläumsauftriff - 22.07.2023<br>
+                    <br>
+                    <h4>September</h4>
+                    Mitgliederversammlung - 17.09.2023<br>
+                    Teamcoaching - 30.09./01.10.2023<br>
+                    <br>
+                    <h4>Oktober</h4>
+                    Auftritt - 09.10.2023<br>
+                    <br>
+                    <h4>November</h4>
+                    Landesmeisterschaft Ingolstadt - 25.11.2023<br>
+                    <br>
+                    <h4>Dezember</h4>
+                    Weihnachtsfeier - 16.12.2023<br>
+                    <br>
+                    <h1>2024:</h1>
+                    <h4>Februar</h4>
+                    Regionalmeisterschaft Göppingen - 10.02.2024<br>
+                    <br>
+                    <h4>März</h4>
+                    Deutsche Meisterschaft Bonn - 16/17.03.2024<br>
+                    <br>
+                    <h4>Mai</h4>
+                    Elite Cheerleading Championship Bottrop - 18.-20.05.2024<br>
+                    <br>
+                    <h4>Juli</h4>
+                    Auftritt Landesgartenschau Kirchheim - 14.07.2024<br>
+                    <br>
+
                 </div>
                 </div>
         </div>
