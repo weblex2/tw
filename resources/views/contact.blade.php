@@ -7,7 +7,7 @@
 
                 <div>
                     <h2>IMPRESSUM</h2>
-                    <div>Angaben gemäß §5 TMG:</div>
+                    <div>Angaben gemäß §5 TMG:A</div>
                     <div>Cheer Base Feldkirchen e.V.</div>
                     <div>c/o Christine Puzicha</div>
                     <div>Wolframstr. 20</div>
