@@ -14,7 +14,7 @@
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon fa-user-group"></i>
-                        <span  class="font-semibold"> 2 Coaches</span>
+                        <span  class="font-semibold"> 3 Coaches</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon fa-calendar "></i>
@@ -35,9 +35,10 @@
             <div class="whatwedo">
                 <div class="col-span-5 p-10">
                     <h2>WAS WIR MACHEN</h2>
-                    Unser Junior Allgirl – Team sind Mädchen im Alter zwischen 12 – 17 Jahren und sind die “Goldene Mitte”.<br>
+                    Die Peewees sind Jungs und Mädchen im Alter zwischen 6 – 12 Jahren und sind somit die jüngsten in unserem Verein.
+                    Trotzdem erzielen sie große Leistungen und haben sich 2022 für die Regionalmeisterschaft qualifiziert.<br>
                     <br>
-                    Trainiert werden sie von sechs Coaches, mit viel Erfahrung aus der eigenen aktiven Zeit.
+                    Trainiert werden sie von drei Coaches, mit viel Erfahrung aus der eigenen aktiven Zeit.
 
                     <div class="block my-10 text-center w-fit">
                     <div class="fa-solid fa-trophy text-5xl border-2 mb-2 rounded-full border-yellow-400 p-5 text-yellow-400"></div>
@@ -45,32 +46,49 @@
                     </div>
 
                     <h5>2023:</h5>
-                    3. Platz Regionalmeisterschaft Süd (JA 3)<br>
+                    8. Platz (von 13) Regionalmeisterschaft Süd (PW 1)<br>
                     <br>
-                    6. Platz (von 14) Deutsche Meisterschaft (JA 3)<br>
-                    <br>
-                    1. Platz (von 2) Southern Cheer Classics (JA 3)<br>
+                    5. Platz (von 7) Southern Cheer Classics (PW 1)<br>
                     <br>
                     <h5>2022:</h5>
-                    29. Platz (von 35) Elite Cheerleading Championsship (JA 3)<br>
+                    15. Platz (von 16) Elite Cheerleading Championsship (PW 1)<br>
                     <br>
-                    3. Platz (von 7) Landesmeisterschaft Bayern (JA 3)<br>
-                    <br>
-                    <h5>2020:</h5>
-                    19. Platz (von 22) Regionalmeisterschaft Süd (JA 3)<br>
+                    9. Platz (von 10) Landesmeisterschaft Bayern (PW 1)<br>
                     <br>
                     <h5>2019:</h5>
-                    13. Platz (von 19) Landesmeisterschaft Bayern (JA 3)<br>
+                    1. Platz (von 3) Regionalmeisterschaft Süd (PW 2)<br>
+                    <br>
+                    1. Platz (von 3) Bayern Cheermasters (PW 2)<br>
+                    <br>
+                    2. Platz (von 2) Landesmeisterschaft Bayern (PW 2)<br>
+                    <br>
+                    <h5>2018:</h5>
+                    3. Platz (von 4) Regionalmeisterschaft Süd (PW 2)<br>
+                    <br>
+                    1. Platz (von 2) Bayern Cheermasters (PW 2)<br>
+                    <br>
+                    <h5>2017:</h5>
+                    5. Platz (von 5) Regionalmeisterschaft Süd (PW 2)<br>
+                    <br>
+                    <h5>2016:</h5>
+                    2. Platz (von 5) Bayern Cheermasters (PW 2)<br>
+                    <br>
+                    1. Platz (von 2) Bayern Cheermasters (PW 2)<br>
+                    <br>
+                    <h5>2015:</h5>
+                    3. Platz (von 10) Regionalmeisterschaft Süd (PW 2)<br>
+                    <br>
+                    4. Platz Bayern Cheermasters (PW 2)<br>
                     <br>
                     <h5>2014:</h5>
-                    8. Platz (von 11) Regionalmeisterschaft Süd (JA 4)<br>
+                    5. Platz (von 11) Regionalmeisterschaft Süd (PW 2)<br>
                     <br>
-                    1. Platz (von 4) Bayern Cheermasters (JA 3)<br>
+                    2. Platz (von 4) Bayern Cheermasters (PW 2)<br>
                     <br>
                     <h5>2013:</h5>
-                    7. Platz (von 8) Regionalmeisterschaft Süd (JA 4)<br>
+                    1. Platz (von 8) Regionalmeisterschaft Süd (PW 2)<br>
                     <br>
-                    4. Platz (von 5) SCDC (JA 4)<br>
+                    3. Platz (von 6) SCDC (PW 2)<br>
                     <br>
 
                 </div>

@@ -102,25 +102,6 @@
         </div>
 
         <!-- 5. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Anki-bearbeitet.jpg')]">
-        </div>
-        <div class="coach-info-1">
-            <div>
-                <h1>ANKI</h1>
-                <div>Junior Head-Coach</div>
-                <div>Cheerleader seit: 2013</div>
-                <div>Coach seit: 2017</div>
-                <div>Coachingerfahrung: Peewee u. Junior Level 2 u. 3</div>
-            </div>
-        </div>
-        <div class="bg-zinc-700 text-white p-10 flex items-center">
-            <div>
-            <h2>Über Anki:</h2>
-            Anki ist Coach des Junior Allgirl-Teams.
-            </div>
-        </div>
-
-        <!-- 6. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Nele-III.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -139,7 +120,7 @@
             </div>
         </div>
 
-        <!-- 7. row -->
+        <!-- 6. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Mexo.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -158,44 +139,25 @@
             </div>
         </div>
 
-        <!-- 8. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Sophie-bearbeitet.jpg')]">
-        </div>
-        <div class="coach-info-1">
-            <div>
-                <h1>SOPHIE</h1>
-                <div>Senior Head-Coach</div>
-                <div>Cheerleader seit: 2012</div>
-                <div>Coach seit: 2021</div>
-                <div>Coachingerfahrung: Senior Level 3 u. 4</div>
-            </div>
-        </div>
-        <div class="bg-zinc-700 text-white p-10 flex items-center">
-            <div>
-                <h2>Über Sophie:</h2>
-                Sophie ist Coach des Senior-Teams.
-            </div>
-        </div>
-
-        <!-- 9. row -->
+        <!-- 7. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Vorstand-Christine-Puzicha-bearbeitet.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
-                <h1>CHRISTINE</h1>
+                <h1>bis zur Neuwahl nicht besetzt</h1>
                 <div>Position: 1. Vorsitzende</div>
-                <div>im Verein seit: 2012</div>
-                <div>Tätig seit: 2018</div>
+                <div>im Verein seit: </div>
+                <div>Tätig seit: </div>
             </div>
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-                <h2>Über Christine:</h2>
-                Christine ist seit 2018 1. Vorsitzende der Cheerbase Feldkirchen e.V.
+                <h2>Über </h2>
+                
             </div>
         </div>
 
-        <!-- 10. row -->
+        <!-- 8. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Lea-VS-1030x1024.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -213,7 +175,7 @@
             </div>
         </div>
 
-        <!-- 11. row -->
+        <!-- 9. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Doreen-VS-994x1030.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -231,7 +193,7 @@
             </div>
         </div>
 
-        <!-- 12. row -->
+        <!-- 10. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Thomas-VS-951x1030.jpg')]">
         </div>
         <div class="coach-info-1">

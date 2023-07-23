@@ -9,10 +9,11 @@
                     <h2>IMPRESSUM</h2>
                     <div>Angaben gemäß §5 TMG:</div>
                     <div>Cheer Base Feldkirchen e.V.</div>
+                    <div>c/o Christine Puzicha</div>
                     <div>Wolframstr. 20</div>
                     <div>85652 Pliening</div>
                     <br>
-                    <div>Vertreten durch: Christine Puzicha (1. Vorsitzende)</div>
+                    <div>Vertreten durch: bis zur Neuwahl nicht besetzt (1. Vorsitzende)</div>
                     <div>Lea Fruhstorfer (2. Vorsitzende)</div>
                     <div>Doreen Wittke (Kassier)</div>
                     <div>Thomas Wittke (Schriftführer / Jugendbeauftragter)</div>

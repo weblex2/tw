@@ -37,7 +37,7 @@
                     <h2>WAS WIR MACHEN</h2>
                     Unser Junior Allgirl – Team sind Mädchen im Alter zwischen 12 – 17 Jahren und sind die “Goldene Mitte”.<br>
                     <br>
-                    Trainiert werden sie von sechs Coaches, mit viel Erfahrung aus der eigenen aktiven Zeit.
+                    Trainiert werden sie von vier Coaches, mit viel Erfahrung aus der eigenen aktiven Zeit.
 
                     <div class="block my-10 text-center w-fit">
                     <div class="fa-solid fa-trophy text-5xl border-2 mb-2 rounded-full border-yellow-400 p-5 text-yellow-400"></div>
@@ -96,19 +96,19 @@
                         <h4>Headcoaches:</h4>
                         <img class="zoomable"src="{{asset('img/dl/Foto-Junior-Head-Coaches-1030x711.jpg')}}">
                         <br>
-                        Ali & Anki
+                        Ali & Melis
                         <br>
                         <br>
                         <h4>Co-Coaches:</h4>
                         <img class="zoomable" src="{{asset('img/dl/Foto-Junior-Co-Coaches-1030x787.jpg')}}">
                         <br>
-                        Nele & Emma
+                        Nele
                         <br>
                         <br>
                         <h4>Assistant-Coaches:</h4>
                         <img class="zoomable" src="{{asset('img/dl/Mexo-Melisa-1030x870.jpg')}}">
                         <br>
-                        Mexo & Melisa
+                        Mexo
                     </div>
                 </div>
             </div>
