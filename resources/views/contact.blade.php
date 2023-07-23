@@ -7,7 +7,7 @@
 
                 <div>
                     <h2>IMPRESSUM</h2>
-                    <div>Angaben gemäß §5 TMG:A</div>
+                    <div>Angaben gemäß §5 TMG:</div>
                     <div>Cheer Base Feldkirchen e.V.</div>
                     <div>c/o Christine Puzicha</div>
                     <div>Wolframstr. 20</div>
@@ -39,8 +39,8 @@
                                     <div class="msg-success">Email wurde verschickt!</div>
                                     <h1>Kontakt</h1>
                                 </div>
-                                <div><input class="w-full" type="text" id="name" name="name" placeholder="Name*" value="Alex Noppenberger"></div>
-                                <div><input class="w-full" type="email" id="email" name="email" placeholder="Email*" value="alex@noppal.de"></div>
+                                <div><input class="w-full" type="text" id="name" name="name" placeholder="Name*" value="info@cheer-base"></div>
+                                <div><input class="w-full" type="email" id="email" name="email" placeholder="Email*" value="info@cheer-base.com"></div>
                                 <div class="lg:col-span-2">
                                     <input class="w-full" type="text" id="subject" name="betreff" placeholder="Betreff*" value="Betreff">
                                 </div>
