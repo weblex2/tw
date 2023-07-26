@@ -140,7 +140,7 @@
         </div>
 
         <!-- 7. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Vorstand-Christine-Puzicha-bearbeitet.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Vorstand--bearbeitet.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
