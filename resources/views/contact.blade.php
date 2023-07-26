@@ -39,13 +39,13 @@
                                     <div class="msg-success">Email wurde verschickt!</div>
                                     <h1>Kontakt</h1>
                                 </div>
-                                <div><input class="w-full" type="text" id="name" name="name" placeholder="Name*" value="info@cheer-base"></div>
-                                <div><input class="w-full" type="email" id="email" name="email" placeholder="Email*" value="info@cheer-base.com"></div>
+                                <div><input class="w-full" type="text" id="name" name="name" placeholder="Name*" value="Name*"></div>
+                                <div><input class="w-full" type="email" id="email" name="email" placeholder="Email*" value="E-Mail-Adresse*"></div>
                                 <div class="lg:col-span-2">
                                     <input class="w-full" type="text" id="subject" name="betreff" placeholder="Betreff*" value="Betreff">
                                 </div>
                                 <div class="lg:col-span-2">
-                                    <textarea class="w-full h-25" id="content" name="content" rows=10 placeholder="Nachricht*">Nachricht bla bla</textarea>
+                                    <textarea class="w-full h-25" id="content" name="content" rows=10 placeholder="Nachricht*">Ihre Nachricht</textarea>
                                 </div>
                                 <div class="lg:col-span-2 align-center pt-10">
                                     <button type='button' onclick="sendMail()" class="btn btn-submit">Senden</button>
