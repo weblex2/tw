@@ -45,32 +45,30 @@
                     </div>
 
                     <h5>2023:</h5>
-                    3. Platz Regionalmeisterschaft Süd (JA 3)<br>
-                    <br>
-                    6. Platz (von 14) Deutsche Meisterschaft (JA 3)<br>
-                    <br>
-                    1. Platz (von 2) Southern Cheer Classics (JA 3)<br>
+                    1. Platz (von 1) Southern Cheer Classics (SGS 4)<br>
                     <br>
                     <h5>2022:</h5>
-                    29. Platz (von 35) Elite Cheerleading Championsship (JA 3)<br>
+                    27. Platz (von 27) Elite Cheerleading Championsship (SC 4)<br>
                     <br>
-                    3. Platz (von 7) Landesmeisterschaft Bayern (JA 3)<br>
-                    <br>
-                    <h5>2020:</h5>
-                    19. Platz (von 22) Regionalmeisterschaft Süd (JA 3)<br>
+                    2. Platz (von 2) Landesmeisterschaft Bayern (SC 3)<br>
                     <br>
                     <h5>2019:</h5>
-                    13. Platz (von 19) Landesmeisterschaft Bayern (JA 3)<br>
+                    1. Platz (von 1) Regionalmeisterschaft Süd (SC 5)<br>
                     <br>
-                    <h5>2014:</h5>
-                    8. Platz (von 11) Regionalmeisterschaft Süd (JA 4)<br>
+                    1. Platz (von 2) Bayern Cheermasters (SC 4)<br>
                     <br>
-                    1. Platz (von 4) Bayern Cheermasters (JA 3)<br>
+                    1. Platz (von 1) Landesmeisterschaft Bayern (SC 5)<br>
+                    <br>
+                    <h5>2017:</h5>
+                    2. Platz (von 3) Regionalmeisterschaft Süd (SC 6)<br>
+                    <br>
+                    1. Platz (von 1) Bayern Cheermasters (SC 6)<br>
+                    <br>
+                    <h5>2015:</h5>
+                    1. Platz (von 2) Bayern Cheermasters (SC 6)<br>
                     <br>
                     <h5>2013:</h5>
-                    7. Platz (von 8) Regionalmeisterschaft Süd (JA 4)<br>
-                    <br>
-                    4. Platz (von 5) SCDC (JA 4)<br>
+                    1. Platz (von 2) SCDC (SC 6)<br>
                     <br>
 
                 </div>
