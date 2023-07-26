@@ -24,8 +24,6 @@
                 <div>Wolframstrasse 20</div>
                 <div>85652 Pliening</div>
                 <div><a href="/datenschutz">Datenschutzrichtlinien</a></div>
-                <div>Design & Programmierung:</div>
-                <div><a href="#">no.brand Werbeagentur</a></div>
             </div>
         </div>
         <div class="px-5">
