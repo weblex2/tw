@@ -5,12 +5,13 @@
             <h2>CHEERBASE FELDKIRCHEN E.V.</h2>
             </div>
             <div class="pt-8 text-gray-300">
-                <div>Vorsitzende:</div>
-                <div>Christine Puzicha</div>
+                <div>2. Vorsitzende:</div>
+                <div>Lea Fruhstorfer</div>
                 <div>Wolframstrasse 20</div>
+                <div>c/o Christine Puzicha</div>
                 <div>85652 Pliening</div>
                 <div>Deutschland</div>
-                <div>Mobil: 0177 6293472</div>
+                <div>Mobil: 0172 3986698</div>
                 <div>Email: <a href="mailto:info@cheer-base.com">info@cheer-base.com</a></div>
             </div>
         </div>
@@ -21,6 +22,7 @@
             <div  class="pt-8 text-gray-300">
                 <div>Angaben gemäss §5 TMG:</div>
                 <div>Cheer Base Feldkirchen e.V.</div>
+                <div>c/o Christine Puzicha</div>
                 <div>Wolframstrasse 20</div>
                 <div>85652 Pliening</div>
                 <div><a href="/datenschutz">Datenschutzrichtlinien</a></div>
