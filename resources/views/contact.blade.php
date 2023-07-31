@@ -39,10 +39,10 @@
                                     <div class="msg-success">Email wurde verschickt!</div>
                                     <h1>Kontakt</h1>
                                 </div>
-                                <div><input class="w-full" type="text" id="name" name="name" placeholder="Name*" value="Name*"></div>
-                                <div><input class="w-full" type="email" id="email" name="email" placeholder="Email*" value="E-Mail-Adresse*"></div>
+                                <div><input class="w-full" type="text" id="name" name="name" placeholder="Name*" value="Name*" required></div>
+                                <div><input class="w-full" type="email" id="email" name="email" placeholder="Email*" value="E-Mail-Adresse*" required></div>
                                 <div class="lg:col-span-2">
-                                    <input class="w-full" type="text" id="subject" name="betreff" placeholder="Betreff*" value="Betreff">
+                                    <input class="w-full" type="text" id="subject" name="betreff" placeholder="Betreff*" value="Betreff" required>
                                 </div>
                                 <div class="lg:col-span-2">
                                     <textarea class="w-full h-25" id="content" name="content" rows=10 placeholder="Nachricht*">Ihre Nachricht</textarea>
@@ -59,12 +59,27 @@
     </div>
 
     <script>
+        $(document).ready(function () {
+            $('#name,#email, #content, #subject').keyup(function(){
+                $(this).removeClass('error');
+            });
+            $('#name,#email, #content, #subject').click(function(){
+                $(this).val("");
+            } )
+        });
+
 
         function hideMessage(){
             $('.msg-success').hide(500);
         }
 
+        function isEmail(email) {
+            var regex = /^([a-zA-Z0-9_.+-])+\@(([a-zA-Z0-9-])+\.)+([a-zA-Z0-9]{2,4})+$/;
+            return regex.test(email);
+        }
+
         function sendMail(){
+
             $.ajaxSetup({
                 headers: {
                     'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
@@ -75,6 +90,25 @@
             var content   = $('#content').val();
             var subject   = $('#subject').val();
 
+            if (name=="") {
+                $('#name').addClass('error');
+                return false;
+            }
+
+            if (email=="") {
+                $('#email').addClass('error');
+                return false;
+            }
+
+            if (content=="") {
+                $('#content').addClass('error');
+                return false;
+            }
+
+            if (subject=="") {
+                $('#subject').addClass('error');
+                return false;
+            }
 
             $.ajax({
                 type:'POST',
