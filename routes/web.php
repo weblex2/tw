@@ -35,6 +35,10 @@ Route::get('/peewees', function () {
     return view('peewees');
 });
 
+Route::get('/youth', function () {
+    return view('youth');
+});
+
 Route::get('/juniors', function () {
     return view('juniors');
 });
