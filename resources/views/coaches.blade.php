@@ -10,8 +10,8 @@
                     </div>
                     <div>
                         <div class="pt-10 lg:text-center">
-                            <div><span class="text-5xl mr-2">107</span><span class="text-4xl text-zinc-600">Mitglieder</span></div>
-                            <div class="text-xl mt-2">in unseren Teams</div>
+                            <div><span class="text-5xl mr-2">~100</span><span class="text-4xl text-zinc-600">Mitglieder</span></div>
+                            <div class="text-xl mt-2">in unseren 4 Teams</div>
                         </div>
                     </div>
                     <div>
@@ -121,6 +121,24 @@
         </div>
 
         <!-- 6. row -->
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Emma-III.jpg')]">
+        </div>
+        <div class="coach-info-1">
+            <div>
+                <h1>EMMA</h1>
+                <div>Junior Coach</div>
+                <div>Cheerleader seit: 2018</div>
+                <div>Coach seit: 2021</div>
+                <div>Coachingerfahrung: Junior Level 3</div>
+            </div>
+        </div>
+        <div class="bg-zinc-700 text-white p-10 flex items-center">
+            <div>
+            <h2>Über Emma:</h2>
+            Hey, ich bin Emma und habe 2018 bei den Gators mit Cheerleading angefangen. Seit 2021 bin ich Coach bei den Juniors und freue mich meine Leidenschaft an die Kids weitergeben zu können. Mein schönstes Erlebnis als Coach war die Deutsche Meisterschaft 2023, wo wir völlig unerwartet den 6.Platz mit nach Hause genommen haben 😉
+            </div>
+        </div>
+        <!-- 7. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Mexo.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -140,20 +158,20 @@
         </div>
 
         <!-- 7. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Vorstand--bearbeitet.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Thomas-VS-951x1030.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
-                <h1>bis zur Neuwahl nicht besetzt</h1>
+                <h1>THOMAS</h1>
                 <div>Position: 1. Vorsitzende</div>
-                <div>im Verein seit: </div>
-                <div>Tätig seit: </div>
+                <div>im Verein seit: 2020</div>
+                <div>Tätig seit: 2022</div>
             </div>
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-                <h2>Über </h2>
-                
+                <h2>Über Thomas: </h2>
+                Thomas ist seit 2023 1. Vorsitzende der Cheerbase Feldkirchen e.V.
             </div>
         </div>
 
@@ -194,20 +212,20 @@
         </div>
 
         <!-- 10. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Thomas-VS-951x1030.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Marlen-VS-951x1030.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
-                <h1>THOMAS</h1>
-                <div>Position: Schriftführer / Jugendbeauftragter</div>
-                <div>im Verein seit: 2020</div>
-                <div>Tätig seit: 2022</div>
+                <h1>MARLEN</h1>
+                <div>Position: Schriftführer / Jugendbeauftragte</div>
+                <div>im Verein seit: 2023</div>
+                <div>Tätig seit: 2023</div>
             </div>
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-                <h2>Über Thomas:</h2>
-                Thomas ist seit 2022 Schriftführer u. Jugendbeauftragter der Cheerbase Feldkirchen e.V.
+                <h2>Über Marlen:</h2>
+                Marlen ist seit 2023 Schriftführer u. Jugendbeauftragte der Cheerbase Feldkirchen e.V.
             </div>
         </div>
 

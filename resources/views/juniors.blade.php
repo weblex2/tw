@@ -47,7 +47,7 @@
                     <h5>2023:</h5>
                     3. Platz Regionalmeisterschaft Süd (JA 3)<br>
                     <br>
-                    6. Platz (von 14) Deutsche Meisterschaft (JA 3)<br>
+                    6. Platz (von 14) Deutsche Pokal-Meisterschaft (JA 3)<br>
                     <br>
                     1. Platz (von 2) Southern Cheer Classics (JA 3)<br>
                     <br>
