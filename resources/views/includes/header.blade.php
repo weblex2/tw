@@ -5,7 +5,7 @@
         <!-- Website Logo -->
         <div>
           <a href="#" class="flex items-center  px-2">
-            <img src="img/CBF_LOGO_gruen orang.png" alt="Logo" class="py-4 z-3 mr-2 w-[400px]" />
+            <img src="img/CBF_LOGO_gruen orange.png" alt="Logo" class="py-4 z-3 mr-2 w-[400px]" />
           </a>
         </div>
         <!-- Primary Navbar items -->
