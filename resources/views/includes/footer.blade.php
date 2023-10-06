@@ -5,13 +5,13 @@
             <h2>CHEERBASE FELDKIRCHEN E.V.</h2>
             </div>
             <div class="pt-8 text-gray-300">
-                <div>2. Vorsitzende:</div>
-                <div>Lea Fruhstorfer</div>
+                <div>1. Vorsitzender:</div>
+                <div>Thomas Wittke</div>
                 <div>Wolframstrasse 20</div>
                 <div>c/o Christine Puzicha</div>
                 <div>85652 Pliening</div>
                 <div>Deutschland</div>
-                <div>Mobil: 0172 3986698</div>
+                <div>Mobil: 0175 1306365</div>
                 <div>Email: <a href="mailto:info@cheer-base.com">info@cheer-base.com</a></div>
             </div>
         </div>
@@ -41,7 +41,7 @@
 </div>
 <div class="copyright flex justify-center items-center ">
     <div class="text-xs text-white  w-[75%] pt-2">
-        <div class="copy float-left pl-10 ">© Cheer Base Feldkirchen e.V. | Made with ♡ by no.brand Werbeagentur</div>
+        <div class="copy float-left pl-10 ">© Cheer Base Feldkirchen e.V. | programmiert by Alexander Noppenberger</div>
         <div class="social">
             <a href="https://www.facebook.com/CheerBaseFeldkirchen/" target="_blank"><i class="text-xs hover:bg-blue-500 -mt-3 px-3 py-2 rounded-full fa-brands fa-facebook-f"></i></a>
             <a href="https://www.instagram.com/cbf_gators/?hl=de"  target="_blank"><i class="text-xs hover:bg-yellow-500 -mt-3 px-3 py-2 rounded-full fa-brands fa-instagram"></i></a>
