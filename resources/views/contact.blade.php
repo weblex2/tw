@@ -13,10 +13,10 @@
                     <div>Wolframstr. 20</div>
                     <div>85652 Pliening</div>
                     <br>
-                    <div>Vertreten durch: bis zur Neuwahl nicht besetzt (1. Vorsitzende)</div>
+                    <div>Vertreten durch: Thomas Wittke (1. Vorsitzender)</div>
                     <div>Lea Fruhstorfer (2. Vorsitzende)</div>
                     <div>Doreen Wittke (Kassier)</div>
-                    <div>Thomas Wittke (Schriftführer / Jugendbeauftragter)</div>
+                    <div>Marlen Wilhelm (Schriftführer / Jugendbeauftragte)</div>
                     <br>
                     <h2>KONTAKT</h2>
                     <div>E-Mail: <a href="mailto:info@cheer-base.com">info@cheer-base.com</a></div>
@@ -26,8 +26,8 @@
                     <div>Registergericht: Amtsgericht München</div>
                     <div>Registernummer: VR 204221</div>
                     <br>
-                    <h2>DESIGN/PROGRAMMIERUNG:</h2>
-                    <div>no.brand Werbeagentur</div>
+                    <h2>PROGRAMMIERUNG:</h2>
+                    <div>Alexander Noppenberger</div>
                 </div>
 
                 <div>
