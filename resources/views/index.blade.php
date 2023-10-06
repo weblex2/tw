@@ -56,21 +56,11 @@
                     <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN 2023/2024</h1>
                     <hr class="mb-3">
                     <h1>2023:</h1>
-                    <h4>Juli</h4>
-                    Jubiläumsauftriff - 22.07.2023<br>
-                    <br>
-                    <h4>September</h4>
-                    Mitgliederversammlung - 17.09.2023<br>
-                    Teamcoaching - 30.09./01.10.2023<br>
-                    <br>
-                    <h4>Oktober</h4>
-                    Auftritt - 09.10.2023<br>
-                    <br>
                     <h4>November</h4>
                     Landesmeisterschaft Ingolstadt - 25.11.2023<br>
                     <br>
                     <h4>Dezember</h4>
-                    Weihnachtsfeier - 16.12.2023<br>
+                    Infinity League Nürnberg - 16.12.2023<br>
                     <br>
                     <h1>2024:</h1>
                     <h4>Februar</h4>
@@ -109,7 +99,7 @@
             <div class="text-3xl">aktive Mitglieder</div>
         </div-->
         <div class="bg-stone-800 text-white text-center align-middle p-10">
-            <div class="text-5xl font-extrabold">107</div>
+            <div class="text-5xl font-extrabold">~100</div>
             <div class="text-3xl text-stone-300">Mitglieder</div>
         </div>
         <div class="bg-stone-600 text-white text-center align-middle p-10">
@@ -117,7 +107,7 @@
             <div class="text-3xl text-stone-300">gegründet</div>
         </div>
         <div class="bg-stone-400 text-white text-center align-middle p-10">
-            <div class="text-5xl font-extrabold">3</div>
+            <div class="text-5xl font-extrabold">4</div>
             <div class="text-3xl text-stone-300">Teams</div>
         </div>
     </div>
