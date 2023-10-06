@@ -7,7 +7,7 @@
 <nav id="menu" aria-label="primary" class="{{$opacity}}">
   <div>
     <a href="/home" class="logo">
-      <img src="img/CBF_OHNE_EFFEKT_12119_neu.png" alt="Logo" class="py-4 z-3 w-[200px]" />
+      <img src="img/CBF_LOGO_neu23.png" alt="Logo" class="py-8 z-6 w-[400px]" />
     </a>
   </div>
 
