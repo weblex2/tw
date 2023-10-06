@@ -27,7 +27,7 @@
 
     <div class="grid grid-cols-1 lg:grid-cols-3 coachesgrid">
         <!-- 1. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-auto bg-scroll bg-[url('../../public/img/Foto-Coach-Lea-II.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-auto bg-scroll bg-[url('../../public/img/Foto-Coach-Lea-II-746x684.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -212,7 +212,7 @@
         </div>
 
         <!-- 10. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Marlen-VS-951x1030.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Gators Schriftzug_Olive_Orange kratzer.png')]">
         </div>
         <div class="coach-info-1">
             <div>
