@@ -212,7 +212,7 @@
         </div>
 
         <!-- 10. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Gators Schriftzug_Olive_Orange kratzer.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Gators Schriftzug_O_O.png')]">
         </div>
         <div class="coach-info-1">
             <div>
