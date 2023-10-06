@@ -121,7 +121,7 @@
         </div>
 
         <!-- 6. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Emma-bearbeitet-180x180.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Emma-bearbeitet-768x599.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
