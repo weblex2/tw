@@ -16,26 +16,35 @@
 
             <div  class="col-span-3"><i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
             <div class="col-span-9">
-                <h1>Hallen</h1>
+                <h1>Team- u. Fanwear</h1>
                 <hr class="mb-3">
-                <p>Unser Training findet statt in folgenden Hallen statt:</p>
+                <p>Die neue Team- u. Fanwear kann hier bestellt werden:</p>
                 <br>
-                <p>Gemeindehalle Feldkirchen</p>
-                <p>Richthofenstrasse 1</p>
-                <p>85622 Feldkirchen</p>
-                <br>
-                <p>Sporthalle Feldkirchen</p>
-                <p>Olympiastraße 1</p>
-                <p>85622 Feldkirchen</p>
-
+                <p>herzundberg.de</p>
             </div>
             </div>
         </div>
 
         <div class="m m2">
-            <div class="grid grid-cols-12 text-white">
-                <div  class="col-span-3"><i class="rounded-full icon-big px-7 py-6 fa-solid fa-calendar-days"></i></div>
+
+                   <div class="grid grid-cols-12 text-white">
+                <div  class="col-span-3">        
+                <i class="rounded-full icon-big px-7 py-6 fa-solid fa-calendar-days"></i></div>
                 <div class="col-span-9">
+
+                    <h1>Hallen</h1>
+                    <hr class="mb-3">
+                    <p>Unser Training findet statt in folgenden Hallen statt:</p>
+                    <br>
+                    <p>Gemeindehalle Feldkirchen</p>
+                    <p>Richthofenstrasse 1</p>
+                    <p>85622 Feldkirchen</p>
+                    <br>
+                    <p>Sporthalle Feldkirchen</p>
+                    <p>Olympiastraße 1</p>
+                    <p>85622 Feldkirchen</p>
+                    <br>
+                    <br>
                     <h1>TRAININGSZEITEN</h1>
                     <hr class="mb-3">
                     <p>Wir trainieren montags, mittwochs und sonntags.</p><br>
