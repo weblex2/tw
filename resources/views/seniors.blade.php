@@ -10,11 +10,11 @@
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon fa-star"></i>
-                        <span class="font-semibold"> 16 Seniors</span>
+                        <span class="font-semibold"> 10 Seniors</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon fa-user-group"></i>
-                        <span  class="font-semibold"> 2 Coaches</span>
+                        <span  class="font-semibold"> 1 Coach</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon fa-calendar "></i>
@@ -35,9 +35,9 @@
             <div class="whatwedo">
                 <div class="col-span-5 p-10">
                     <h2>WAS WIR MACHEN</h2>
-                    Unser Junior Allgirl – Team sind Mädchen im Alter zwischen 12 – 17 Jahren und sind die “Goldene Mitte”.<br>
+                    Unser Senior-Coed – Team sind Frauen und Männer ab 17 Jahren.<br>
                     <br>
-                    Trainiert werden sie von sechs Coaches, mit viel Erfahrung aus der eigenen aktiven Zeit.
+                    Trainiert werden sie von einem Coach, mit viel Erfahrung aus der eigenen aktiven Zeit.
 
                     <div class="block my-10 text-center w-fit">
                     <div class="fa-solid fa-trophy text-5xl border-2 mb-2 rounded-full border-yellow-400 p-5 text-yellow-400"></div>
@@ -80,8 +80,6 @@
                     <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp; Mittwoch<br>
                     Von 17.30 bis 19.30 Uhr<br>
                     <br>
-                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;Sonntag<br>
-                    Von 17.30 bis 19.30 Uhr<br>
 
                     <a href="/contact" class="btn btn-contact">
                         Anmeldung
@@ -90,10 +88,10 @@
                 <div class="coachbox-wrapper">
 
                     <div class="coachbox">
-                        <h2>Coaches</h2>
+                        <h2>Coach</h2>
                         <img class="zoomable"src="{{asset('img/dl/Foto-Senior-Coaches-1030x747.jpg')}}">
                         <br>
-                        <h4>Guilia & Sophie</h4>
+                        <h4>Cory</h4>
                     </div>
                 </div>
             </div>
