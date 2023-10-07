@@ -102,7 +102,7 @@
         </div>
 
         <!-- 5. row -->
-        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Gators_Schriftzug_O_O.png')]">
+        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Gators_Schriftzug_K.png')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -177,7 +177,7 @@
         </div>
 
         <!-- 9. row -->
-        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Gators_Schriftzug_O_O.png')]">
+        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Gators_Schriftzug_K.png')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -249,7 +249,7 @@
         </div>
 
         <!-- 13. row -->
-        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Gators_Schriftzug_O_O.png')]">
+        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Gators_Schriftzug_K.png')]">
         </div>
         <div class="coach-info-1">
             <div>
