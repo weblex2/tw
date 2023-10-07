@@ -63,6 +63,9 @@
                     Infinity League Nürnberg - 16.12.2023<br>
                     <br>
                     <h1>2024:</h1>
+                    <h4>Januar</h4>
+                    <br>
+                    <br>
                     <h4>Februar</h4>
                     Regionalmeisterschaft Göppingen - 10.02.2024<br>
                     <br>
