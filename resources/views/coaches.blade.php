@@ -16,8 +16,8 @@
                     </div>
                     <div>
                         <div class="pt-10 lg:text-center">
-                            <div><span class="text-5xl mr-2">8</span> <span class="text-4xl text-zinc-600">Coaches</span></div>
-                            <div class="text-xl mt-2">für Peewees, Juniors &<br> Seniors</div>
+                            <div><span class="text-5xl mr-2">9</span> <span class="text-4xl text-zinc-600">Coaches</span></div>
+                            <div class="text-xl mt-2">für Peewees, Youth, Juniors &<br> Seniors</div>
                         </div>
                     </div>
                 </div>
@@ -102,6 +102,24 @@
         </div>
 
         <!-- 5. row -->
+        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Gators_Schriftzug_O_O.png')]">
+        </div>
+        <div class="coach-info-1">
+            <div>
+                <h1>Melis</h1>
+                <div>Junior Head-Coach</div>
+                <div>Cheerleader seit: 2012</div>
+                <div>Coach seit: 2018</div>
+                <div>Coachingerfahrung: Junior und Senior Level 3 u. 4</div>
+            </div>
+        </div>
+        <div class="bg-zinc-700 text-white p-10 flex items-center">
+            <div>
+            Hi, ich bin Melis.
+            </div>
+        </div>
+
+        <!-- 6. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Nele-III.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -120,7 +138,7 @@
             </div>
         </div>
 
-        <!-- 6. row -->
+        <!-- 7. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Emma.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -138,7 +156,8 @@
             Hey, ich bin Emma und habe 2018 bei den Gators mit Cheerleading angefangen. Seit 2021 bin ich Coach bei den Juniors und freue mich meine Leidenschaft an die Kids weitergeben zu können. Mein schönstes Erlebnis als Coach war die Deutsche Meisterschaft 2023, wo wir völlig unerwartet den 6.Platz mit nach Hause genommen haben 😉
             </div>
         </div>
-        <!-- 7. row -->
+
+        <!-- 8. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Mexo.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -157,7 +176,25 @@
             </div>
         </div>
 
-        <!-- 7. row -->
+        <!-- 9. row -->
+        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Gators_Schriftzug_O_O.png')]">
+        </div>
+        <div class="coach-info-1">
+            <div>
+                <h1>Cory</h1>
+                <div>Senior Head-Coach</div>
+                <div>Cheerleader seit: 2012</div>
+                <div>Coach seit: 2014</div>
+                <div>Coachingerfahrung: Junior und Senior Level 3 u. 4</div>
+            </div>
+        </div>
+        <div class="bg-zinc-700 text-white p-10 flex items-center">
+            <div>
+            Hi, ich bin Cory.
+            </div>
+        </div>
+
+        <!-- 10. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Thomas-VS-951x1030.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -175,7 +212,7 @@
             </div>
         </div>
 
-        <!-- 8. row -->
+        <!-- 11. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Lea-VS-1030x1024.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -193,7 +230,7 @@
             </div>
         </div>
 
-        <!-- 9. row -->
+        <!-- 12. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Doreen-VS-994x1030.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -211,7 +248,7 @@
             </div>
         </div>
 
-        <!-- 10. row -->
+        <!-- 13. row -->
         <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Gators_Schriftzug_O_O.png')]">
         </div>
         <div class="coach-info-1">
