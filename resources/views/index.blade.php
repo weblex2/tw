@@ -20,7 +20,7 @@
                 <hr class="mb-3">
                 <p>Die neue Team- u. Fanwear kann hier bestellt werden:</p>
                 <br>
-                <p>herzundberg.de</p>
+                <a href="http://www.herzundberg.de"><strong>Shop Herz und Berg Textildruck</strong> </a>
             </div>
             </div>
         </div>
