@@ -89,7 +89,7 @@
 
                     <div class="coachbox">
                         <h2>Coach</h2>
-                        <img class="zoomable"src="{{asset('img/dl/Foto-Senior-Coaches-1030x747.jpg')}}">
+                        <img class="zoomable"src="{{asset('img/dl/Gators_Schriftzug_K.png')}}">
                         <br>
                         <h4>Cory</h4>
                     </div>
