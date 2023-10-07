@@ -1,6 +1,6 @@
 <div class="nav-toggle">
   <div class='logo-sm'>
-      <a href="/home"><img src="img/CBF_OHNE_EFFEKT_12119_neu.png" alt="Logo" class="p-4 w-[120px]" /></a>
+      <a href="/home"><img src="img/CBF_LOGO_neu23.png" alt="Logo" class="p-4 w-[120px]" /></a>
   </div>
   <div class="hamburger text-right"><i class="fa-solid fa-bars text-white"></i></div>
 </div>

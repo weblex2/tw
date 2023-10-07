@@ -95,7 +95,7 @@
 
     <div class="index-pic-wrapper">
        <div class="wrapper overflow-hidden m-2">
-        <div class="p p1">PEEWEES</div>
+        <a href="/peewees"><div class="p p1">PEEWEES</div></a>
        </div>
        <div class="wrapper overflow-hidden m-2">
         <div class="p p2">YOUTH</div>
@@ -125,7 +125,7 @@
             <div class="text-5xl font-extrabold">4</div>
             <div class="text-3xl text-stone-300">Teams</div>
         </div>
-        <div class="bg-stone-400 text-white text-center align-middle p-10">
+        <div class="bg-stone-200 text-white text-center align-middle p-10">
             <div class="text-5xl font-extrabold">9</div>
             <div class="text-3xl text-stone-300">Coaches</div>
         </div>
