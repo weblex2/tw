@@ -83,17 +83,20 @@
 
     <div class="index-pic-wrapper">
        <div class="wrapper overflow-hidden m-2">
-        <div class="p p1">JUNIORS</div>
+        <div class="p p1">PEEWEES</div>
        </div>
        <div class="wrapper overflow-hidden m-2">
-        <div class="p p2">PEEWEES</div>
+        <div class="p p2">YOUTH</div>
        </div>
        <div class="wrapper overflow-hidden m-2">
-        <div class="p p3">SENIORS</div>
+        <div class="p p3">JUNIORS</div>
+       </div>
+       <div class="wrapper overflow-hidden m-2">
+        <div class="p p4">SENIORS</div>
        </div>
     </div>
 
-    <div class="grid grid-cols-1 lg:grid-cols-3">
+    <div class="grid grid-cols-2 lg:grid-cols-4">
         <!--div class="bg-white text-center align-middle p-10">
             <div class="text-5xl font-extrabold">107</div>
             <div class="text-3xl">aktive Mitglieder</div>
@@ -110,7 +113,11 @@
             <div class="text-5xl font-extrabold">4</div>
             <div class="text-3xl text-stone-300">Teams</div>
         </div>
-    </div>
+        <div class="bg-stone-400 text-white text-center align-middle p-10">
+            <div class="text-5xl font-extrabold">9</div>
+            <div class="text-3xl text-stone-300">Coaches</div>
+        </div>
+      </div>
     </div>
 
     </div>

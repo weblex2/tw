@@ -54,7 +54,7 @@
         <div class="sub-menu w-full lg:w-[230px]">
             <div class="pb-4 shadow-lg w-full">
                 <div class="grid grid-cols-1 gap-4 w-full">
-                    <div class="ref w-full"><a href="/contact">Kontakt</a></div>
+                    <div class="ref w-full"><a href="/contact">Kontakt / Impressum</a></div>
                 </div>
                 <div class="grid grid-cols-1 gap-4 w-full">
                     <div class="ref w-full"><a href="/privacypolicy">Datenschutz</a></div>
