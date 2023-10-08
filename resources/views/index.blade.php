@@ -16,10 +16,11 @@
 
             <div  class="col-span-3"><i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
             <div class="col-span-9">
-                <h1>Team- u. Fanwear</h1>
+                <h1>COMING SOON!!!</h1>
+                <p>(wir informieren Euch sobald <br>bestellt werden kann)<br></p>
+                <br><h1>Team- u. Fanwear</h1>
                 <hr class="mb-3">
-                <p>Die neue Team- u. Fanwear kann hier bestellt werden:</p>
-                <br>
+                <p>Die neue Team- u. Fanwear kann hier bestellt werden:</p><br>
                 <a href="http://www.herzundberg.de"><strong>Shop Herz und Berg Textildruck</strong> </a>
             </div>
             </div>
@@ -113,19 +114,19 @@
             <div class="text-5xl font-extrabold">107</div>
             <div class="text-3xl">aktive Mitglieder</div>
         </div-->
-        <div class="bg-stone-900 text-white text-center align-middle p-10">
+        <div class="bg-green-900 text-white text-center align-middle p-10">
             <div class="text-5xl font-extrabold">~100</div>
             <div class="text-3xl text-stone-300">Mitglieder</div>
         </div>
-        <div class="bg-stone-700 text-white text-center align-middle p-10">
+        <div class="bg-green-800 text-white text-center align-middle p-10">
             <div class="text-5xl font-extrabold">2013</div>
             <div class="text-3xl text-stone-300">gegründet</div>
         </div>
-        <div class="bg-stone-500 text-white text-center align-middle p-10">
+        <div class="bg-green-700 text-white text-center align-middle p-10">
             <div class="text-5xl font-extrabold">4</div>
             <div class="text-3xl text-stone-300">Teams</div>
         </div>
-        <div class="bg-stone-300 text-white text-center align-middle p-10">
+        <div class="bg-green-500 text-white text-center align-middle p-10">
             <div class="text-5xl font-extrabold">9</div>
             <div class="text-3xl text-stone-300">Coaches</div>
         </div>
