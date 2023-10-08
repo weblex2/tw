@@ -46,7 +46,7 @@
                     </div>
 
                     <h5>2023:</h5>
-                    8. Platz (von 13) Regionalmeisterschaft Süd (PW 1)<br>
+                    10. Platz (von 13) Regionalmeisterschaft Süd (PW 1)<br>
                     <br>
                     5. Platz (von 7) Southern Cheer Classics (PW 1)<br>
                     <br>
@@ -56,7 +56,9 @@
                     9. Platz (von 10) Landesmeisterschaft Bayern (PW 1)<br>
                     <br>
                     <h5>2019:</h5>
-                    1. Platz (von 3) Regionalmeisterschaft Süd (PW 2)<br>
+                    3. Platz (von 3) Regionalmeisterschaft Süd (PW 2)<br>
+                    <br>
+                    1. Platz (von 3) Southern Cheer Classics (PW 2)<br>
                     <br>
                     1. Platz (von 3) Bayern Cheermasters (PW 2)<br>
                     <br>
@@ -72,8 +74,6 @@
                     <br>
                     <h5>2016:</h5>
                     2. Platz (von 5) Bayern Cheermasters (PW 2)<br>
-                    <br>
-                    1. Platz (von 2) Bayern Cheermasters (PW 2)<br>
                     <br>
                     <h5>2015:</h5>
                     3. Platz (von 10) Regionalmeisterschaft Süd (PW 2)<br>
@@ -98,7 +98,7 @@
                     Von 17.30 bis 19.30 Uhr<br>
                     <br>
                     <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;<span class="day">Sonntag</span><br>
-                    Von 17.30 bis 19.30 Uhr<br>
+                    Von 17.00 bis 19.00 Uhr<br>
 
                     <a href="/contact" class="btn btn-contact">
                         Probetraining <br>auf Anfrage
