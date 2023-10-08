@@ -21,8 +21,8 @@
                         <div>85622 Feldkirchen</div>
                         <br/>
                         <div>Sonntag: 17.00 Uhr – 19.00 Uhr</div>
-                        <div>Gemeindehalle Feldkirchen</div>
-                        <div>Richthofenstrasse 1</div>
+                        <div>Dreifachturnhalle Feldkirchen</div>
+                        <div>Olympiastr. 1</div>
                         <div>85622 Feldkirchen</div>
                     </div>
                 </div>
