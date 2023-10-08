@@ -52,7 +52,7 @@
 
                     <p>Weitere Informationen zu unseren
                         <a href="http://cheer-base.de/timetable"><strong>Trainingszeiten</strong> </a>
-                        finden Sie <a href="http://cheer-base.de/timetable">hier</a>.
+                        finden Sie <a href="http://cheer-base.de/timetable"><strong>hier</strong></a>.
                     </p>
                 </div>
                 </div>
