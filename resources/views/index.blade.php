@@ -51,8 +51,8 @@
                     <p>Wir trainieren montags, mittwochs und sonntags.</p><br>
 
                     <p>Weitere Informationen zu unseren
-                        <a href="http://cheer-base.de/timetable"><strong>Trainingszeiten</strong> </a>
-                        finden Sie <a href="http://cheer-base.de/timetable"><strong>hier</strong></a>.
+                        <a href="http://cheer-base.de/training"><strong>Trainingszeiten</strong> </a>
+                        finden Sie <a href="http://cheer-base.de/training"><strong>hier</strong></a>.
                     </p>
                 </div>
                 </div>
