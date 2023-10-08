@@ -70,7 +70,7 @@
                     Landesmeisterschaft Ingolstadt - 25.11.2023<br>
                     <br>
                     <h4>Dezember</h4>
-                    Infinity League Nürnberg - 16.12.2023<br>
+                    Nfinity League Nürnberg - 16.12.2023<br>
                     <br>
                     <h1>2024:</h1>
                     <h4>Januar</h4>
