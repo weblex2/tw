@@ -5,6 +5,7 @@ namespace App\Http\Controllers;
 use Mail;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
+use Illuminate\Http\RedirectResponse;
 
 
 
@@ -39,5 +40,34 @@ class MainController extends Controller
                 'success' => false
             ], 500);
         }
+    }
+
+    public function uploadFile(){
+        return view('uploadFile');
+    }
+
+    public function viewFiles(){
+        return view('viewFiles');
+    }
+
+    public function storeFile(Request $request): RedirectResponse
+    {
+        $request->validate([
+            'file' => 'required|max:2048',
+        ]);
+      
+        $fileName = time().'.'.$request->file->extension();  
+       
+        $request->file->move(storage_path('uploads'), $fileName);
+     
+        /*  
+            Write Code Here for
+            Store $fileName name in DATABASE from HERE 
+        */
+       
+        return back()
+            ->with('success','You have successfully upload file.')
+            ->with('file', $fileName);
+   
     }
 }

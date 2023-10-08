@@ -67,11 +67,16 @@ Route::controller(MainController::class)->group(function(){
     Route::post('sendMail', 'sendMail')->name('sendMail');
 });
 
-/*
+
 Route::middleware(['auth'])->controller(MainController::class)->group(function(){
-    Route::get('', 'index')->name('config.index');
+    Route::controller(MainController::class)->group(function(){
+        Route::get('uploadFile', 'uploadFile')->name('uploadFile');
+        Route::get('viewFiles', 'viewFiles')->name('viewFile');
+        Route::post('storeFile', 'storeFile')->name('storeFile');
+    });    
 });
-*/
+
+
 Route::middleware([
     'auth:sanctum',
     config('jetstream.auth_session'),
