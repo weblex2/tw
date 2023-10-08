@@ -2,7 +2,7 @@
     <div class="footer-content">
         <div class="px-5">
             <div class="border-t border-b border-gray-500 py-4">
-            <h2>CHEERBASE FELDKIRCHEN E.V.</h2>
+            <h2>CHEER BASE FELDKIRCHEN E.V.</h2>
             </div>
             <div class="pt-8 text-gray-300">
                 <div>1. Vorsitzender:</div>
