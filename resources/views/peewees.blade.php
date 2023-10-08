@@ -18,7 +18,7 @@
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon fa-calendar "></i>
-                        <span  class="font-semibold"> &nbsp;&nbsp;Alter 6 - 12 Jahre</span>
+                        <span  class="font-semibold"> &nbsp;&nbsp;Alter 7 - 12 Jahre</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon fa-trophy"></i>
