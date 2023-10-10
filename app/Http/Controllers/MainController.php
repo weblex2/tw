@@ -66,8 +66,12 @@ class MainController extends Controller
         */
        
         return back()
-            ->with('success','You have successfully upload file.')
+            ->with('success','File successfully uploaded.')
             ->with('file', $fileName);
    
+    }
+
+    public function downloadFile($path){
+        echo $path;
     }
 }
