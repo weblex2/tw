@@ -173,7 +173,7 @@ nav .ref:hover{
 }
 
 .team-header-content-grid div .icon {
-    @apply  text-green-500 mr-2
+    @apply  text-green-500 mr-2 
 }
 
 .whatwedo-wrapper{
