@@ -17,10 +17,6 @@
                         <span  class="font-semibold"> 6 Coaches</span>
                     </div>
                     <div class="icon-wrapper">
-                        <i class="icon fa-calendar "></i>
-                        <span  class="font-semibold"> &nbsp;&nbsp;31 Juniors</span>
-                    </div>
-                    <div class="icon-wrapper">
                         <i class="icon fa-trophy"></i>
                         <span  class="font-semibold"> Junior Allgirl Level 3</span>
                     </div>
@@ -45,7 +41,7 @@
                     </div>
 
                     <h5>2023:</h5>
-                    3. Platz Regionalmeisterschaft Süd (JA 3)<br>
+                    3. Platz (von 6) Regionalmeisterschaft Süd (JA 3)<br>
                     <br>
                     6. Platz (von 14) Deutsche Pokal-Meisterschaft (JA 3)<br>
                     <br>
@@ -93,10 +89,16 @@
 
                     <div class="coachbox">
                         <h2>Coaches</h2>
-                        <h4>Headcoaches:</h4>
+                        <h4>Headcoach:</h4>
                         <img class="zoomable"src="{{asset('img/dl/Foto-Junior-Head-Coaches-1030x711.jpg')}}">
                         <br>
                         Ali
+                        <br>
+                        <br>
+                        <h4>Co-Coaches:</h4>
+                        <img class="zoomable" src="{{asset('img/dl/Foto-Junior-Co-Coaches-1030x787.jpg')}}">
+                        <br>
+                        Melis
                         <br>
                         <br>
                         <h4>Co-Coaches:</h4>
