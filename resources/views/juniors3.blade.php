@@ -10,7 +10,7 @@
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon fa-star"></i>
-                        <span class="font-semibold"> 31 Juniors</span>
+                        <span class="font-semibold"> 23 Juniors</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon fa-user-group"></i>
