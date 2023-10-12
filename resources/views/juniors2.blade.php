@@ -73,27 +73,27 @@
                         <br>
                         <br>
                         <h4>Co-Coache:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Ali-1030x787.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Ali-1030x710.jpg')}}">
                         <br>
                         Ali
                         <br>
                         <br>
                         <h4>Co-Coache:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Melis-1030x787.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Melis-1030x710.jpg')}}">
                         <br>
                         Melis
                         <br>
                         <br>
                         <h4>Co-Coache:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Emma-1030x787.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Nele-1030x710.jpg')}}">
                         <br>
-                        Emma
+                        Nele
                         <br>
                         <br>
                         <h4>Co-Coache:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Mexo-Melisa-1030x870.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Emma-1030x710.jpg')}}">
                         <br>
-                        Mexo
+                        Emma
                     </div>
                 </div>
             </div>
