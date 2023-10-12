@@ -72,13 +72,25 @@
                         Mexo
                         <br>
                         <br>
-                        <h4>Co-Coaches:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Foto-Junior-Co-Coaches-1030x787.jpg')}}">
+                        <h4>Co-Coache:</h4>
+                        <img class="zoomable" src="{{asset('img/dl/Ali-1030x787.jpg')}}">
                         <br>
-                        Nele & Emma
+                        Ali
                         <br>
                         <br>
-                        <h4>Assistant-Coaches:</h4>
+                        <h4>Co-Coache:</h4>
+                        <img class="zoomable" src="{{asset('img/dl/Melis-1030x787.jpg')}}">
+                        <br>
+                        Melis
+                        <br>
+                        <br>
+                        <h4>Co-Coache:</h4>
+                        <img class="zoomable" src="{{asset('img/dl/Emma-1030x787.jpg')}}">
+                        <br>
+                        Emma
+                        <br>
+                        <br>
+                        <h4>Co-Coache:</h4>
                         <img class="zoomable" src="{{asset('img/dl/Mexo-Melisa-1030x870.jpg')}}">
                         <br>
                         Mexo
