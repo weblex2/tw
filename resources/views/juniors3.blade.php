@@ -14,7 +14,7 @@
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon fa-user-group"></i>
-                        <span  class="font-semibold"> 6 Coaches</span>
+                        <span  class="font-semibold"> 5 Coaches</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon fa-trophy"></i>
