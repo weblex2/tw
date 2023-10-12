@@ -57,7 +57,6 @@ class MainController extends Controller
         ]);
       
         $fileName = $request->file->getClientOriginalName();  
-       
         $request->file->move(storage_path('uploads'), $fileName);
      
         /*  
@@ -72,7 +71,7 @@ class MainController extends Controller
     }
 
     public function downloadFile($file){
-       $file = storage_path('uploads').'\\'.$file;
+       $file = storage_path('uploads').'/'.$file;
        return response()->download($file);
     }
 }
