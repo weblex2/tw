@@ -74,7 +74,7 @@
                     <br>
                     <h1>2024:</h1>
                     <h4>Januar</h4>
-                    <br>
+                    Neujahrsempfang - 13.01.2024<br>
                     <br>
                     <h4>Februar</h4>
                     Regionalmeisterschaft Göppingen - 10.02.2024<br>
@@ -83,6 +83,7 @@
                     Deutsche Meisterschaft Bonn - 16/17.03.2024<br>
                     <br>
                     <h4>Mai</h4>
+                    Southern Cheer Classics Haar - 11.05.2024
                     Elite Cheerleading Championship Bottrop - 18.-20.05.2024<br>
                     <br>
                     <h4>Juli</h4>
@@ -99,13 +100,13 @@
         <a href="/peewees"><div class="p p1">PEEWEES</div></a>
        </div>
        <div class="wrapper overflow-hidden m-2">
-        <div class="p p2">YOUTH</div>
+       <div class="p p2">JUNIORS LEVEL 2</div>
        </div>
        <div class="wrapper overflow-hidden m-2">
-        <div class="p p3">JUNIORS</div>
+       <div class="p p3">JUNIORS LEVEL 3</div>
        </div>
        <div class="wrapper overflow-hidden m-2">
-        <div class="p p4">SENIORS</div>
+       <div class="p p4">SENIORS</div>
        </div>
     </div>
 

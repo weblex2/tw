@@ -5,24 +5,20 @@
         <div class="content team-header-content">
             <div class="team-header-content-grid">
                 <div>
-                    <h1>JUNIOR ALLGIRL</h1>
+                    <h1>JUNIORS</h1>
                     <h1>GATORS UNITED</h1>
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon fa-star"></i>
-                        <span class="font-semibold"> 31 Juniors</span>
+                        <span class="font-semibold"> 23 Juniors</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon fa-user-group"></i>
-                        <span  class="font-semibold"> 6 Coaches</span>
-                    </div>
-                    <div class="icon-wrapper">
-                        <i class="icon fa-calendar "></i>
-                        <span  class="font-semibold"> &nbsp;&nbsp;31 Juniors</span>
+                        <span  class="font-semibold"> 5 Coaches</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon fa-trophy"></i>
-                        <span  class="font-semibold"> Junior Allgirl Level 3</span>
+                        <span  class="font-semibold"> Junior Allgirl Level 2</span>
                     </div>
                 </div>
             </div>
@@ -35,9 +31,10 @@
             <div class="whatwedo">
                 <div class="col-span-5 p-10">
                     <h2>WAS WIR MACHEN</h2>
-                    Unser Junior Allgirl – Team sind Mädchen im Alter zwischen 12 – 17 Jahren und sind die “Goldene Mitte”.<br>
+                    Unser neues Youth Allgirl – Team sind Mädchen im Alter zwischen 12 – 16 Jahren und sind die Jüngsten 
+                    der “Goldene Mitte”.<br>
                     <br>
-                    Trainiert werden sie von vier Coaches, mit viel Erfahrung aus der eigenen aktiven Zeit.
+                    Trainiert werden sie von dem Juniors-Coaches-Team, mit viel Erfahrung aus der eigenen aktiven Zeit.
 
                     <div class="block my-10 text-center w-fit">
                     <div class="fa-solid fa-trophy text-5xl border-2 mb-2 rounded-full border-yellow-400 p-5 text-yellow-400"></div>
@@ -45,33 +42,9 @@
                     </div>
 
                     <h5>2023:</h5>
-                    3. Platz Regionalmeisterschaft Süd (JA 3)<br>
+                    Das Team startet zum ersten Mal auf der Infinity League in Nürnberg<br>
                     <br>
-                    6. Platz (von 14) Deutsche Pokal-Meisterschaft (JA 3)<br>
-                    <br>
-                    1. Platz (von 2) Southern Cheer Classics (JA 3)<br>
-                    <br>
-                    <h5>2022:</h5>
-                    29. Platz (von 35) Elite Cheerleading Championsship (JA 3)<br>
-                    <br>
-                    3. Platz (von 7) Landesmeisterschaft Bayern (JA 3)<br>
-                    <br>
-                    <h5>2020:</h5>
-                    19. Platz (von 22) Regionalmeisterschaft Süd (JA 3)<br>
-                    <br>
-                    <h5>2019:</h5>
-                    13. Platz (von 19) Landesmeisterschaft Bayern (JA 3)<br>
-                    <br>
-                    <h5>2014:</h5>
-                    8. Platz (von 11) Regionalmeisterschaft Süd (JA 4)<br>
-                    <br>
-                    1. Platz (von 4) Bayern Cheermasters (JA 3)<br>
-                    <br>
-                    <h5>2013:</h5>
-                    7. Platz (von 8) Regionalmeisterschaft Süd (JA 4)<br>
-                    <br>
-                    4. Platz (von 5) SCDC (JA 4)<br>
-                    <br>
+                    
 
                 </div>
                 <div class="training-times col-span-3">
@@ -93,22 +66,34 @@
 
                     <div class="coachbox">
                         <h2>Coaches</h2>
-                        <h4>Headcoaches:</h4>
-                        <img class="zoomable"src="{{asset('img/dl/Foto-Junior-Head-Coaches-1030x711.jpg')}}">
+                        <h4>Headcoach:</h4>
+                        <img class="zoomable"src="{{asset('img/dl/Mexo-1030x710.jpg')}}">
                         <br>
-                        Ali & Melis
+                        Mexo
                         <br>
                         <br>
-                        <h4>Co-Coaches:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Foto-Junior-Co-Coaches-1030x787.jpg')}}">
+                        <h4>Co-Coach:</h4>
+                        <img class="zoomable" src="{{asset('img/dl/Ali-1030x710.jpg')}}">
+                        <br>
+                        Ali
+                        <br>
+                        <br>
+                        <h4>Co-Coach:</h4>
+                        <img class="zoomable" src="{{asset('img/dl/Melis-1030x710.jpg')}}">
+                        <br>
+                        Melis
+                        <br>
+                        <br>
+                        <h4>Co-Coach:</h4>
+                        <img class="zoomable" src="{{asset('img/dl/Nele-1030x710.jpg')}}">
                         <br>
                         Nele
                         <br>
                         <br>
-                        <h4>Assistant-Coaches:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Mexo-Melisa-1030x870.jpg')}}">
+                        <h4>Co-Coach:</h4>
+                        <img class="zoomable" src="{{asset('img/dl/Emma-1030x710.jpg')}}">
                         <br>
-                        Mexo
+                        Emma
                     </div>
                 </div>
             </div>
