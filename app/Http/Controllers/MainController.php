@@ -75,4 +75,10 @@ class MainController extends Controller
        $file = storage_path('uploads').'/'.$file;
        return response()->download($file);
     }
+
+    public function deleteFile($file){
+        $file = storage_path('uploads').'/'.$file;
+        unlink($file);
+        return view('viewFiles');
+    }    
 }

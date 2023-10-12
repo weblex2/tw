@@ -37,12 +37,18 @@
                                 $file_path = $file;
                             @endphp
                         <div class="file flex align-center text-center">
-                            <a href="{!! route('downloadFile', $file) !!}" download>
+                            
                                 <div>
-                                <span><img src="/img/file2.png" class="w-5 float-left"></span>
-                                <span class="float-left">{{ $file}}</span>
+                                    <a href="{!! route('deleteFile', $file) !!}">
+                                        <span><img src="/img/delete-file.png" class="w-3 mt-1 float-left ml-1"></span>
+                                    </a>    
+                                    
+                                    <a href="{!! route('downloadFile', $file) !!}" download>
+                                        <span><img src="/img/file2.png" class="w-5 float-left"></span>
+                                        <span class="float-left">{{ $file}}</span>
+                                    </a>
                                 </div>
-                            </a>
+                            
                         </div>
                     @endforeach
                 </div>    
