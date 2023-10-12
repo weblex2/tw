@@ -53,7 +53,8 @@ class MainController extends Controller
     public function storeFile(Request $request): RedirectResponse
     {
         $request->validate([
-            'file' => 'required|max:2048',
+            #'file' => 'required|max:2048',
+            'file' => 'required',
         ]);
       
         $fileName = $request->file->getClientOriginalName();  
