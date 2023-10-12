@@ -1,8 +1,18 @@
 <x-app-layout>
-    <div class="">
-        <div class="w-full mx-auto sm:px-6 lg:px-8">
-            <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg p-10">
-       
+    <x-slot name="header">
+        <h2 class="font-semibold text-xl text-gray-800 leading-tight">
+            {{ __('Dashboard - Upload Files') }}
+        </h2>
+    </x-slot>
+    <div>
+        <div class="w-full bg-white mx-auto sm:px-6 border-t border-b-2 border-gray-200 ">
+            
+            <div class="p-3 w-fit">
+                <a href="{{route('uploadFile')}}">
+                <div><img src="img/upload_file.png" class="float-left w-6 mr-1"><span class="font-extrabold">Upload File</span></div> 
+                </a>
+            </div>  
+
                 <div class="panel panel-primary">
     
                 <div class="panel-heading mb-5 text-xl font-extrabold">
@@ -34,7 +44,7 @@
             
                         <div class="mb-3">
                             <button type="submit" class="btn border-green-900 bg-green-600 px-5 py-3 rounded-xl text-white font-extrabold ">Upload</button>
-                            <a href="viewFiles" class="btn border-blue-900 bg-blue-600 px-5 py-3 rounded-xl text-white font-extrabold ">Vie</a>
+                            <a href="viewFiles" class="btn border-blue-900 bg-blue-600 px-5 py-3 rounded-xl text-white font-extrabold ">View Files</a>
                         </div>
                     </form>
                 

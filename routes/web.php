@@ -75,6 +75,7 @@ Route::middleware(['auth'])->controller(MainController::class)->group(function()
         Route::get('viewFiles', 'viewFiles')->name('viewFile');
         Route::post('storeFile', 'storeFile')->name('storeFile');
         Route::get('files/{file_name}', 'downloadFile')->name('downloadFile');
+        Route::get('dashboard', 'viewFiles')->name('dashboard');
     });    
 });
 
@@ -85,7 +86,7 @@ Route::middleware([
     config('jetstream.auth_session'),
     'verified'
 ])->group(function () {
-    Route::get('/dashboard', function () {
+    /* Route::get('/dashboard', function () {
         return view('dashboard');
-    })->name('dashboard');
+    })->name('dashboard'); */
 });
