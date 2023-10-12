@@ -56,7 +56,7 @@ class MainController extends Controller
             'file' => 'required|max:2048',
         ]);
       
-        $fileName = time().'.'.$request->file->extension();  
+        $fileName = $request->file->getClientOriginalName();  
        
         $request->file->move(storage_path('uploads'), $fileName);
      
@@ -71,7 +71,8 @@ class MainController extends Controller
    
     }
 
-    public function downloadFile($path){
-        echo $path;
+    public function downloadFile($file){
+       $file = storage_path('uploads').'\\'.$file;
+       return response()->download($file);
     }
 }

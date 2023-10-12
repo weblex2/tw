@@ -74,14 +74,10 @@ Route::middleware(['auth'])->controller(MainController::class)->group(function()
         Route::get('uploadFile', 'uploadFile')->name('uploadFile');
         Route::get('viewFiles', 'viewFiles')->name('viewFile');
         Route::post('storeFile', 'storeFile')->name('storeFile');
-        Route::get('files/{file_name}', function($file_name = null){
-            $path = storage_path().'/'.'uploads/'.$file_name;
-            if (file_exists($path)) {
-                return Response::download($path);
-            }
-        })->name('downloadFile');
+        Route::get('files/{file_name}', 'downloadFile')->name('downloadFile');
     });    
 });
+
 
 
 Route::middleware([

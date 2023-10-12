@@ -33,7 +33,8 @@
                         </div>
             
                         <div class="mb-3">
-                            <button type="submit" class="btn border-grey-900 bg-green-600 px-5 py-3 rounded-xl text-white font-extrabold ">Upload</button>
+                            <button type="submit" class="btn border-green-900 bg-green-600 px-5 py-3 rounded-xl text-white font-extrabold ">Upload</button>
+                            <a href="viewFiles" class="btn border-blue-900 bg-blue-600 px-5 py-3 rounded-xl text-white font-extrabold ">Vie</a>
                         </div>
                     </form>
                 
