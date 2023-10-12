@@ -184,8 +184,8 @@
             <div>
                 <h1>Cory</h1>
                 <div>Senior Head-Coach</div>
-                <div>Cheerleader seit: 2012</div>
-                <div>Coach seit: 2014</div>
+                <div>Cheerleader seit: </div>
+                <div>Coach seit: </div>
                 <div>Coachingerfahrung: Junior und Senior Level 3 u. 4</div>
             </div>
         </div>
