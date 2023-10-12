@@ -67,7 +67,7 @@
                     <div class="coachbox">
                         <h2>Coaches</h2>
                         <h4>Headcoach:</h4>
-                        <img class="zoomable"src="{{asset('img/dl/Mexo-Melisa-1030x870.jpg')}}">
+                        <img class="zoomable"src="{{asset('img/dl/Mexo-1030x710.jpg')}}">
                         <br>
                         Mexo
                         <br>

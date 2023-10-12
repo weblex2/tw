@@ -90,31 +90,31 @@
                     <div class="coachbox">
                         <h2>Coaches</h2>
                         <h4>Headcoach:</h4>
-                        <img class="zoomable"src="{{asset('img/dl/Foto-Junior-Head-Coaches-1030x711.jpg')}}">
+                        <img class="zoomable"src="{{asset('img/dl/Ali-1030x710.jpg')}}">
                         <br>
                         Ali
                         <br>
                         <br>
                         <h4>Co-Coaches:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Foto-Junior-Co-Coaches-1030x787.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Melis-1030x710.jpg')}}">
                         <br>
                         Melis
                         <br>
                         <br>
                         <h4>Co-Coaches:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Foto-Junior-Co-Coaches-1030x787.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Nele-1030x710.jpg')}}">
                         <br>
                         Nele
                         <br>
                         <br>
                         <h4>Co-Coaches:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Foto-Junior-Co-Coaches-1030x787.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Emma-1030x710.jpg')}}">
                         <br>
                         Emma
                         <br>
                         <br>
                         <h4>Assistant-Coaches:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Mexo-Melisa-1030x870.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Mexo-1030x710.jpg')}}">
                         <br>
                         Mexo
                     </div>
