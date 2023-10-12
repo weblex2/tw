@@ -107,10 +107,11 @@
         <div class="coach-info-1">
             <div>
                 <h1>Melis</h1>
-                <div>Junior Head-Coach</div>
-                <div>Cheerleader seit: 2012</div>
-                <div>Coach seit: 2018</div>
-                <div>Coachingerfahrung: Junior und Senior Level 3 u. 4</div>
+                <div>Junior Coach</div>
+                <div>Cheerleader seit: 2007</div>
+                <div>Coach seit: 2014</div>
+                <div>(mit 3 jähriger Pause)</div>
+                <div>Coachingerfahrung: Junior und Senior Level 3,4,5 u. 6</div>
             </div>
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
