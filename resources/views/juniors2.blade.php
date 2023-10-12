@@ -10,19 +10,15 @@
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon fa-star"></i>
-                        <span class="font-semibold"> 10 Youth</span>
+                        <span class="font-semibold"> 23 Juniors</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon fa-user-group"></i>
                         <span  class="font-semibold"> 5 Coaches</span>
                     </div>
                     <div class="icon-wrapper">
-                        <i class="icon fa-calendar "></i>
-                        <span  class="font-semibold"> &nbsp;&nbsp;10 Youth</span>
-                    </div>
-                    <div class="icon-wrapper">
                         <i class="icon fa-trophy"></i>
-                        <span  class="font-semibold"> Youth Allgirl Level 2</span>
+                        <span  class="font-semibold"> Junior Allgirl Level 2</span>
                     </div>
                 </div>
             </div>
@@ -35,7 +31,7 @@
             <div class="whatwedo">
                 <div class="col-span-5 p-10">
                     <h2>WAS WIR MACHEN</h2>
-                    Unser neues Youth Allgirl – Team sind Mädchen im Alter zwischen 12 – 15 Jahren und sind die Jüngsten 
+                    Unser neues Youth Allgirl – Team sind Mädchen im Alter zwischen 12 – 16 Jahren und sind die Jüngsten 
                     der “Goldene Mitte”.<br>
                     <br>
                     Trainiert werden sie von dem Juniors-Coaches-Team, mit viel Erfahrung aus der eigenen aktiven Zeit.
@@ -70,10 +66,10 @@
 
                     <div class="coachbox">
                         <h2>Coaches</h2>
-                        <h4>Headcoaches:</h4>
-                        <img class="zoomable"src="{{asset('img/dl/Foto-Junior-Head-Coaches-1030x711.jpg')}}">
+                        <h4>Headcoach:</h4>
+                        <img class="zoomable"src="{{asset('img/dl/Mexo-Melisa-1030x870.jpg')}}">
                         <br>
-                        Ali & Melis
+                        Mexo
                         <br>
                         <br>
                         <h4>Co-Coaches:</h4>

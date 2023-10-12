@@ -96,7 +96,7 @@
                         <h4>Headcoaches:</h4>
                         <img class="zoomable"src="{{asset('img/dl/Foto-Junior-Head-Coaches-1030x711.jpg')}}">
                         <br>
-                        Ali & Melis
+                        Ali
                         <br>
                         <br>
                         <h4>Co-Coaches:</h4>
