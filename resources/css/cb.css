@@ -372,7 +372,11 @@ nav .ref:hover{
     text-align: center;
 }
 
-input[type="text"], input[type="email"], textarea{
+input[type="text"],  textarea{
+    @apply border-2 border-white bg-slate-400 p-5 bg-opacity-0 placeholder-gray-200 focus:border-white focus:ring-0
+}
+
+.cb_email{
     @apply border-2 border-white bg-slate-400 p-5 bg-opacity-0 placeholder-gray-200 focus:border-white focus:ring-0
 }
 

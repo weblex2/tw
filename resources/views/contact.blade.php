@@ -40,7 +40,7 @@
                                     <h1>Kontakt</h1>
                                 </div>
                                 <div><input class="w-full" type="text" id="name" name="name" placeholder="Name*" value="Name*" required></div>
-                                <div><input class="w-full" type="email" id="email" name="email" placeholder="Email*" value="E-Mail-Adresse*" required></div>
+                                <div><input class="w-full cb_email" type="email" id="email" name="email" placeholder="Email*" value="E-Mail-Adresse*" required></div>
                                 <div class="lg:col-span-2">
                                     <input class="w-full" type="text" id="subject" name="betreff" placeholder="Betreff*" value="Betreff" required>
                                 </div>
