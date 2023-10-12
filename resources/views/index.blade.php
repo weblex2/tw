@@ -74,7 +74,7 @@
                     <br>
                     <h1>2024:</h1>
                     <h4>Januar</h4>
-                    Neujahrsempfang - 13.01.2024
+                    Neujahrsempfang - 13.01.2024<br>
                     <br>
                     <h4>Februar</h4>
                     Regionalmeisterschaft Göppingen - 10.02.2024<br>
