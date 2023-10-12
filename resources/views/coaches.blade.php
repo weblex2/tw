@@ -172,7 +172,7 @@
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
                 <h2>Über Mexo:</h2>
-                Mexo ist seit diesem Jahr Coach des Junior-Teams.
+                Mexo ist seit diesem Jahr Coach des Junior Level 2 - Teams.
             </div>
         </div>
 

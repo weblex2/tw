@@ -36,12 +36,12 @@ Route::get('/peewees', function () {
     return view('peewees');
 });
 
-Route::get('/youth', function () {
-    return view('youth');
+Route::get('/juniors2', function () {
+    return view('juniors2');
 });
 
-Route::get('/juniors', function () {
-    return view('juniors');
+Route::get('/juniors3', function () {
+    return view('juniors3');
 });
 
 Route::get('/seniors', function () {

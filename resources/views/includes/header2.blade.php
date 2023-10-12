@@ -25,8 +25,8 @@
             <div class="pb-4 lg:shadow-lg">
               <div class="lg:w-[200px] ">
                 <div class="ref"><a href="/peewees">Peewees</a></div>
-                <div class="ref"><a href="/youth">Youth</a></div>
-                <div class="ref"><a href="/juniors">Juniors</a></div>
+                <div class="ref"><a href="/juniors2">Juniors Level 2</a></div>
+                <div class="ref"><a href="/juniors3">Juniors Level 3</a></div>
                 <div class="ref"><a href="/seniors">Seniors</a></div>
                 <div class="ref"><a href="/coaches">Coaches</a></div>
               </div>
