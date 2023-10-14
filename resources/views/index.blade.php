@@ -71,10 +71,12 @@
                     <br>
                     <h4>Dezember</h4>
                     Nfinity League Nürnberg - 16.12.2023<br>
+                    Weihnachtsmarkt Feldkirchen - 17.12.2023<br>
                     <br>
                     <h1>2024:</h1>
                     <h4>Januar</h4>
-                    Neujahrsempfang - 13.01.2024<br>
+                    Neujahrsempfang - 13.01. o. 20.01.2024<br>
+                    (Infos folgen)<br>
                     <br>
                     <h4>Februar</h4>
                     Regionalmeisterschaft Göppingen - 10.02.2024<br>
@@ -83,7 +85,7 @@
                     Deutsche Meisterschaft Bonn - 16/17.03.2024<br>
                     <br>
                     <h4>Mai</h4>
-                    Southern Cheer Classics Haar - 11.05.2024
+                    Southern Cheer Classics Haar - 11.05.2024<br>
                     Elite Cheerleading Championship Bottrop - 18.-20.05.2024<br>
                     <br>
                     <h4>Juli</h4>

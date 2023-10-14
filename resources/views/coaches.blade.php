@@ -102,7 +102,7 @@
         </div>
 
         <!-- 5. row -->
-        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Gators_Schriftzug_K.png')]">
+        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Melis-1600x1200.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -153,7 +153,6 @@
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            <h2>Über Emma:</h2>
             Hey, ich bin Emma und habe 2018 bei den Gators mit Cheerleading angefangen. Seit 2021 bin ich Coach bei den Juniors und freue mich meine Leidenschaft an die Kids weitergeben zu können. Mein schönstes Erlebnis als Coach war die Deutsche Meisterschaft 2023, wo wir völlig unerwartet den 6.Platz mit nach Hause genommen haben 😉
             </div>
         </div>
@@ -184,14 +183,14 @@
             <div>
                 <h1>Cory</h1>
                 <div>Senior Head-Coach</div>
-                <div>Cheerleader seit: </div>
-                <div>Coach seit: </div>
-                <div>Coachingerfahrung: Junior und Senior Level 3 u. 4</div>
+                <div>Cheerleader seit: 1997 </div>
+                <div>Coach seit: 2004</div>
+                <div>Coachingerfahrung: Junior und Senior Level 3, 4, 5 u. 6</div>
             </div>
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            Hi, ich bin Cory.
+            Hi, ich bin Cory. Gefühlt bin ich schon ewig beim Cheerleading. Angefangen habe ich 1997 mit dem Cheerleading bei den Munich Cowboys, 2004 habe ich die Flames gegründet und bis 2014 die Abteilung geleitet und selbst gecoached. Seit 2022 bin ich bei CBF und unterstütze das Team der Seniors.
             </div>
         </div>
 
@@ -208,8 +207,7 @@
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-                <h2>Über Thomas: </h2>
-                Thomas ist seit 2023 1. Vorsitzende der Cheerbase Feldkirchen e.V.
+            Als meine Töchter 2016 mit dem Cheerleading begonnen haben, ist meine Begeisterung für diesen Sport entstanden. Ich habe in den folgenden Jahren in verschiednen Bereichen unterstützt und auch als Assistent-Coach die Jüngsten trainiert. In diesen Jahren habe ich unglaublich tolle und engagierte Mensten kennengelernt, die ich nicht mehr missen möchte. Seit 2020 bin ich bei CBF und seit 2023 1. Vorstand.
             </div>
         </div>
 
