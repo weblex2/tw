@@ -77,7 +77,7 @@ Route::middleware(['auth'])->controller(MainController::class)->group(function()
         Route::get('downloadFile/{file?}', 'downloadFile')->name('downloadFile');
         Route::get('deleteFile/{file_name}', 'deleteFile')->name('deleteFile');
         Route::get('dashboard', 'viewFiles')->name('dashboard');
-        Route::post('createFolder/{foldername?}', 'createFolder')->name('createFolder');
+        Route::post('createNewFolder', 'createFolder')->name('createFolder');
     });    
 });
 

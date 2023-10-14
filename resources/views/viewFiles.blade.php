@@ -11,7 +11,7 @@
         <div class="w-full bg-white mx-auto sm:px-6 border-t border-gray-200 ">
             <div class="flex">
                 <div class="p-3 w-fit hover:bg-gray-200 rounded">
-                    <a href="{{route("createFolder")}}" /*onclick="createFolder()"*/>
+                    <a href="javascript:void(0)" onClick="$('#newFolder').removeClass('hidden')">
                     <div><img src="img/new_folder.png" class="float-left w-6 mr-1 "><span class="font-extrabold">Create Folder</span></div> 
                     </a>
                 </div>    
@@ -35,21 +35,20 @@
                     @endif
                     @foreach($files as $i => $file)
                         <div class="file flex align-center text-center">
-                                <div>
-                                    
-                                    {{-- <a href="{!! route('deleteFile', $file['fullPath']) !!}">
-                                        <span><img src="/img/delete-file.png" class="w-3 mt-1 float-left ml-1"></span>
-                                    </a> --}}    
-
+                                <div class="123c hover:bg-gray-200">
                                     @if ($file['isDir'])
-                                        <a href="fileExplorer?path={{$file['fullPath']}}">
+                                        <a  href="fileExplorer?path={{$file['fullPath']}}">
                                             <span><img src="/img/folder.png" class="w-5 float-left"></span>
                                             <span class="float-left">{{ $file['name'] }}</span>
                                         </a>
                                     @else
-                                        <a href="downloadFile?file={!! $file['fullPath'] !!}" target="_blank">
+                                        <a  href="downloadFile?file={!! $file['fullPath'] !!}" target="_blank">
                                             <span><img src="/img/file2.png" class="w-5 float-left"></span>
                                             <span class="float-left">{{ $file['name'] }}</span>
+                                        </a>
+
+                                        <a href="{!! route('deleteFile', $file['fullPath']) !!}">
+                                            <span><img src="/img/delete-file.png" class="w-3 mt-1 float-left ml-1"></span>
                                         </a>
                                     @endif
                                 </div>
@@ -62,11 +61,24 @@
             </div>
         </div>
     </div>
-    <script>
-        function createFolder(){
-            alert("Jo, das mit den Ordnern kommt noch...");
-        }        
-    </script>    
+    
+    <div id="newFolder" class="fixed hidden top-0 left-0 w-screen h-screen flex bg-black bg-opacity-80 justify-center items-center">
+        <div class="bg-white shadow-xl p-10 rounded-xl w-[60%] block">
+            <h1 class="font-extrabold text-xl mb-5">Ordner erstellen</h1>
+            Ordnername 
+            <form id="frmNewFolder" action="createNewFolder" method="post">
+                @csrf
+            <div class="">
+                <input type="text" name='folderName' class="rounded bg-gray-100 w-full">
+                <input type="hidden" name="path" value="{{$currentFolder}}">
+            </div>    
+            <div>
+                <button type="submit" class="bg-blue-400 border border-blue-900 px-6 py-2 rounded mt-10">Erstellen</button>
+            </div>    
+            </form>
+        </div>
+    </div>    
+
 </x-app-layout>
 
 

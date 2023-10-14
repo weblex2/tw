@@ -56,7 +56,12 @@ class MainController extends Controller
         }
         $currentFolder=$path;
         $path  = storage_path($currentFolder); 
-        $dirs  = File::directories($path);  
+        $dirs  = File::directories($path);
+        asort($dirs);  
+
+        #$name = array_column($dirs, 'name');
+        #array_multisort( $name, SORT_ASC, $dirs);
+
         //dump($dirs);
         $files = File::files($path); 
         foreach ($dirs as $i => $dir){
@@ -68,6 +73,8 @@ class MainController extends Controller
             unset($dirs[$i]);
             $dirs[] = $d;
         }
+
+        
         
         foreach($files as $i => $file){
             $f['isDir'] = false;
@@ -134,9 +141,17 @@ class MainController extends Controller
 
     
     public function createFolder(Request $request){
-        dump ($request);
-        #$path=storage_path('uploads').'/Alex_yxz';
-        #Storage::makeDirectory($path);
-        #return view('viewFiles');
+        //dump ($request);
+        $folder = $request->folderName;
+        $path  = $request->path;
+        if ($path==""){
+            $path2 = storage_path("uploads/");
+        }
+        else{
+            $path2 = storage_path($path);
+        }
+        $folder = $path2.'/'.$folder;
+        $res = File::makeDirectory($folder);
+        return redirect('fileExplorer?path='.$path);
     } 
 }
