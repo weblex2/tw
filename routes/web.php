@@ -79,7 +79,7 @@ Route::middleware(['auth'])->controller(MainController::class)->group(function()
         Route::get('dashboard', 'viewFiles')->name('dashboard');
         Route::post('createNewFolder', 'createFolder')->name('createFolder');
     });    
-});
+}); 
 
 
 
