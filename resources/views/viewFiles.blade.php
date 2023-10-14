@@ -49,7 +49,7 @@
                                             <span class="float-left">{{ $file['name'] }}</span>
                                         </a>
 
-                                        <a href="{!! route('deleteFile', $file['fullPath']) !!}">
+                                        <a href="deleteFile?file={!! $file['fullPath'] !!}">
                                             <span><img src="/img/delete-file.png" class="w-3 mt-1 float-left ml-1"></span>
                                         </a>
                                     @endif

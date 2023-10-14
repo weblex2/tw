@@ -75,7 +75,7 @@ Route::middleware(['auth'])->controller(MainController::class)->group(function()
         Route::get('fileExplorer/{path?}', 'viewFiles')->name('viewFile');
         Route::post('storeFile', 'storeFile')->name('storeFile');
         Route::get('downloadFile/{file?}', 'downloadFile')->name('downloadFile');
-        Route::get('deleteFile/{file_name}', 'deleteFile')->name('deleteFile');
+        Route::get('deleteFile', 'deleteFile')->name('deleteFile');
         Route::get('dashboard', 'viewFiles')->name('dashboard');
         Route::post('createNewFolder', 'createFolder')->name('createFolder');
     });    

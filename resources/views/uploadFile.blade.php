@@ -5,16 +5,8 @@
         </h2>
     </x-slot>
     <div>
-        <div class="w-full bg-white mx-auto sm:px-6 border-t border-b-2 border-gray-200 ">
-            
-            <div class="p-3 w-fit">
-                <a href="{{route('uploadFile')}}">
-                <div><img src="img/upload_file.png" class="float-left w-6 mr-1"><span class="font-extrabold">Upload File</span></div> 
-                </a>
-            </div>  
-
-                <div class="panel panel-primary">
-    
+        <div class="w-full bg-white mx-auto sm:px-6 border-t border-b-2 border-gray-200 p-10">
+                
                 <div class="panel-heading mb-5 text-xl font-extrabold">
                     <h2>CheerBase - File Upload</h2>
                 </div>
@@ -36,7 +28,7 @@
                                 type="file" 
                                 name="file" 
                                 id="inputFile"
-                                class="form-control @error('file') is-invalid @enderror">
+                                class="mb-3 form-control @error('file') is-invalid @enderror">
             
                             @error('file')
                                 <span class="text-danger">{{ $message }}</span>
@@ -45,14 +37,12 @@
             
                         <div class="mb-3">
                             <button type="submit" class="btn border-green-900 bg-green-600 px-5 py-3 rounded-xl text-white font-extrabold ">Upload</button>
-                            <a href="fileExplorer?path={{$_GET['path']}}" class="btn border-blue-900 bg-blue-600 px-5 py-3 rounded-xl text-white font-extrabold ">View Files</a>
+                            {{-- <a href="fileExplorer?path={{$_GET['path']}}" class="btn border-blue-900 bg-blue-600 px-5 py-3 rounded-xl text-white font-extrabold ">View Files</a> --}}
                         </div>
                     </form>
                 
                 </div>
             </div>
-        </div>
-        </div>
     </div>
 </x-app-layout>        
             

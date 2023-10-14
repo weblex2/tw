@@ -133,10 +133,19 @@ class MainController extends Controller
        return response()->download($file);
     }
 
-    public function deleteFile($file){
-        $file = storage_path('uploads').'/'.$file;
-        unlink($file);
-        return view('viewFiles');
+    public function deleteFile(){
+        if (isset($_GET['file'])){
+            $file = $_GET['file'];
+        } 
+        else {
+            return "file not found.";
+        }
+        $fileToDelete = storage_path().'/'.$file;
+        unlink($fileToDelete);
+        $p =explode('/', $file);
+        unset($p[count($p)-1]); 
+        $path = implode('/', $p);
+        return redirect('fileExplorer?path='.$path);
     }    
 
     
