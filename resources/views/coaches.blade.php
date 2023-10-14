@@ -184,14 +184,14 @@
             <div>
                 <h1>Cory</h1>
                 <div>Senior Head-Coach</div>
-                <div>Cheerleader seit: </div>
-                <div>Coach seit: </div>
-                <div>Coachingerfahrung: Junior und Senior Level 3 u. 4</div>
+                <div>Cheerleader seit: 1997 </div>
+                <div>Coach seit: 2004</div>
+                <div>Coachingerfahrung: Junior und Senior Level 3, 4, 5 u. 6</div>
             </div>
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            Hi, ich bin Cory.
+            Hi, ich bin Cory. Gefühlt bin ich schon ewig beim Cheerleading. Angefangen habe ich 1997 mit dem Cheerleading bei den Munich Cowboys, 2004 habe ich die Flames gegründet und bis 2014 die Abteilung geleitet und selbst gecoached. Seit 2022 bin ich bei CBF und unterstütze das Team der Seniors.
             </div>
         </div>
 
