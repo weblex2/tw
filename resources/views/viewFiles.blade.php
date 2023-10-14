@@ -66,6 +66,29 @@
     
     <div id="newFolder" class="fixed hidden top-0 left-0 w-screen h-screen flex bg-black bg-opacity-80 justify-center items-center">
         <div class="bg-white shadow-xl p-10 rounded-xl w-[60%] block">
+            <div class="float-right mr-2 -mt-2 -ml-2 w-5">
+                <a href="javascript:void(0)" onClick="$('#newFolder').addClass('hidden')">
+                <img  src='img/close.png'>
+                </a>
+            </div>
+            <h1 class="font-extrabold text-xl mb-5">Ordner erstellen</h1>
+            Ordnername 
+            <form id="frmNewFolder" action="createNewFolder" method="post">
+                @csrf
+            <div class="">
+                <input type="text" name='folderName' class="rounded bg-gray-100 w-full">
+                <input type="hidden" name="path" value="{{$currentFolder}}">
+            </div>    
+            <div>
+                <button type="submit" class="bg-blue-400 border border-blue-900 px-6 py-2 rounded mt-10">Erstellen</button>
+            </div>    
+            </form>
+        </div>
+    </div>    
+
+
+    <div id="deleteFile" class="fixed hidden top-0 left-0 w-screen h-screen flex bg-black bg-opacity-80 justify-center items-center">
+        <div class="bg-white shadow-xl p-10 rounded-xl w-[60%] block">
             <h1 class="font-extrabold text-xl mb-5">Ordner erstellen</h1>
             Ordnername 
             <form id="frmNewFolder" action="createNewFolder" method="post">
