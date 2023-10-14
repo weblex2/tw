@@ -57,7 +57,7 @@
                         </div>
                     @endforeach
                     @if (count($files) == 0)
-                        <div class="col-span-5">No files.. </div>
+                        <div class="p-2 file flex align-center text-center hover:bg-gray-200">No files.. </div>
                     @endif
                 </div>    
             </div>
