@@ -29,13 +29,15 @@
                 <div class="p-5 font-extrabold text-xl">{{$currentFolder}}</div>
                 <div class="grid grid-cols-5 gap-1 p-5">
                     @if ($currentFolder!='uploads')
+                    <div class="hover:bg-gray-200 p-2">
                     <a href="fileExplorer?path={{$parentFolder}}">
                         <span><img src="/img/folder.png" class="w-5 mt-1 float-left ml-1">..</span>
                     </a>  
+                    </div>
                     @endif
                     @foreach($files as $i => $file)
-                        <div class="file flex align-center text-center">
-                                <div class="123c hover:bg-gray-200">
+                        <div class="p-2 file flex align-center text-center hover:bg-gray-200">
+                                <div class="">
                                     @if ($file['isDir'])
                                         <a  href="fileExplorer?path={{$file['fullPath']}}">
                                             <span><img src="/img/folder.png" class="w-5 float-left"></span>
