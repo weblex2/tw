@@ -71,12 +71,13 @@ Route::controller(MainController::class)->group(function(){
 
 Route::middleware(['auth'])->controller(MainController::class)->group(function(){
     Route::controller(MainController::class)->group(function(){
-        Route::get('uploadFile', 'uploadFile')->name('uploadFile');
-        Route::get('viewFiles', 'viewFiles')->name('viewFile');
+        Route::get('uploadFile/{path?}', 'uploadFile')->name('uploadFile');
+        Route::get('fileExplorer/{path?}', 'viewFiles')->name('viewFile');
         Route::post('storeFile', 'storeFile')->name('storeFile');
-        Route::get('files/{file_name}', 'downloadFile')->name('downloadFile');
+        Route::get('downloadFile/{file?}', 'downloadFile')->name('downloadFile');
         Route::get('deleteFile/{file_name}', 'deleteFile')->name('deleteFile');
         Route::get('dashboard', 'viewFiles')->name('dashboard');
+        Route::post('createFolder/{foldername?}', 'createFolder')->name('createFolder');
     });    
 });
 

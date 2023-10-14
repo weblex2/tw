@@ -6,8 +6,9 @@ use Mail;
 use Illuminate\Http\Request;
 use Illuminate\Http\Response;
 use Illuminate\Http\RedirectResponse;
-
-
+use Illuminate\Support\Facades\File;
+use Illuminate\Support\Facades\Storage;
+use SplFileInfo;
 
 class MainController extends Controller
 {
@@ -47,7 +48,43 @@ class MainController extends Controller
     }
 
     public function viewFiles(){
-        return view('viewFiles');
+        if (isset($_GET['path'])){
+            $path  = $_GET['path'];
+        }
+        else{
+            $path="uploads";
+        }
+        $currentFolder=$path;
+        $path  = storage_path($currentFolder); 
+        $dirs  = File::directories($path);  
+        //dump($dirs);
+        $files = File::files($path); 
+        foreach ($dirs as $i => $dir){
+            $dir  = new SplFileInfo($dir);
+            $d['isDir'] = true;
+            $d['name']=$dir->getBasename();
+            $d['relPath']=$currentFolder;
+            $d['fullPath']=$currentFolder."/".$dir->getBasename();
+            unset($dirs[$i]);
+            $dirs[] = $d;
+        }
+        
+        foreach($files as $i => $file){
+            $f['isDir'] = false;
+            $f['name']=$file->getBasename();
+            $f['relPath']=$currentFolder;
+            $f['fullPath']=$currentFolder."/".$file->getBasename();
+            $f['ext']=$file->getExtension();
+            unset($files[$i]);
+            $files[] = $f;
+        }
+
+        $files = array_merge($dirs, $files);
+        //dump($files);
+        $cf  = explode('/',$currentFolder);
+        unset($cf[count($cf)-1]);
+        $parentFolder = implode('/',$cf);
+        return view('viewFiles',compact('files','currentFolder','parentFolder'));
     }
 
     public function storeFile(Request $request): RedirectResponse
@@ -56,23 +93,36 @@ class MainController extends Controller
             #'file' => 'required|max:2048',
             'file' => 'required',
         ]);
+
+        $path=$request->path;
+        if ($path==""){
+            $path="uploads";
+        }
       
         $fileName = $request->file->getClientOriginalName();  
-        $request->file->move(storage_path('uploads'), $fileName);
+        $request->file->move(storage_path($path), $fileName);
      
         /*  
             Write Code Here for
             Store $fileName name in DATABASE from HERE 
         */
        
+        $path  = "fileExplorer?path=".$path;
+        return redirect($path);
         return back()
             ->with('success','File successfully uploaded.')
             ->with('file', $fileName);
    
     }
 
-    public function downloadFile($file){
-       $file = storage_path('uploads').'/'.$file;
+    public function downloadFile(){
+       if (isset($_GET['file'])){
+        $file = $_GET['file'];
+       } 
+       else {
+        return "file not found.";
+       }
+       $file = storage_path().'/'.$file;
        return response()->download($file);
     }
 
@@ -81,4 +131,12 @@ class MainController extends Controller
         unlink($file);
         return view('viewFiles');
     }    
+
+    
+    public function createFolder(Request $request){
+        dump ($request);
+        #$path=storage_path('uploads').'/Alex_yxz';
+        #Storage::makeDirectory($path);
+        #return view('viewFiles');
+    } 
 }

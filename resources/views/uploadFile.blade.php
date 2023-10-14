@@ -31,6 +31,7 @@
             
                         <div class="mb-3">
                             <label class="form-label" for="inputFile">File:</label>
+                            <input type="hidden" name="path" value="{{ $_GET['path'] }}" />
                             <input 
                                 type="file" 
                                 name="file" 
@@ -44,7 +45,7 @@
             
                         <div class="mb-3">
                             <button type="submit" class="btn border-green-900 bg-green-600 px-5 py-3 rounded-xl text-white font-extrabold ">Upload</button>
-                            <a href="viewFiles" class="btn border-blue-900 bg-blue-600 px-5 py-3 rounded-xl text-white font-extrabold ">View Files</a>
+                            <a href="fileExplorer?path={{$_GET['path']}}" class="btn border-blue-900 bg-blue-600 px-5 py-3 rounded-xl text-white font-extrabold ">View Files</a>
                         </div>
                     </form>
                 
