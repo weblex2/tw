@@ -71,6 +71,7 @@
                     <br>
                     <h4>Dezember</h4>
                     Nfinity League Nürnberg - 16.12.2023<br>
+                    Weihnachtsmarkt Feldkirchen - 17.12.2023<br>
                     <br>
                     <h1>2024:</h1>
                     <h4>Januar</h4>
