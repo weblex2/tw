@@ -270,12 +270,12 @@ nav .ref:hover{
 }
 
 .p2{
-    background-image: url(../../public/img/dl/Peewees-Beitragsbild.jpg);
+    background-image: url(../../public/img/dl/Beitragsbild-Juniors.jpg);
     @apply bg-cover
 }
 
 .p3{
-    background-image: url(../../public/img/dl/Beitragsbild-Seniors.jpg);
+    background-image: url(../../public/img/dl/Beitragsbild-Juniors.jpg);
 }
 
 .p4{
