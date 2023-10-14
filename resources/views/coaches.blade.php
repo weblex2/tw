@@ -153,7 +153,6 @@
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            <h2>Über Emma:</h2>
             Hey, ich bin Emma und habe 2018 bei den Gators mit Cheerleading angefangen. Seit 2021 bin ich Coach bei den Juniors und freue mich meine Leidenschaft an die Kids weitergeben zu können. Mein schönstes Erlebnis als Coach war die Deutsche Meisterschaft 2023, wo wir völlig unerwartet den 6.Platz mit nach Hause genommen haben 😉
             </div>
         </div>
@@ -208,8 +207,7 @@
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-                <h2>Über Thomas: </h2>
-                Thomas ist seit 2023 1. Vorsitzende der Cheerbase Feldkirchen e.V.
+            Als meine Töchter 2016 mit dem Cheerleading begonnen haben, ist meine Begeisterung für diesen Sport entstanden. Ich habe in den folgenden Jahren in verschiednen Bereichen unterstützt und auch als Assistent-Coach die Jüngsten trainiert. In diesen Jahren habe ich unglaublich tolle und engagierte Mensten kennengelernt, die ich nicht mehr missen möchte. Seit 2020 bin ich bei CBF und seit 2023 1. Vorstand.
             </div>
         </div>
 
