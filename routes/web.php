@@ -81,6 +81,9 @@ Route::middleware(['auth'])->controller(MainController::class)->group(function()
     });    
 }); 
 
+Route::any('/register', function() {
+    return  "blubb";
+});
 
 
 Route::middleware([
