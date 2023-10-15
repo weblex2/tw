@@ -16,7 +16,7 @@ use Illuminate\Http\Client\Response;
 */
 
 Route::any('/register', function() {
-    //return Redirect::to('/register');
+    //return Redirect::to('/register'); 
 });
 
 Route::get('/welcome', function () {
