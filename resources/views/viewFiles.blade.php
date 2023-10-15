@@ -12,13 +12,13 @@
             <div class="flex">
                 <div class="p-3 w-fit hover:bg-gray-200 rounded">
                     <a href="javascript:void(0)" onClick="$('#newFolder').removeClass('hidden')">
-                    <div><img src="img/new_folder.png" class="float-left w-6 mr-1 "><span class="font-extrabold">Create Folder</span></div> 
+                    <div><img src="img/new_folder.png" class="float-left w-6">&nbsp;&nbsp;<span class="font-extrabold">Create Folder</span></div> 
                     </a>
                 </div>    
 
                 <div class="p-3 w-fit hover:bg-gray-200 rounded">
                     <a href="uploadFile?path={{$currentFolder}}">
-                    <div><img src="img/upload_file.png" class="float-left w-6 mr-1"><span class="font-extrabold">Upload File</span></div> 
+                    <div><img src="img/upload_file.png" class="float-left w-6">&nbsp;&nbsp;<span class="font-extrabold">Upload File</span></div> 
                     </a>
                 </div>
             </div>      
@@ -31,7 +31,7 @@
                     @if ($currentFolder!='uploads')
                     <div class="hover:bg-gray-200 p-2">
                     <a href="fileExplorer?path={{$parentFolder}}">
-                        <span><img src="/img/folder.png" class="w-5 mt-1 float-left ml-1">..</span>
+                        <span><img src="/img/folder.png" class="w-5 mt-2 float-left ml-1">..</span>
                     </a>  
                     </div>
                     @endif
@@ -40,12 +40,17 @@
                                 <div class="">
                                     @if ($file['isDir'])
                                         <a  href="fileExplorer?path={{$file['fullPath']}}">
-                                            <span><img src="/img/folder.png" class="w-5 float-left"></span>
+                                            <span><img src="/img/folder.png" class="mr-1 w-5 float-left"></span>
                                             <span class="float-left">{{ $file['name'] }}</span>
                                         </a>
+                                        @if ($file['deletable'])
+                                            <a href="deleteFile?file={!! $file['fullPath'] !!}">
+                                                <span><img src="/img/delete-file.png" class="w-3 mt-1 float-left ml-1"></span>
+                                            </a>
+                                        @endif
                                     @else
                                         <a  href="downloadFile?file={!! $file['fullPath'] !!}" target="_blank">
-                                            <span><img src="/img/file2.png" class="w-5 float-left"></span>
+                                            <span><img src="/img/file2.png" class="mr-1 w-5 float-left"></span>
                                             <span class="float-left">{{ $file['name'] }}</span>
                                         </a>
 

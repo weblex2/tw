@@ -68,6 +68,9 @@ class MainController extends Controller
             $dir  = new SplFileInfo($dir);
             $d['isDir'] = true;
             $d['name']=$dir->getBasename();
+            $fullDirPath = storage_path($currentFolder."/".$dir->getBasename());
+            $filesInDir  = scandir($fullDirPath);
+            $d['deletable'] = count($filesInDir)>2 ? false : true;
             $d['relPath']=$currentFolder;
             $d['fullPath']=$currentFolder."/".$dir->getBasename();
             unset($dirs[$i]);
@@ -141,12 +144,19 @@ class MainController extends Controller
             return "file not found.";
         }
         $fileToDelete = storage_path().'/'.$file;
-        unlink($fileToDelete);
+        if (is_dir($fileToDelete)){
+            rmdir($fileToDelete);    
+        }
+        else{
+            unlink($fileToDelete);
+        }    
         $p =explode('/', $file);
         unset($p[count($p)-1]); 
         $path = implode('/', $p);
         return redirect('fileExplorer?path='.$path);
     }    
+
+    
 
     
     public function createFolder(Request $request){
