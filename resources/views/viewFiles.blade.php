@@ -101,14 +101,14 @@
                 </a>
             </div>
             <h1 class="font-extrabold text-xl mb-5">Delete File</h1>
-            <div>File <span id="fnDel">Filename</span> wiklich löschen? </div>
+            <div> <span class="font-extrabold text-xl" id="fnDel">Filename</span> wiklich löschen? </div>
             <form id="frmNewFolder" action="deleteFile" method="post">
                 @csrf
             <div class="">
                 <input type="hidden" id="delpath" name="path" value="{{$currentFolder}}">
             </div>    
             <div>
-                <button type="submit" class="bg-blue-400 border border-blue-900 px-6 py-2 rounded mt-10">Erstellen</button>
+                <button type="submit" class="bg-red-400 border border-red-900 px-6 py-2 rounded mt-10">Löschen</button>
             </div>    
             </form>
         </div>
