@@ -36,7 +36,7 @@
                     </div>
                     @endif
                     @foreach($files as $i => $file)
-                        <div class="p-2 file flex align-center text-center hover:bg-gray-200">
+                        <div class="p-2 file flex align-center text-center hover:bg-gray-200 fileWrapper">
                                 <div class="pt-1">
                                     @if ($file['isDir'])
                                         @if ($file['deletable'])
@@ -51,11 +51,11 @@
                                         
                                     @else
                                         <a  href="downloadFile?file={!! $file['fullPath'] !!}" target="_blank">
-                                            <span><img src="/img/file2.png" class="mr-1 mt-1 w-5 float-left"></span>
-                                            <span class="float-left">{{ $file['name'] }}</span>
+                                            <span><img src="/img/file2.png" class="mr-1 w-5 float-left"></span>
+                                            <span class="float-left fn">{{ $file['name'] }}</span>
                                         </a>
-
-                                        <a href="deleteFile?file={!! $file['fullPath'] !!}">
+                                        {{-- deleteFile?file={!! $file['fullPath'] !!} --}}
+                                        <a href="javascript:void(0)" onClick="deleteFile($(this))">
                                             <span><img src="/img/delete-file.png" class="w-3 mt-1 float-left ml-1"></span>
                                         </a>
                                     @endif
@@ -95,8 +95,13 @@
 
     <div id="deleteFile" class="fixed hidden top-0 left-0 w-screen h-screen flex bg-black bg-opacity-80 justify-center items-center">
         <div class="bg-white shadow-xl p-10 rounded-xl w-[60%] block">
-            <h1 class="font-extrabold text-xl mb-5">Ordner erstellen</h1>
-            Ordnername 
+            <div class="float-right mr-2 -mt-2 -ml-2 w-5">
+                <a href="javascript:void(0)" onClick="$('#deleteFile').addClass('hidden')">
+                <img  src='img/close.png'>
+                </a>
+            </div>
+            <h1 class="font-extrabold text-xl mb-5">Delete File</h1>
+            <div>File <span id="fnDel">Filename</span> wiklich löschen? </div>
             <form id="frmNewFolder" action="createNewFolder" method="post">
                 @csrf
             <div class="">
@@ -109,6 +114,15 @@
             </form>
         </div>
     </div>    
+
+    <script>
+        function deleteFile(el){
+            var filename=el.closest('.fileWrapper').find('.fn').text();
+            console.log("fn="+filename)   ;
+            $('#fnDel').text(filename);  
+            $('#deleteFile').removeClass('hidden');  
+        }
+    </script>    
 
 </x-app-layout>
 
