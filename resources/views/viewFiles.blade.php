@@ -101,7 +101,7 @@
                 </a>
             </div>
             <h1 class="font-extrabold text-xl mb-5">Delete File</h1>
-            <div> <span class="font-extrabold text-xl" id="fnDel">Filename</span> wiklich löschen? </div>
+            <div> <span class="font-extrabold text-xl" id="fnDel">Filename</span> wirklich löschen? </div>
             <form id="frmNewFolder" action="deleteFile" method="post">
                 @csrf
             <div class="">
