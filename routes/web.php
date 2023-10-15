@@ -15,6 +15,10 @@ use Illuminate\Http\Client\Response;
 |
 */
 
+Route::any('/register', function() {
+    return  "blubb";
+});
+
 Route::get('/welcome', function () {
     return view('welcome');
 });
@@ -81,9 +85,7 @@ Route::middleware(['auth'])->controller(MainController::class)->group(function()
     });    
 }); 
 
-Route::any('/register', function() {
-    return  "blubb";
-});
+
 
 
 Route::middleware([
