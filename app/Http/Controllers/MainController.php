@@ -136,9 +136,9 @@ class MainController extends Controller
        return response()->download($file);
     }
 
-    public function deleteFile(){
-        if (isset($_GET['file'])){
-            $file = $_GET['file'];
+    public function deleteFile(Request $request){
+        if (isset($request->path)){
+            $file = $request->path;
         } 
         else {
             return "file not found.";

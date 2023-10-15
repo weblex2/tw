@@ -40,13 +40,13 @@
                                 <div class="pt-1">
                                     @if ($file['isDir'])
                                         @if ($file['deletable'])
-                                        <a href="deleteFile?file={!! $file['fullPath'] !!}">
+                                        <a href="javascript:void(0)" onClick="deleteFile($(this))">
                                             <span><img src="/img/delete-file.png" class="w-3 mt-1 mr-1 float-left ml-1" alt="Ordner löschen" title="Ordner löschen"></span>
                                         </a>
                                         @endif
                                         <a  href="fileExplorer?path={{$file['fullPath']}}">
                                             <span><img src="/img/folder.png" class="mr-1 w-5 float-left"></span>
-                                            <span class="float-left">{{ $file['name'] }}</span>
+                                            <span class="float-left fn">{{ $file['name'] }}</span>
                                         </a>
                                         
                                     @else
@@ -102,11 +102,10 @@
             </div>
             <h1 class="font-extrabold text-xl mb-5">Delete File</h1>
             <div>File <span id="fnDel">Filename</span> wiklich löschen? </div>
-            <form id="frmNewFolder" action="createNewFolder" method="post">
+            <form id="frmNewFolder" action="deleteFile" method="post">
                 @csrf
             <div class="">
-                <input type="text" name='folderName' class="rounded bg-gray-100 w-full">
-                <input type="hidden" name="path" value="{{$currentFolder}}">
+                <input type="hidden" id="delpath" name="path" value="{{$currentFolder}}">
             </div>    
             <div>
                 <button type="submit" class="bg-blue-400 border border-blue-900 px-6 py-2 rounded mt-10">Erstellen</button>
@@ -116,10 +115,13 @@
     </div>    
 
     <script>
+        var path="<?php echo $currentFolder; ?>";
+
         function deleteFile(el){
             var filename=el.closest('.fileWrapper').find('.fn').text();
-            console.log("fn="+filename)   ;
+            console.log("fn="+path+"/"+filename)   ;
             $('#fnDel').text(filename);  
+            $('#delpath').val(path+"/"+filename);
             $('#deleteFile').removeClass('hidden');  
         }
     </script>    
