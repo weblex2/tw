@@ -37,20 +37,21 @@
                     @endif
                     @foreach($files as $i => $file)
                         <div class="p-2 file flex align-center text-center hover:bg-gray-200">
-                                <div class="">
+                                <div class="pt-1">
                                     @if ($file['isDir'])
+                                        @if ($file['deletable'])
+                                        <a href="deleteFile?file={!! $file['fullPath'] !!}">
+                                            <span><img src="/img/delete-file.png" class="w-3 mt-1 mr-1 float-left ml-1" alt="Ordner löschen" title="Ordner löschen"></span>
+                                        </a>
+                                        @endif
                                         <a  href="fileExplorer?path={{$file['fullPath']}}">
                                             <span><img src="/img/folder.png" class="mr-1 w-5 float-left"></span>
                                             <span class="float-left">{{ $file['name'] }}</span>
                                         </a>
-                                        @if ($file['deletable'])
-                                            <a href="deleteFile?file={!! $file['fullPath'] !!}">
-                                                <span><img src="/img/delete-file.png" class="w-3 mt-1 float-left ml-1"></span>
-                                            </a>
-                                        @endif
+                                        
                                     @else
                                         <a  href="downloadFile?file={!! $file['fullPath'] !!}" target="_blank">
-                                            <span><img src="/img/file2.png" class="mr-1 w-5 float-left"></span>
+                                            <span><img src="/img/file2.png" class="mr-1 mt-1 w-5 float-left"></span>
                                             <span class="float-left">{{ $file['name'] }}</span>
                                         </a>
 
