@@ -15,9 +15,9 @@ use Illuminate\Http\Client\Response;
 |
 */
 
-Route::any('/register', function() {
+/* Route::any('/register', function() {
     //return Redirect::to('/register'); 
-});
+}); */
 
 Route::get('/welcome', function () {
     return view('welcome');
