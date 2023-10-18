@@ -200,7 +200,7 @@
         <div class="coach-info-1">
             <div>
                 <h1>THOMAS</h1>
-                <div>Position: 1. Vorsitzende</div>
+                <div>Position: 1. Vorsitzender</div>
                 <div>im Verein seit: 2020</div>
                 <div>Tätig seit: 2022</div>
             </div>
