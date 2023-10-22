@@ -121,12 +121,12 @@
                         </div>
                     @endforeach
 
-                    @if ($cntfill>0 && count($files)>0)
+                    {{-- @if ($cntfill>0 && count($files)>0)
                         @for($i = 0; $i<$cntfill; $i++)
                         
                         <div class="relative p-2 file flex align-center text-center fileWrapper border-dashed border-l border-zinc-400">&nbsp;</div>
                         @endfor
-                    @endif
+                    @endif --}}
                     
 
                     @if (count($files) == 0)
