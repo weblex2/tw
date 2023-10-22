@@ -185,7 +185,7 @@
         var path="<?php echo $currentFolder; ?>";
 
         function deleteFile(el){
-            var filename=el.closest('.fileWrapper').find('.fn').text();
+            var filename=el.closest('.fileWrapper').find('.fn').text().trim();
             console.log("fn="+path+"/"+filename)   ;
             $('#fnDel').text(filename);  
             $('#delpath').val(path+"/"+filename);
