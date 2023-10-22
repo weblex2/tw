@@ -61,7 +61,7 @@
                     @foreach($files as $i => $file)
 
 
-                        <div class="relative p-2 file flex align-center text-center hover:bg-gray-200 fileWrapper border-dashed border-l border-zinc-400">
+                        <div class="relative p-2 file flex align-center text-center hover:bg-gray-200 fileWrapper border-dashed  border-zinc-400">
                                 <div class="pt-1 ">
                                     @if ($file['isDir'])
                                         
@@ -107,7 +107,7 @@
                                         <a  href="downloadFile?file={!! $file['fullPath'] !!}" target="_blank">
                                             <span><img src="{{$icon}}" class="mr-1 w-5 float-left"></span>
                                             <p class="float-left fn text-ellipsis overflow-hidden whitespace-nowrap" title="{{$file['name']}}">
-                                                {{ substr($file['name'],0,30) }} {{strlen($file['name'])>30 ? '...' : ''}}
+                                                {{ $file['name'] }} 
                                             </p>
                                         </a>
                                         {{-- deleteFile?file={!! $file['fullPath'] !!} --}}
