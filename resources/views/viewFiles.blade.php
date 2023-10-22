@@ -1,5 +1,16 @@
 @php
-    //dump($files);
+    
+    if ($currentFolder != "uploads"){
+        $back = [
+            "isDir" => true,
+            "name" => "..",
+            "deletable" => false,
+            "relPath" => "..asd",
+            "fullPath" => $parentFolder
+        ] ;
+        array_unshift($files,$back) ;
+        dump($files);
+    }
 @endphp
 <x-app-layout>
     <x-slot name="header">
@@ -18,50 +29,106 @@
 
                 <div class="p-3 w-fit hover:bg-gray-200 rounded">
                     <a href="uploadFile?path={{$currentFolder}}">
-                    <div><img src="img/upload_file.png" class="float-left w-6">&nbsp;&nbsp;<span class="font-extrabold">Upload File</span></div> 
+                    <div><img src="img/icons8-upload-32.png" class="float-left w-6">&nbsp;&nbsp;<span class="font-extrabold">Upload File</span></div> 
                     </a>
                 </div>
             </div>      
         </div>    
         <div class="w-full mx-auto sm:px-6 lg:px-0 border-t border-gray-200">
-            
+            @php
+                $cols = 5;
+                $cntfill  = $cols - (count($files)%$cols);
+            @endphp
             <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
                 <div class="p-5 font-extrabold text-xl">{{$currentFolder}}</div>
-                <div class="grid grid-cols-5 gap-1 p-5">
-                    @if ($currentFolder!='uploads')
-                    <div class="hover:bg-gray-200 p-2">
-                    <a href="fileExplorer?path={{$parentFolder}}">
-                        <span><img src="/img/folder.png" class="w-5 mt-2 float-left ml-1">..</span>
-                    </a>  
+                <div class="grid grid-cols-{{$cols}}  p-5">
+                    
+                    {{-- @if ($currentFolder!='uploads')
+                    <div class="relative p-2 file flex align-center text-center hover:bg-gray-200 fileWrapper border-dashed border-l border-zinc-400">
+                        <div class="pt-1">
+                        <a href="fileExplorer?path={{$parentFolder}}">
+                            <span><img src="/img/icons8-folder-32 (1).png" class="w-5 float-left ml-1">..</span>
+                            <div class="absolute right-2">
+                                <span><img src="/img/icons8-trash-94_2.png" class="w-5 mr-1 -mt-6 float-left ml-1" alt="Ordner löschen" title="Ordner löschen"></span>
+                            </div>
+                        </a>  
+                        </div>
                     </div>
-                    @endif
+                    @endif --}}
+
+                    
+
                     @foreach($files as $i => $file)
-                        <div class="p-2 file flex align-center text-center hover:bg-gray-200 fileWrapper">
-                                <div class="pt-1">
+
+
+                        <div class="relative p-2 file flex align-center text-center hover:bg-gray-200 fileWrapper border-dashed border-l border-zinc-400">
+                                <div class="pt-1 ">
                                     @if ($file['isDir'])
-                                        @if ($file['deletable'])
-                                        <a href="javascript:void(0)" onClick="deleteFile($(this))">
-                                            <span><img src="/img/delete-file.png" class="w-3 mt-1 mr-1 float-left ml-1" alt="Ordner löschen" title="Ordner löschen"></span>
-                                        </a>
-                                        @endif
+                                        
                                         <a  href="fileExplorer?path={{$file['fullPath']}}">
-                                            <span><img src="/img/folder.png" class="mr-1 w-5 float-left"></span>
-                                            <span class="float-left fn">{{ $file['name'] }}</span>
+                                            <span><img src="/img/icons8-folder-32 (1).png" class="mr-1 w-5 float-left"></span>
+                                            <span class="float-left fn text-ellipsis">{{ $file['name'] }}</span>
                                         </a>
+                                        @if ($file['deletable'])
+                                        <div class="absolute right-2">
+                                        <a href="javascript:void(0)" onClick="deleteFile($(this))">
+                                            <span><img src="/img/icons8-trash-94.png" class="w-5 mr-1 float-left ml-1" alt="Ordner löschen" title="Ordner löschen"></span>
+                                        </a>
+                                        </div>
+                                        @else
+                                        <div class="absolute right-2">
+                                                <span><img src="/img/icons8-trash-94_2.png" class="w-5 mr-1 float-left ml-1" alt="Ordner löschen" title="Ordner löschen"></span>
+                                        </div>
+                                        @endif
                                         
                                     @else
+                                        @php 
+                                            $farr = explode('.',$file['name']);
+                                            $ext  = $farr[count($farr) - 1];
+                                        
+                                        switch ($ext){
+                                            case 'docx':
+                                                $icon = '/img/icons8-microsoft-word-48.png';
+                                                break;
+                                            case 'xls':
+                                                $icon = '/img/icons8-xls-48.png';
+                                                break; 
+                                            case 'xlsx':
+                                                $icon = '/img/icons8-xls-48.png';
+                                                break; 
+                                            case 'pdf':
+                                                $icon = '/img/icons8-acrobat-67 (1).png';
+                                                break;          
+                                            default:
+                                                $icon = '/img/icons8-file-94.png';
+                                        }
+                                        @endphp
+
                                         <a  href="downloadFile?file={!! $file['fullPath'] !!}" target="_blank">
-                                            <span><img src="/img/file2.png" class="mr-1 w-5 float-left"></span>
-                                            <span class="float-left fn">{{ $file['name'] }}</span>
+                                            <span><img src="{{$icon}}" class="mr-1 w-5 float-left"></span>
+                                            <p class="float-left fn text-ellipsis overflow-hidden whitespace-nowrap" title="{{$file['name']}}">
+                                                {{ substr($file['name'],0,30) }} {{strlen($file['name'])>30 ? '...' : ''}}
+                                            </p>
                                         </a>
                                         {{-- deleteFile?file={!! $file['fullPath'] !!} --}}
+                                        <div class="absolute right-3">
                                         <a href="javascript:void(0)" onClick="deleteFile($(this))">
-                                            <span><img src="/img/delete-file.png" class="w-3 mt-1 float-left ml-1"></span>
+                                            <div><img src="/img/icons8-trash-94.png" class="w-5 float-left"></div>
                                         </a>
+                                        </div>
                                     @endif
                                 </div>
                         </div>
                     @endforeach
+
+                    @if ($cntfill>0 && count($files)>0)
+                        @for($i = 0; $i<$cntfill; $i++)
+                        
+                        <div class="relative p-2 file flex align-center text-center fileWrapper border-dashed border-l border-zinc-400">&nbsp;</div>
+                        @endfor
+                    @endif
+                    
+
                     @if (count($files) == 0)
                         <div class="p-2 file flex align-center text-center hover:bg-gray-200">No files.. </div>
                     @endif
@@ -97,7 +164,7 @@
         <div class="bg-white shadow-xl p-10 rounded-xl w-[60%] block">
             <div class="float-right mr-2 -mt-2 -ml-2 w-5">
                 <a href="javascript:void(0)" onClick="$('#deleteFile').addClass('hidden')">
-                <img  src='img/close.png'>
+                <img  src='img/icons8-delete-48.png'>
                 </a>
             </div>
             <h1 class="font-extrabold text-xl mb-5">Delete File</h1>
