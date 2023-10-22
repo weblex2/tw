@@ -9,7 +9,7 @@
             "fullPath" => $parentFolder
         ] ;
         array_unshift($files,$back) ;
-        dump($files);
+        //dump($files);
     }
 @endphp
 <x-app-layout>
