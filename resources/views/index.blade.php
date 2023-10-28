@@ -16,13 +16,14 @@
 
             <div  class="col-span-3"><i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
             <div class="col-span-9">
-                <h1>COMING SOON!!!</h1>
-                <p>(wir informieren Euch sobald <br>bestellt werden kann)<br></p>
+            </p>
                 <br><h1>Team- u. Fanwear</h1>
                 <hr class="mb-3">
-                <p>Die neue Team- u. Fanwear kann hier bestellt werden:</p><br>
-                <a href="http://www.herzundberg.de"><strong>Shop "Herz und Berg" Textildruck</strong> </a>
-            </div>
+                <p>Die neue Team- u. Fanwear kann ab sofort bestellt werden</p><br>
+                <a href="http://www.herzundberg.de"><strong>(hier klicken):<br> Shop "Herz und Berg" Textildruck</strong><br><br></a>
+                <br>
+                <p>Nachbestellung der Team-Socken über:</p><br>
+                <strong><a href="mailto:info@cheer-base.com">info@cheer-base.com</a></div></strong> </a>
             </div>
         </div>
 
@@ -75,7 +76,7 @@
                     <br>
                     <h1>2024:</h1>
                     <h4>Januar</h4>
-                    Neujahrsempfang - 13.01. o. 20.01.2024<br>
+                    Neujahrsempfang - 20.01.2024<br>
                     (Infos folgen)<br>
                     <br>
                     <h4>Februar</h4>
