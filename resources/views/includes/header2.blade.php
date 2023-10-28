@@ -19,7 +19,7 @@
 
   <div class="relative group">
         <div class="nav-item">
-            <div>Unser Team</div>
+            <div>Unsere Teams</div>
         </div>
         <div class="sub-menu">
             <div class="pb-4 lg:shadow-lg">
