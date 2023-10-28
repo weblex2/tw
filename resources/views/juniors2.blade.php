@@ -9,15 +9,15 @@
                     <h1>GATORS UNITED</h1>
                     <br>
                     <div class="icon-wrapper">
-                        <i class="icon fa-star"></i>
+                        <i class="icon fa-solid fa-star"></i>
                         <span class="font-semibold"> 23 Juniors</span>
                     </div>
                     <div class="icon-wrapper">
-                        <i class="icon fa-user-group"></i>
+                        <i class="icon fa-solid fa-user-group"></i>
                         <span  class="font-semibold"> 5 Coaches</span>
                     </div>
                     <div class="icon-wrapper">
-                        <i class="icon fa-trophy"></i>
+                        <i class="icon fa-solid fa-trophy"></i>
                         <span  class="font-semibold"> Junior Allgirl Level 2</span>
                     </div>
                 </div>
