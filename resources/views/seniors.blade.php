@@ -9,19 +9,19 @@
                     <h1>GATORS WARRIORS</h1>
                     <br>
                     <div class="icon-wrapper">
-                        <i class="icon fa-star"></i>
+                        <i class="icon  fa-solid fa-star"></i>
                         <span class="font-semibold"> 10 Seniors</span>
                     </div>
                     <div class="icon-wrapper">
-                        <i class="icon fa-user-group"></i>
+                        <i class="icon  fa-solid fa-user-group"></i>
                         <span  class="font-semibold"> 1 Coach</span>
                     </div>
                     <div class="icon-wrapper">
-                        <i class="icon fa-calendar "></i>
+                        <i class="icon  fa-solid fa-calendar "></i>
                         <span  class="font-semibold"> &nbsp;&nbsp;Alter ab 17 Jahren</span>
                     </div>
                     <div class="icon-wrapper">
-                        <i class="icon fa-trophy"></i>
+                        <i class="icon  fa-solid fa-trophy"></i>
                         <span  class="font-semibold"> Senior Coed Level 3</span>
                     </div>
                 </div>
