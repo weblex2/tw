@@ -9,19 +9,19 @@
                     <h1>GATORS RISE</h1>
                     <br>
                     <div class="icon-wrapper">
-                        <i class="icon fa-star"></i>
+                        <i class="icon  fa-solid fa-star"></i>
                         <span class="font-semibold"> 23 Peewees</span>
                     </div>
                     <div class="icon-wrapper">
-                        <i class="icon fa-user-group"></i>
+                        <i class="icon  fa-solid fa-user-group"></i>
                         <span  class="font-semibold"> 3 Coaches</span>
                     </div>
                     <div class="icon-wrapper">
-                        <i class="icon fa-calendar "></i>
+                        <i class="icon  fa-solid fa-calendar "></i>
                         <span  class="font-semibold"> &nbsp;&nbsp;Alter 7 - 12 Jahre</span>
                     </div>
                     <div class="icon-wrapper">
-                        <i class="icon fa-trophy"></i>
+                        <i class="icon  fa-solid fa-trophy"></i>
                         <span  class="font-semibold"> Level 1</span>
                     </div>
                 </div>
