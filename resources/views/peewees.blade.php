@@ -35,7 +35,7 @@
             <div class="whatwedo">
                 <div class="col-span-5 p-10">
                     <h2>WAS WIR MACHEN</h2>
-                    Die Peewees sind Jungs und Mädchen im Alter zwischen 6 – 12 Jahren und sind somit die jüngsten in unserem Verein.
+                    Die Peewees sind Jungs und Mädchen im Alter zwischen 7 – 12 Jahren und sind somit die jüngsten in unserem Verein.
                     Trotzdem erzielen sie große Leistungen und haben sich 2022 für die Regionalmeisterschaft qualifiziert.<br>
                     <br>
                     Trainiert werden sie von drei Coaches, mit viel Erfahrung aus der eigenen aktiven Zeit.
