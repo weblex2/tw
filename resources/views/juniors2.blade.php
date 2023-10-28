@@ -31,7 +31,7 @@
             <div class="whatwedo">
                 <div class="col-span-5 p-10">
                     <h2>WAS WIR MACHEN</h2>
-                    Unser neues Youth Allgirl – Team sind Mädchen im Alter zwischen 12 – 16 Jahren und sind die Jüngsten 
+                    Unser neues Junior Allgirl Level 2 – Team sind Mädchen im Alter zwischen 12 – 16 Jahren und sind die jüngeren 
                     der “Goldene Mitte”.<br>
                     <br>
                     Trainiert werden sie von dem Juniors-Coaches-Team, mit viel Erfahrung aus der eigenen aktiven Zeit.
