@@ -5,7 +5,7 @@
         <div class="content team-header-content">
             <div class="team-header-content-grid">
                 <div>
-                    <h1>JUNIORS</h1>
+                    <h1>JUNIORSX</h1>
                     <h1>GATORS UNITED</h1>
                     <br>
                     <div class="icon-wrapper">
