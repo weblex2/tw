@@ -6,31 +6,27 @@
             </div>
             <div class="pt-8 text-gray-300">
                 <div>1. Vorsitzender:</div>
-                <div>Thomas Wittke</div>
-                <div>Wolframstrasse 20</div>
-                <div>c/o Christine Puzicha</div>
-                <div>85652 Pliening</div>
-                <div>Deutschland</div>
+                <div>Thomas Wittke</div><br>
                 <div>Mobil: 0175 1306365</div>
                 <div>Email: <a href="mailto:info@cheer-base.com">info@cheer-base.com</a></div>
             </div>
         </div>
         <div class="px-5">
             <div class="border-t border-b border-gray-500 py-4">
-                <h2>IMPRESSUM</h2>
+                <h2>IMPRESSUM</h2><br>
             </div>
             <div  class="pt-8 text-gray-300">
                 <div>Angaben gemäss §5 TMG:</div>
                 <div>Cheer Base Feldkirchen e.V.</div>
-                <div>c/o Christine Puzicha</div>
-                <div>Wolframstrasse 20</div>
-                <div>85652 Pliening</div>
+                <div>c/o Lea Fruhstorfer</div>
+                <div>Flurstr. 3</div>
+                <div>85551 Kirchheim</div>
                 <div><a href="/datenschutz">Datenschutzrichtlinien</a></div>
             </div>
         </div>
         <div class="px-5">
             <div class="border-t border-b border-gray-500 py-4">
-                <h2>MITGLIED VON</h2>
+                <h2>MITGLIED VON</h2><br>
             </div>
             <div class="pt-8 text-gray-300">
                 <div><img src='img/ccvd_logo.freigestellt-1.png'></div><br>
