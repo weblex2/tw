@@ -46,6 +46,18 @@
           </div>
    </div!-->
 
+   <div class="relative group">
+      <div class="nav-item">
+          <div><a href="/teamwear">Team- und Fanwear</a></div>
+      </div>
+  </div>
+
+  <!--div class="relative group">
+          <div class="flex flex-row items-center h-full w-full px-4 py-4 mt-2 text-base font-bold text-left uppercase bg-transparent md:w-auto md:mt-0 md:ml-4 focus:outline-none  hover:bg-green-500">
+               <span>Gallery</span>
+          </div>
+   </div!-->
+
 
   <div class="relative group">
         <div class="nav-item">
