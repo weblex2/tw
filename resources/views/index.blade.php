@@ -12,24 +12,24 @@
 
     <div class="w-full max-w-full grid grid-cols-1 lg:grid-cols-3">
         <div class="m m1">
-            <div class="grid grid-cols-12 text-white">
 
-            <div  class="col-span-3"><i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
+            <div class="grid grid-cols-12 text-white">
+            <div  class="col-span-3">
+            <i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
             <div class="col-span-9">
             </p>
-                <br><h1>Team- u. Fanwear</h1>
+                <h1>Showcase <br>für die LM Bayern</h1>
                 <hr class="mb-3">
-                <p>Die neue Team- u. Fanwear kann ab sofort bestellt werden</p><br>
-                <a href="http://www.herzundberg.de"><strong>(hier klicken):<br> Shop "Herz und Berg" Textildruck</strong><br><br></a>
-                <br>
-                <p>Nachbestellung der Team-Socken über:</p><br>
-                <strong><a href="mailto:info@cheer-base.com">info@cheer-base.com</a></div></strong> </a>
+                <p><strong>Datum:<br></strong> Sonntag, 19.11.2023</p><br>
+                <strong>Uhrzeit:<br></strong> 19 Uhr Einlass<br> <br><strong>Ort:<br></strong> Richthofenstr. 1<br> 85622 Feldkirchen<br><br></a>
+                <p><strong>Teams:</strong><br>-Rise (Peewee Level 1)</p>-United (Junior Allgirl Level 3)
+                </div></strong> </a>
             </div>
         </div>
 
         <div class="m m2">
 
-                   <div class="grid grid-cols-12 text-white">
+                <div class="grid grid-cols-12 text-white">
                 <div  class="col-span-3">        
                 <i class="rounded-full icon-big px-7 py-6 fa-solid fa-calendar-days"></i></div>
                 <div class="col-span-9">
