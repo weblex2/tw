@@ -60,6 +60,10 @@ Route::get('/training', function () {
     return view('training');
 });
 
+Route::get('/teamwear', function () {
+    return view('teamwear');
+});
+
 Route::get('/privacypolicy', function () {
     return view('privacypolicy');
 });
