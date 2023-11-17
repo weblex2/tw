@@ -22,7 +22,8 @@
                 <hr class="mb-3">
                 <p><strong>Datum:<br></strong> Sonntag, 19.11.2023</p><br>
                 <strong>Uhrzeit:<br></strong> 19 Uhr Einlass<br> <br><strong>Ort:<br></strong> Richthofenstr. 1<br> 85622 Feldkirchen<br><br></a>
-                <p><strong>Teams:</strong><br>-Rise (Peewee Level 1)</p>-United (Junior Allgirl Level 3)
+                <p><strong>Teams:</strong><br>-Rise (Peewee Level 1)</p>-United (Junior Allgirl Level 3)<br>
+                <br><strong>Der Eintritt ist frei!</strong>
                 </div></strong> </a>
             </div>
         </div>
