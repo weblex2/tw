@@ -155,12 +155,15 @@
         <img class="zoomable" src="{{asset('img/dl/Peewees_Index.jpg')}}">
         </div>
         <div class="bg-green-800 text-white text-center align-middle p-10">
+        <div class="text-3xl text-stone-300">Juniors Level 2</div>
         <img class="zoomable" src="{{asset('img/dl/Juniors_Index.jpg')}}">
         </div>
         <div class="bg-green-700 text-white text-center align-middle p-10">
+        <div class="text-3xl text-stone-300">Juniors Level 3</div>
         <img class="zoomable" src="{{asset('img/dl/Juniors_Index.jpg')}}">
         </div>
         <div class="bg-green-500 text-white text-center align-middle p-10">
+        <div class="text-3xl text-stone-300">Seniors</div>
         <img class="zoomable" src="{{asset('img/dl/Seniors_Index.jpg')}}">
         </div>
       </div>
