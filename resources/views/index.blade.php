@@ -115,16 +115,6 @@
        <div class="p p4">SENIORS</div>
        </div>
     </div>
-
-    <div class="grid grid-cols-2 lg:grid-cols-4">
-    <img class="zoomable" src="{{asset('img/dl/Peewees_Index.jpg')}}">
-    <img class="zoomable" src="{{asset('img/dl/Juniors_Index.jpg')}}">
-    <img class="zoomable" src="{{asset('img/dl/Juniors_Index.jpg')}}">
-    <img class="zoomable" src="{{asset('img/dl/Seniors_Index.jpg')}}">
-    </div>
-
-
-
     <div class="grid grid-cols-2 lg:grid-cols-4">
         <!--div class="bg-white text-center align-middle p-10">
             <div class="text-5xl font-extrabold">107</div>
