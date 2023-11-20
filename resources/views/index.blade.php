@@ -25,7 +25,8 @@
                 <p><strong>Team:<br></strong> Gators United, Juniors Allgirl Level 3</p>
                 <strong>Startzeit:<br></strong> 16:20h<br>
                 
-                <br><strong>Für den Livestream-Link</strong><br>follow us on Instagram: cbf_gators
+                <br><strong>Für den Livestream-Link</strong><br>follow us on Instagram:
+                <a href="https://www.instagram.com/cbf_gators/?hl=de">cbf_gators </a>
                 </div></strong> </a>
             </div>
         </div>
