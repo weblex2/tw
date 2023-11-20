@@ -148,7 +148,7 @@
         </div>
         <div class="bg-green-700 text-white text-center align-middle p-10">
         <div class="text-3xl text-stone-300">Juniors Level 3</div>
-        <img class="zoomable" src="{{asset('img/dl/Juniors_Index.jpg')}}">
+        <img class="zoomable" src="{{asset('img/dl/JuniorsL3_Index.jpg')}}">
         </div>
         <div class="bg-green-500 text-white text-center align-middle p-10">
         <div class="text-3xl text-stone-300">Seniors</div>
