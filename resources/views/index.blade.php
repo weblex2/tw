@@ -102,24 +102,6 @@
         </div>
     </div>
 
-    <div class="index-pic-wrapper">
-       <div class="wrapper overflow-hidden m-2">
-        <a href="/peewees"><div class="p p1">PEEWEES</div></a>
-       </div>
-       <div class="wrapper overflow-hidden m-2">
-       <div class="p p2">JUNIORS LEVEL 2</div>
-       </div>
-       <div class="wrapper overflow-hidden m-2">
-       <div class="p p3">JUNIORS LEVEL 3</div>
-       </div>
-       <div class="wrapper overflow-hidden m-2">
-       <div class="p p4">SENIORS</div>
-       </div>
-    </div>
-    
-    
-    
-    
     
     <div class="grid grid-cols-2 lg:grid-cols-4">
         <!--div class="bg-white text-center align-middle p-10">
