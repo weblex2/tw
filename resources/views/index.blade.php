@@ -117,25 +117,7 @@
        </div>
     </div>
     
-    <div class="grid grid-cols-2 lg:grid-cols-4">
-        <!--div class="bg-white text-center align-middle p-10">
-            <div class="text-5xl font-extrabold">107</div>
-            <div class="text-3xl">aktive Mitglieder</div>
-        </div-->
-        <div class="bg-green-900 text-white text-center align-middle p-10">
-        <img class="zoomable" src="{{asset('img/dl/Peewees_Index.jpg')}}">
-        </div>
-        <div class="bg-green-800 text-white text-center align-middle p-10">
-        <img class="zoomable" src="{{asset('img/dl/Juniors_Index.jpg')}}">
-        </div>
-        <div class="bg-green-700 text-white text-center align-middle p-10">
-        <img class="zoomable" src="{{asset('img/dl/Juniors_Index.jpg')}}">
-        </div>
-        <div class="bg-green-500 text-white text-center align-middle p-10">
-        <img class="zoomable" src="{{asset('img/dl/Seniors_Index.jpg')}}">
-        </div>
-      </div>
-    </div>
+    
     
     
     
@@ -159,6 +141,27 @@
         <div class="bg-green-500 text-white text-center align-middle p-10">
             <div class="text-5xl font-extrabold">9</div>
             <div class="text-3xl text-stone-300">Coaches</div>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="grid grid-cols-2 lg:grid-cols-4">
+        <!--div class="bg-white text-center align-middle p-10">
+            <div class="text-5xl font-extrabold">107</div>
+            <div class="text-3xl">aktive Mitglieder</div>
+        </div-->
+        <div class="bg-green-900 text-white text-center align-middle p-10">
+        <img class="zoomable" src="{{asset('img/dl/Peewees_Index.jpg')}}">
+        </div>
+        <div class="bg-green-800 text-white text-center align-middle p-10">
+        <img class="zoomable" src="{{asset('img/dl/Juniors_Index.jpg')}}">
+        </div>
+        <div class="bg-green-700 text-white text-center align-middle p-10">
+        <img class="zoomable" src="{{asset('img/dl/Juniors_Index.jpg')}}">
+        </div>
+        <div class="bg-green-500 text-white text-center align-middle p-10">
+        <img class="zoomable" src="{{asset('img/dl/Seniors_Index.jpg')}}">
         </div>
       </div>
     </div>
