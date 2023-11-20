@@ -18,12 +18,14 @@
             <i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
             <div class="col-span-9">
             </p>
-                <h1>Showcase <br>für die LM Bayern</h1>
+                <h1>Landeseisterschaft Bayern<br>am 25.11.23 in Ingolstadt</h1>
                 <hr class="mb-3">
-                <p><strong>Datum:<br></strong> Sonntag, 19.11.2023</p><br>
-                <strong>Uhrzeit:<br></strong> 19 Uhr Einlass<br> <br><strong>Ort:<br></strong> Richthofenstr. 1<br> 85622 Feldkirchen<br><br></a>
-                <p><strong>Teams:</strong><br>-Rise (Peewee Level 1)</p>-United (Junior Allgirl Level 3)<br>
-                <br><strong>Der Eintritt ist frei!</strong>
+                <p><strong>Team:<br></strong> Gators Rise, Peewee Level 1</p>
+                <strong>Startzeit:<br></strong> 11:35h<br> <br>
+                <p><strong>Team:<br></strong> Gators United, Juniors Allgirl Level 3</p>
+                <strong>Startzeit:<br></strong> 16:20h<br>
+                
+                <br><strong>Für den Livestream-Link</strong><br>follow us on Instagram: cbf_gators
                 </div></strong> </a>
             </div>
         </div>
