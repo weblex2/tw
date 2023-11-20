@@ -116,7 +116,12 @@
        </div>
     </div>
 
-
+    <div class="grid grid-cols-2 lg:grid-cols-4">
+    <img class="zoomable" src="{{asset('img/dl/Peewees_Index.jpg')}}">
+    <img class="zoomable" src="{{asset('img/dl/Juniors_Index.jpg')}}">
+    <img class="zoomable" src="{{asset('img/dl/Juniors_Index.jpg')}}">
+    <img class="zoomable" src="{{asset('img/dl/Seniors_Index.jpg')}}">
+    </div>
 
 
 
