@@ -130,7 +130,8 @@
       </div>
     </div>
     <div class="grid grid-cols-1 lg:grid-cols-1">
-    <div class="bg-black-900 text-white text-center align-middle p-2"></div>
+    <div class="bg-black-900 text-white text-center align-middle p-2
+    "></div>
     </div>
     <div class="grid grid-cols-2 lg:grid-cols-4">
         <!--div class="bg-white text-center align-middle p-10">
@@ -143,7 +144,7 @@
         </div>
         <div class="bg-green-800 text-white text-center align-middle p-10">
         <div class="text-3xl text-stone-300">Juniors Level 2</div>
-        <img class="zoomable" src="{{asset('img/dl/Juniors_Index.jpg')}}">
+        <img class="zoomable" src="{{asset('img/dl/JuniorsL2_Index.jpg')}}">
         </div>
         <div class="bg-green-700 text-white text-center align-middle p-10">
         <div class="text-3xl text-stone-300">Juniors Level 3</div>
