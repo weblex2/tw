@@ -145,13 +145,13 @@
       </div>
     </div>
 
-
     <div class="grid grid-cols-2 lg:grid-cols-4">
         <!--div class="bg-white text-center align-middle p-10">
             <div class="text-5xl font-extrabold">107</div>
             <div class="text-3xl">aktive Mitglieder</div>
         </div-->
         <div class="bg-green-900 text-white text-center align-middle p-10">
+        <div class="text-3xl text-stone-300">Peewees</div>
         <img class="zoomable" src="{{asset('img/dl/Peewees_Index.jpg')}}">
         </div>
         <div class="bg-green-800 text-white text-center align-middle p-10">
@@ -165,7 +165,6 @@
         </div>
       </div>
     </div>
-
     </div>
 
     <script>
