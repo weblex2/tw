@@ -27,7 +27,7 @@
 
     <div class="grid grid-cols-1 lg:grid-cols-3 coachesgrid">
         <!-- 1. row -->
-        <div class="flex h-420 w-420 bg-red-500 bg-center bg-auto bg-scroll bg-[url('../../public/img/Foto_Coach_Lea.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lea.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
