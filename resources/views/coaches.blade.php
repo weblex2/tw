@@ -64,7 +64,7 @@
         </div>
 
         <!-- 3. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Jasi-bearbeitet.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Jasi.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -121,7 +121,7 @@
         </div>
 
         <!-- 6. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Nele-III.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Nele.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -177,7 +177,7 @@
         </div>
 
         <!-- 9. row -->
-        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Gators_Schriftzug_K.png')]">
+        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Cory.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
