@@ -109,7 +109,7 @@
                         <h2>Coaches</h2>
                         <img class="zoomable"src="{{asset('img/dl/Foto_Peewee_Coaches.jpg')}}">
                         <br>
-                        <h4>Lena-Marie, Jasmin & Lea</h4>
+                        <h4>Lea, Jasmin & Lena-Marie</h4>
                     </div>
                 </div>
             </div>
