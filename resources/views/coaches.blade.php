@@ -83,7 +83,7 @@
         </div>
 
         <!-- 4. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Ali.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Ali.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
