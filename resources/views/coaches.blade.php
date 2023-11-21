@@ -2,7 +2,7 @@
     <div class="main-content">
     <div class="content-wrapper flex p-20">
         <div class="content">
-                <div class="grid grid-cols-1 lg:grid-cols-4 gap-2">
+                <div class="grid grid-cols-1 lg:grid-cols-3 gap-2">
                     <div class="lg:col-span-4"><h1>Unser Team</h1></div>
                     <div class="lg:col-span-2 text-xl text-zinc-600 font-semibold flex items-center">
                         2013 haben wir ganz klein als eigener Verein begonnen.<br>
