@@ -102,7 +102,7 @@
         </div>
 
         <!-- 5. row -->
-        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Melis-1600x1200.jpg')]">
+        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Melis.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -140,7 +140,7 @@
         </div>
 
         <!-- 7. row -->
-        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Emma.jpg')]">
+        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Emma.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -158,7 +158,7 @@
         </div>
 
         <!-- 8. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto-Coach-Mexo.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Mexo.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
