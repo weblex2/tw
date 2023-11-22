@@ -39,7 +39,6 @@
         <div class="bg-green-800 text-white text-left align-middle p-10"></div>
             <div class="text-1xl text-white-300">LEA<br>Peewee Head-Coach<br>Cheerleader seit: 2008<br>
             Coach seit: 2015<br>Coachingerfahrung: Peewee Level 1 u. 2</div>
-        </div>
         <div class="bg-green-700 text-white text-left align-middle p-10">
             <div class="text-1xl text-white-300">Hi, ich bin Lea und trainiere seit 8 Jahren unsere Jüngsten. Mein primäres Ziel ist es, den Kids den Sport und das Teamgefühl nahe zu bringen. Wenn man zusammenarbeitet kann man nämlich alles schaffen. Meine aktive Karriere endete 2018 leider nach einem Kreuzbandriss, was mir aber nie die Leidenschaft für diesen Sport nehmen konnte. </div>
         </div>
