@@ -35,7 +35,7 @@
             <div class="text-3xl">aktive Mitglieder</div>
         </div-->
         <div class="bg-green-900 text-white text-center align-middle p-10">
-        <img class="zoomable" src="{{asset('img/dl/Foto_Coach_Lea.jpg')}}">
+        <img class="zoomable" src="{{url('../../public/img/Foto_Coach_Lea.jpg')}}">
         </div>
         <div class="bg-green-800 text-white text-left align-middle p-10">
             <div class="text-1xl text-white-300">LEA<br>Peewee Head-Coach<br>Cheerleader seit: 2008<br>
