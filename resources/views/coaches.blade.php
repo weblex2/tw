@@ -51,6 +51,24 @@
     <div class="bg-black-900 text-white text-center align-middle p-2"></div>
     </div>
 
+    <div class="grid grid-cols-2 lg:grid-cols-3">
+        <!--div class="bg-white text-center align-middle p-10">
+            <div class="text-5xl font-extrabold">107</div>
+            <div class="text-3xl">aktive Mitglieder</div>
+        </div-->
+        <div class="bg-green-900 text-white text-center align-middle p-10">
+        <img class="zoomable" src="{{asset('img/dl/Foto_Coach_Lea.jpg')}}">
+        </div>
+        <div class="bg-green-800 text-white text-left align-middle p-10">
+            <div class="text-1xl text-white-300">LEA<br>Peewee Head-Coach<br>Cheerleader seit: 2008<br>
+            Coach seit: 2015<br>Coachingerfahrung: Peewee Level 1 u. 2</div>
+        </div>
+        <div class="bg-green-700 text-white text-left align-middle p-10">
+            <div class="text-1xl text-white-300">Hi, ich bin Lea und trainiere seit 8 Jahren unsere Jüngsten. Mein primäres Ziel ist es, den Kids den Sport und das Teamgefühl nahe zu bringen. Wenn man zusammenarbeitet kann man nämlich alles schaffen. Meine aktive Karriere endete 2018 leider nach einem Kreuzbandriss, was mir aber nie die Leidenschaft für diesen Sport nehmen konnte. </div>
+        </div>
+      </div>
+    </div>
+
     <div class="grid grid-cols-1 lg:grid-cols-3 coachesgrid">
         <!-- 1. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lea.jpg')]">
