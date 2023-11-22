@@ -130,8 +130,7 @@
       </div>
     </div>
     <div class="grid grid-cols-1 lg:grid-cols-1">
-    <div class="bg-black-900 text-white text-center align-middle p-2
-    "></div>
+    <div class="bg-black-900 text-white text-center align-middle p-2"></div>
     </div>
     <div class="grid grid-cols-2 lg:grid-cols-4">
         <!--div class="bg-white text-center align-middle p-10">
