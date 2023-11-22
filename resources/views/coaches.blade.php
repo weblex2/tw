@@ -35,7 +35,7 @@
             <div class="text-3xl">aktive Mitglieder</div>
         </div-->
         <div class="bg-green-900 text-white text-center align-middle p-10">
-        <div img class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_LenaMarie.jpg')]">
+        <div img class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_LenaMarie.jpg')]"></div>
         <div class="bg-green-800 text-white text-left align-middle p-10"></div>
             <div class="text-1xl text-white-300">LEA<br>Peewee Head-Coach<br>Cheerleader seit: 2008<br>
             Coach seit: 2015<br>Coachingerfahrung: Peewee Level 1 u. 2</div>
