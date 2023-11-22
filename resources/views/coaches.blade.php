@@ -11,7 +11,7 @@
             <div class="text-3xl">aktive Mitglieder</div>
         </div-->
         <div class="bg-green-900 text-white text-left align-middle p-10">
-            <div class="text-3xl text-white-300">2013 haben wir als ganz kleiner Verein begonnen.<br>
+            <div class="text-3xl text-white-300">2013 haben wir als ganz kleiner Verein begonnen.
             Mitlerweile sind wir zu einem großen mitgliederstarken Verein herangewachsen.</div>
         </div>
         <div class="bg-green-800 text-white text-left align-middle p-10">
@@ -238,7 +238,7 @@
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            Als meine Töchter 2016 mit dem Cheerleading begonnen haben, ist meine Begeisterung für diesen Sport entstanden. Ich habe in den folgenden Jahren in verschiednen Bereichen unterstützt und auch als Assistent-Coach die Jüngsten trainiert. In diesen Jahren habe ich unglaublich tolle und engagierte Mensten kennengelernt, die ich nicht mehr missen möchte. Seit 2020 bin ich bei CBF und seit 2023 1. Vorstand.
+            Als meine Töchter 2016 mit dem Cheerleading begonnen haben, ist meine Begeisterung für diesen Sport entstanden. Ich habe in den folgenden Jahren in verschiedenen Bereichen unterstützt und auch als Assistent-Coach die Jüngsten trainiert. In diesen Jahren habe ich unglaublich tolle und engagierte Mensten kennengelernt, die ich nicht mehr missen möchte. Seit 2020 bin ich bei CBF und seit 2023 1. Vorstand.
             </div>
         </div>
 
