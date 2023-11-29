@@ -47,6 +47,8 @@
                     <br>
                     1. Platz (von 2) Southern Cheer Classics (JA 3)<br>
                     <br>
+                    1. Platz (von 4) Landesmeisterschaft Bayern (JA 3)<br>
+                    <br>
                     <h5>2022:</h5>
                     29. Platz (von 35) Elite Cheerleading Championsship (JA 3)<br>
                     <br>
