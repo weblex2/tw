@@ -218,7 +218,7 @@
         </div>
 
         <!-- 11. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Lea.jpg')]">
+        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Lea.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -236,7 +236,7 @@
         </div>
 
         <!-- 12. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Doreen.jpg')]">
+        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Doreen.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
