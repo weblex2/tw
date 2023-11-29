@@ -98,25 +98,25 @@
                         <br>
                         <br>
                         <h4>Co-Coach:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Melis-1030x710.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Melis.jpg')}}">
                         <br>
                         Melis
                         <br>
                         <br>
                         <h4>Co-Coach:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Nele-1030x710.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Nele.jpg')}}">
                         <br>
                         Nele
                         <br>
                         <br>
                         <h4>Co-Coach:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Emma-1030x710.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Emma.jpg')}}">
                         <br>
                         Emma
                         <br>
                         <br>
                         <h4>Assistant-Coach:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Mexo-1030x710.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Mexo.jpg')}}">
                         <br>
                         Mexo
                     </div>
