@@ -50,6 +50,8 @@
                     <br>
                     5. Platz (von 7) Southern Cheer Classics (PW 1)<br>
                     <br>
+                    9. Platz (von 14) Landesmeisterschaft Bayern (PW 1)<br>
+                    <br>
                     <h5>2022:</h5>
                     15. Platz (von 16) Elite Cheerleading Championsship (PW 1)<br>
                     <br>
