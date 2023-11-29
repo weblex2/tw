@@ -11,16 +11,16 @@
             <div class="text-3xl">aktive Mitglieder</div>
         </div-->
         <div class="bg-green-900 text-white text-left align-middle p-10">
-            <div class="text-3xl text-white-300">2013 haben wir als ganz kleiner Verein begonnen.
+            <div class="text-2xl text-white-300">2013 haben wir als ganz kleiner Verein begonnen.
             Mitlerweile sind wir zu einem großen mitgliederstarken Verein herangewachsen.</div>
         </div>
         <div class="bg-green-800 text-white text-left align-middle p-10">
-            <div class="text-3xl font-extrabold">~100 Mitglieder</div>
-            <div class="text-2xl text-stone-300">in unseren 4 Teams</div>
+            <div class="text-2xl font-extrabold">~100 Mitglieder</div>
+            <div class="text-1xl text-stone-300">in unseren 4 Teams</div>
         </div>
         <div class="bg-green-700 text-white text-left align-middle p-10">
-            <div class="text-3xl font-extrabold">9 Coaches</div>
-            <div class="text-2xl text-stone-300">für Peewees, Junior und Seniors</div>
+            <div class="text-2xl font-extrabold">9 Coaches</div>
+            <div class="text-1xl text-stone-300">für Peewees, Junior und Seniors</div>
         </div>
       </div>
     </div>
@@ -201,7 +201,7 @@
         </div>
 
         <!-- 10. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Thomas-VS-951x1030.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Thomas.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -218,7 +218,7 @@
         </div>
 
         <!-- 11. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Lea-VS-1030x1024.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Lea.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -236,7 +236,7 @@
         </div>
 
         <!-- 12. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Bild-Doreen-VS-994x1030.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Doreen.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -254,7 +254,7 @@
         </div>
 
         <!-- 13. row -->
-        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Gators_Schriftzug_K.png')]">
+        <div class="flex h-64 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Marlen.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
