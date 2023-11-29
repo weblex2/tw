@@ -18,15 +18,12 @@
             <i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
             <div class="col-span-9">
             </p>
-                <h1>Landeseisterschaft Bayern<br>am 25.11.23 in Ingolstadt</h1>
+                <h1>Ergebnisse der Landesmeisterschaft <br>Bayern in Ingolstadt</h1>
                 <hr class="mb-3">
                 <p><strong>Team:<br></strong> Gators Rise, Peewee Level 1</p>
-                <strong>Startzeit:<br></strong> 11:35h<br> <br>
+                <strong>9. Platz<br></strong> mit 6,07 Punkten<br> <br>
                 <p><strong>Team:<br></strong> Gators United, Juniors Allgirl Level 3</p>
-                <strong>Startzeit:<br></strong> 16:20h<br>
-                
-                <br><strong>Für den Livestream-Link</strong><br>follow us on Instagram:
-                <a href="https://www.instagram.com/cbf_gators/?hl=de">cbf_gators </a>
+                <strong>1. Platz<br></strong> mit 7,46 Punkten<br>
                 </div></strong> </a>
             </div>
         </div>
@@ -71,9 +68,7 @@
                     <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN 2023/2024</h1>
                     <hr class="mb-3">
                     <h1>2023:</h1>
-                    <h4>November</h4>
-                    Landesmeisterschaft Ingolstadt - 25.11.2023<br>
-                    <br>
+                    
                     <h4>Dezember</h4>
                     Nfinity League Nürnberg - 16.12.2023<br>
                     Weihnachtsmarkt Feldkirchen - 17.12.2023<br>
