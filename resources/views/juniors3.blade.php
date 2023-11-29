@@ -92,7 +92,7 @@
                     <div class="coachbox">
                         <h2>Coaches</h2>
                         <h4>Headcoach:</h4>
-                        <img class="zoomable"src="{{asset('img/dl/Ali-1030x710.jpg')}}">
+                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Ali.jpg')}}">
                         <br>
                         Ali
                         <br>
