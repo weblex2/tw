@@ -5,7 +5,7 @@
         </div>
     </div>
 
-    <div class="grid grid-cols-2 lg:grid-cols-3">
+    <div class="grid grid-cols-1 lg:grid-cols-3">
         <!--div class="bg-white text-center align-middle p-10">
             <div class="text-5xl font-extrabold">107</div>
             <div class="text-3xl">aktive Mitglieder</div>
@@ -31,9 +31,9 @@
 
 
 
-    <div class="grid grid-cols-1 lg:grid-cols-3 coachesgrid">
+    <div class="grid grid-cols-2 lg:grid-cols-3 coachesgrid">
         <!-- 1. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lea.jpg')]">
+        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lea.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -70,7 +70,7 @@
         </div>
 
         <!-- 3. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Jasi.jpg')]">
+        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Jasi.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -236,7 +236,7 @@
         </div>
 
         <!-- 12. row -->
-        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Doreen.jpg')]">
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Doreen.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
