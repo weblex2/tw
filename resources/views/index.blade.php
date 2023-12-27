@@ -67,12 +67,6 @@
                 <div class="col-span-9">
                     <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN 2023/2024</h1>
                     <hr class="mb-3">
-                    <h1>2023:</h1>
-                    
-                    <h4>Dezember</h4>
-                    Nfinity League Nürnberg - 16.12.2023<br>
-                    Weihnachtsmarkt Feldkirchen - 17.12.2023<br>
-                    <br>
                     <h1>2024:</h1>
                     <h4>Januar</h4>
                     Neujahrsempfang - 20.01.2024<br>
