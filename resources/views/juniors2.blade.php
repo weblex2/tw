@@ -42,10 +42,9 @@
                     </div>
 
                     <h5>2023:</h5>
-                    Das Team startet zum ersten Mal auf der Infinity League in Nürnberg<br>
+                    3. Platz (von 5) Nfinity League Nürnberg (JA 2)<br>
                     <br>
                     
-
                 </div>
                 <div class="training-times col-span-3">
                     <h2>Trainingszeiten</h2>
