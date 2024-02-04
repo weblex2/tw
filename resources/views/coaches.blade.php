@@ -37,11 +37,11 @@
         </div>
         <div class="coach-info-1">
             <div>
-            <h1>LEA</h1>
-            <div>Peewee Head-Coach</div>
-            <div>Cheerleader seit: 2008</div>
-            <div>Coach seit: 2015</div>
-            <div>Coachingerfahrung: Peewee Level 1 u. 2</div>
+                <h1>LEA</h1>
+                <div>Peewee Head-Coach</div>
+                <div>Cheerleader seit: 2008</div>
+                <div>Coach seit: 2015</div>
+                <div>Coachingerfahrung: Peewee Level 1 u. 2</div>
             </div>
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
