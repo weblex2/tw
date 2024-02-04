@@ -68,10 +68,6 @@
                     <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN 2023/2024</h1>
                     <hr class="mb-3">
                     <h1>2024:</h1>
-                    <h4>Januar</h4>
-                    Neujahrsempfang - 20.01.2024<br>
-                    (Infos folgen)<br>
-                    <br>
                     <h4>Februar</h4>
                     Regionalmeisterschaft Göppingen - 10.02.2024<br>
                     <br>
