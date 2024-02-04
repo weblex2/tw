@@ -102,8 +102,8 @@
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            Hi ich bin Ali und schon seit Gründung 2008 in dem Verein. Im Training mache ich am liebsten Pyramiden, egal ob als Aktive oder als Coach. Mein größter Erfolg als Cheerleader bzw. als Coach war unser Junior Groupstunt, der sich 2018 für das CCVD Junior-Nationalteam qualifizieren konnten und am Schluss sogar den ersten Weltmeistertitel mit Team Germany holen konnte!
-            Fun Fact über mich: Ich habe schon 3 mal meine aktive Karriere beendet und bin dann doch noch zwei Mal eingesprungen und mit den Seniors auf die Matte gegangen. Mal schauen wie lange der 3. Versuch andauert 😉
+            <h2>Hi ich bin Ali und schon seit Gründung 2008 in dem Verein. Im Training mache ich am liebsten Pyramiden, egal ob als Aktive oder als Coach. Mein größter Erfolg als Cheerleader bzw. als Coach war unser Junior Groupstunt, der sich 2018 für das CCVD Junior-Nationalteam qualifizieren konnten und am Schluss sogar den ersten Weltmeistertitel mit Team Germany holen konnte!
+            Fun Fact über mich: Ich habe schon 3 mal meine aktive Karriere beendet und bin dann doch noch zwei Mal eingesprungen und mit den Seniors auf die Matte gegangen. Mal schauen wie lange der 3. Versuch andauert 😉</h2>
             </div>
         </div>
 
