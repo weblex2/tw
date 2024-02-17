@@ -18,12 +18,10 @@
             <i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
             <div class="col-span-9">
             </p>
-                <h1>Ergebnisse der Landesmeisterschaft <br>Bayern in Ingolstadt</h1>
+                <h1>Ergebnisse der Regionalmeisterschaft <br>Süd in Göppingen</h1>
                 <hr class="mb-3">
-                <p><strong>Team:<br></strong> Gators Rise, Peewee Level 1</p>
-                <strong>9. Platz<br></strong> mit 6,07 Punkten<br> <br>
-                <p><strong>Team:<br></strong> Gators United, Juniors Allgirl Level 3</p>
-                <strong>1. Platz<br></strong> mit 7,46 Punkten<br>
+                <p><strong>Team:<br></strong> Gators United,<br> Juniors Allgirl Level 3</p><br>
+                <strong>1. Platz<br></strong> mit 7,99 Punkten<br>
                 </div></strong> </a>
             </div>
         </div>
