@@ -23,8 +23,7 @@
                 <p><strong>Team:<br></strong> Gators United,<br> Juniors Allgirl Level 3</p><br>
                 <strong>1. Platz<br></strong> mit 7,99 Punkten<br>
                 </div></strong> </a><br><br>
-                <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/JA3_RMSued.jpg')]">
-                </div>
+                <class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/JA3_RMSued.jpg')]">
             </div>
         </div>
 
