@@ -71,7 +71,7 @@
                     Deutsche Meisterschaft Bonn - 16/17.03.2024<br>
                     <br>
                     <h4>Mai</h4>
-                    Southern Cheer Classics Sauerlach - 11.05.2024<br>
+                    Southern Cheer Classics Sauerlach - 11.05.2024<br><br>
                     Elite Cheerleading Championship Bottrop - 18.-20.05.2024<br>
                     <br>
                     <h4>Juli</h4>
