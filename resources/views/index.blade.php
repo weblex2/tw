@@ -68,14 +68,12 @@
                     <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN 2023/2024</h1>
                     <hr class="mb-3">
                     <h1>2024:</h1>
-                    <h4>Februar</h4>
-                    Regionalmeisterschaft Göppingen - 10.02.2024<br>
-                    <br>
+                    
                     <h4>März</h4>
                     Deutsche Meisterschaft Bonn - 16/17.03.2024<br>
                     <br>
                     <h4>Mai</h4>
-                    Southern Cheer Classics Haar - 11.05.2024<br>
+                    Southern Cheer Classics Sauerlach - 11.05.2024<br>
                     Elite Cheerleading Championship Bottrop - 18.-20.05.2024<br>
                     <br>
                     <h4>Juli</h4>
