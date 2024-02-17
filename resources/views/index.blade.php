@@ -14,16 +14,23 @@
         <div class="m m1">
 
             <div class="grid grid-cols-12 text-white">
-            <div  class="col-span-3">
-            <i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
-            <div class="col-span-9">
-            </p>
-                <h1>Ergebnisse der Regionalmeisterschaft <br>Süd in Göppingen</h1>
-                <hr class="mb-3">
-                <p><strong>Team:<br></strong> Gators United,<br> Juniors Allgirl Level 3</p><br>
-                <strong>1. Platz<br></strong> mit 7,99 Punkten<br>
-                </div></strong> </a><br><br>
-                <img src="{{  asset('img/dl/JA3_RMSued.jpg') }}">
+                <div  class="col-span-3">
+                <i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
+                <div class="col-span-9">
+                    <p>
+                        <h1>Ergebnisse der Regionalmeisterschaft <br>Süd in Göppingen</h1>
+                    </p>
+                    <hr class="mb-3">
+                    <p>
+                        <strong>Team:<br></strong> Gators United,<br> Juniors Allgirl Level 3
+                    </p>
+                    <br>
+                    <strong>1. Platz<br></strong> mit 7,99 Punkten
+                    <br>
+                    <br>
+                    <br>
+                    <img class="w-[80%]" src="{{  asset('img/dl/JA3_RMSued.jpg') }}">
+                </div>    
             </div>
         </div>
 
