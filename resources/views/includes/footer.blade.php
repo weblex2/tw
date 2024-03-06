@@ -18,9 +18,8 @@
             <div  class="pt-8 text-gray-300">
                 <div>Angaben gemäss §5 TMG:</div>
                 <div>Cheer Base Feldkirchen e.V.</div>
-                <div>c/o Lea Fruhstorfer</div>
-                <div>Flurstr. 3</div>
-                <div>85551 Kirchheim</div>
+                <div>Olympiastr. 3</div>
+                <div>85622 Feldkirchen</div>
                 <div><a href="/datenschutz">Datenschutzrichtlinien</a></div>
             </div>
         </div>
