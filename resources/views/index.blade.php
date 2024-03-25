@@ -75,16 +75,32 @@
                     <hr class="mb-3">
                     <h1>2024:</h1>
                     
-                    <h4>März</h4>
-                    Deutsche Meisterschaft Bonn - 16/17.03.2024<br>
-                    <br>
                     <h4>Mai</h4>
                     Southern Cheer Classics Sauerlach - 11.05.2024<br><br>
                     Elite Cheerleading Championship Bottrop - 18.-20.05.2024<br>
                     <br>
-                    <h4>Juli</h4>
-                    Auftritt Landesgartenschau Kirchheim - 14.07.2024<br>
+                    <h4>Juni</h4>
+                    Elterntraining - 02.06.2024<br>
+                    Tryouts Peewees, Juniors, Seniors - 05.06.2024<br>
+                    Tryouts Peewees, Juniors, Seniors - 09.06.2024
                     <br>
+                    <br>
+                    <h4>Juli</h4>
+                    Auftritt Landesgartenschau Kirchheim - 13.07.2024<br>
+                    <br>
+                    <h4>Dezember</h4>
+                    Landesmeisterschaft Bayern - 08.12.2024<br>
+                    Ingolstadt
+                    <br>
+                    <br>
+                    <h1>2025:</h1>
+                    
+                    <h4>Februar</h4>
+                    Regionalmeisterschaft Süd - 22.02.2025<br>
+                    Ulm<br><br>
+                    <h4>März</h4>
+                    Deutsche Pokalmeisterschaft - 29./30.03.2025<br>
+                    Ulm<br>
 
                 </div>
                 </div>
