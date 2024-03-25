@@ -73,7 +73,7 @@
                     <h1>2024:</h1>
                     
                     <h4>Mai</h4>
-                    Southern Cheer Classics Sauerlach - 11.05.24<br><br>
+                    Southern Cheer Classics Sauerlach - 11.05.24<br>
                     Elite Cheerleading Championship Bottrop - 18.-20.05.24<br>
                     <br>
                     <h4>Juni</h4>
