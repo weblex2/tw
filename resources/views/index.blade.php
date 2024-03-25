@@ -22,9 +22,6 @@
                     </p>
                     <hr class="mb-3">
                     <p>
-                    
-                    <br>
-                    <br>
                     <br>
                     <img class="w-[80%]" src="{{  asset('img/dl/tryouts24.jpg') }}">
                 </div>    
