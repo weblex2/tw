@@ -18,18 +18,15 @@
                 <i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
                 <div class="col-span-9">
                     <p>
-                        <h1>Ergebnisse der Regionalmeisterschaft <br>Süd in Göppingen</h1>
+                        <h1>coming soon!!!</h1>
                     </p>
                     <hr class="mb-3">
                     <p>
-                        <strong>Team:<br></strong> Gators United,<br> Juniors Allgirl Level 3
-                    </p>
-                    <br>
-                    <strong>1. Platz<br></strong> mit 7,99 Punkten
+                    
                     <br>
                     <br>
                     <br>
-                    <img class="w-[80%]" src="{{  asset('img/dl/JA3_RMSued.jpg') }}">
+                    <img class="w-[80%]" src="{{  asset('img/dl/tryouts24.jpg') }}">
                 </div>    
             </div>
         </div>
@@ -76,30 +73,31 @@
                     <h1>2024:</h1>
                     
                     <h4>Mai</h4>
-                    Southern Cheer Classics Sauerlach - 11.05.2024<br><br>
-                    Elite Cheerleading Championship Bottrop - 18.-20.05.2024<br>
+                    Southern Cheer Classics Sauerlach - 11.05.24<br><br>
+                    Elite Cheerleading Championship Bottrop - 18.-20.05.24<br>
                     <br>
                     <h4>Juni</h4>
-                    Elterntraining - 02.06.2024<br>
-                    Tryouts Peewees, Juniors, Seniors - 05.06.2024<br>
-                    Tryouts Peewees, Juniors, Seniors - 09.06.2024
+                    Elterntraining - 02.06.24<br>
+                    Tryouts Peewees, Juniors, Seniors - 05.06.24<br>
+                    Tryouts Peewees, Juniors, Seniors - 09.06.24<br>
+                    Auftritt bei den Lions - 23.06.24<br>
                     <br>
                     <br>
                     <h4>Juli</h4>
-                    Auftritt Landesgartenschau Kirchheim - 13.07.2024<br>
+                    Auftritt Landesgartenschau Kirchheim - 13.07.24<br>
                     <br>
                     <h4>Dezember</h4>
-                    Landesmeisterschaft Bayern - 08.12.2024<br>
+                    Landesmeisterschaft Bayern - 08.12.24<br>
                     Ingolstadt
                     <br>
                     <br>
                     <h1>2025:</h1>
                     
                     <h4>Februar</h4>
-                    Regionalmeisterschaft Süd - 22.02.2025<br>
+                    Regionalmeisterschaft Süd - 22.02.25<br>
                     Ulm<br><br>
                     <h4>März</h4>
-                    Deutsche Pokalmeisterschaft - 29./30.03.2025<br>
+                    Deutsche Pokalmeisterschaft - 29./30.03.25<br>
                     Ulm<br>
 
                 </div>
