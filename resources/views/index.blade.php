@@ -94,7 +94,10 @@
                     Ulm<br><br>
                     <h4>März</h4>
                     Deutsche Pokalmeisterschaft - 29./30.03.25<br>
-                    Ulm<br>
+                    Ulm<br><br>
+                    <h4>Mai</h4>
+                    Auftritt Maibaumsetzen - 01.05.25<br>
+                    Feldkirchen<br><br>
 
                 </div>
                 </div>
