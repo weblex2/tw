@@ -82,7 +82,6 @@
                     Tryouts Peewees, Juniors, Seniors - 09.06.24<br>
                     Auftritt bei den Lions - 23.06.24<br>
                     <br>
-                    <br>
                     <h4>Juli</h4>
                     Auftritt Landesgartenschau Kirchheim - 13.07.24<br>
                     <br>
