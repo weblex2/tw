@@ -42,6 +42,7 @@
 
                     <h5>2024:</h5>
                     1. Platz (von 3) Regionalmeisterschaft Süd (JA 3)<br>
+                    4. Platz (von 8) Deutsche Pokalmeisterschaft (JA 3)<br>
                     <br>
                     <h5>2023:</h5>
                     3. Platz (von 6) Regionalmeisterschaft Süd (JA 3)<br>
