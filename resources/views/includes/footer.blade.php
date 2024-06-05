@@ -7,7 +7,7 @@
             <div class="pt-8 text-gray-300">
                 <div>1. Vorsitzender:</div>
                 <div>Thomas Wittke</div><br>
-                <div>Mobil: 0175 1306365</div>
+                <div>Mobil: 0175 1306368</div>
                 <div>Email: <a href="mailto:info@cheer-base.com">info@cheer-base.com</a></div>
             </div>
         </div>
