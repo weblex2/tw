@@ -69,14 +69,7 @@
                     <hr class="mb-3">
                     <h1>2024:</h1>
                     
-                    <h4>Mai</h4>
-                    Southern Cheer Classics Sauerlach - 11.05.24<br>
-                    Elite Cheerleading Championship Bottrop - 18.-20.05.24<br>
-                    <br>
                     <h4>Juni</h4>
-                    Elterntraining - 02.06.24<br>
-                    Tryouts Peewees, Juniors, Seniors - 05.06.24<br>
-                    Tryouts Peewees, Juniors, Seniors - 09.06.24<br>
                     Auftritt bei den Lions - 23.06.24<br>
                     <br>
                     <h4>Juli</h4>
