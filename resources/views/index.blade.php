@@ -23,7 +23,7 @@
                     <hr class="mb-3">
                     <p>
                     <br>
-                    <img class="w-[80%]" src="{{  asset('img/dl/baseswanted.jpg') }}">
+                    <img class="w-[80%]" src="{{  asset('img/dl/baseswanted.jpeg') }}">
                 </div>    
             </div>
         </div>
