@@ -84,7 +84,7 @@
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
             <h2>Über Jasi:</h2>
-            Jasi ist Nachwuchscoach im Peewee-Team.
+            Jasi ist Coach des Peewee-Teams.
             </div>
         </div>
 
@@ -103,7 +103,7 @@
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
             <h2>Über Isi:</h2>
-            Isi ist Nachwuchscoach im Peewee-Team.
+            Isi ist Nachwuchscoach des Peewee-Teams.
             </div>
         </div>
 
@@ -122,7 +122,7 @@
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
             <h2>Über Leonie:</h2>
-            Leonie ist Nachwuchscoach im Peewee-Team.
+            Leonie ist Nachwuchscoach des Peewee-Teams.
             </div>
         </div>
 
@@ -160,7 +160,7 @@
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
             <h2>Über Nele:</h2>
-            Nele ist seit 1 Jahr Coach des Junior-Teams.
+            Nele ist Coach des Youth/Junior-Teams.
             </div>
         </div>
 
@@ -179,7 +179,7 @@
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
                 <h2>Über Mexo:</h2>
-                Mexo ist seit diesem Jahr Coach des Junior Level 2 - Teams.
+                Mexo ist Coach des Youth/Junior-Teams.
             </div>
         </div>
 
@@ -198,7 +198,7 @@
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
                 <h2>Über Alina:</h2>
-                Alina ist Nachwuchscoach im Youth-Team.
+                Alina ist Nachwuchscoach des Youth/Junior-Teams.
             </div>
         </div>
 
@@ -217,7 +217,7 @@
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
                 <h2>Über Maja:</h2>
-                Maja ist Nachwuchscoach im Youth-Team.
+                Maja ist Nachwuchscoach des Youth/Junior-Teams.
             </div>
         </div>
 
@@ -254,7 +254,7 @@
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            Über Lucy: Lucy ist Nachwuchscoach bei den Seniors.
+            Über Lucy:<br>Lucy ist Nachwuchscoach des Senior-Teams.
             </div>
         </div>
 
