@@ -72,7 +72,7 @@
                     <h4>September</h4>
                     Jahreshauptversammlung - 22.09.24<br>
                     Feldkirchen
-                    <br><br>
+                    <br>
                     <br>
                     <h4>Dezember</h4>
                     Landesmeisterschaft Bayern - 08.12.24<br>
