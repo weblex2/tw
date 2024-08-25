@@ -69,12 +69,6 @@
                     <hr class="mb-3">
                     <h1>2024:</h1>
                     
-                    <h4>Juni</h4>
-                    Auftritt bei den Lions - 23.06.24<br>
-                    <br>
-                    <h4>Juli</h4>
-                    Auftritt Landesgartenschau Kirchheim - 13.07.24<br>
-                    <br>
                     <h4>Dezember</h4>
                     Landesmeisterschaft Bayern - 08.12.24<br>
                     Ingolstadt
