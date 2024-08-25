@@ -126,24 +126,7 @@
             </div>
         </div>
 
-        <!-- 6. row -->
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Ali.jpg')]">
-        </div>
-        <div class="coach-info-1">
-            <div>
-                <h1>ALI</h1>
-                <div>Junior Head-Coach</div>
-                <div>Cheerleader seit: 2008</div>
-                <div>Coach seit: 2014</div>
-                <div>Coachingerfahrung: Junior und Senior Level 3, 4, 5 u. 6</div>
-            </div>
-        </div>
-        <div class="bg-zinc-700 text-white p-10 flex items-center">
-            <div>
-            Hi ich bin Ali und schon seit Gründung 2008 in dem Verein. Im Training mache ich am liebsten Pyramiden, egal ob als Aktive oder als Coach. Mein größter Erfolg als Cheerleader bzw. als Coach war unser Junior Groupstunt, der sich 2018 für das CCVD Junior-Nationalteam qualifizieren konnten und am Schluss sogar den ersten Weltmeistertitel mit Team Germany holen konnte!
-            Fun Fact über mich: Ich habe schon 3 mal meine aktive Karriere beendet und bin dann doch noch zwei Mal eingesprungen und mit den Seniors auf die Matte gegangen. Mal schauen wie lange der 3. Versuch andauert 😉
-            </div>
-        </div>
+        
 
         <!-- 5. row -->
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Melis.jpg')]">
@@ -199,6 +182,43 @@
             <div>
                 <h2>Über Mexo:</h2>
                 Mexo ist seit diesem Jahr Coach des Junior Level 2 - Teams.
+            </div>
+        </div>
+
+        <!-- 6. row -->
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Ali.jpg')]">
+        </div>
+        <div class="coach-info-1">
+            <div>
+                <h1>ALI</h1>
+                <div>Junior Head-Coach</div>
+                <div>Cheerleader seit: 2008</div>
+                <div>Coach seit: 2014</div>
+                <div>Coachingerfahrung: Junior und Senior Level 3, 4, 5 u. 6</div>
+            </div>
+        </div>
+        <div class="bg-zinc-700 text-white p-10 flex items-center">
+            <div>
+            Hi ich bin Ali und schon seit Gründung 2008 in dem Verein. Im Training mache ich am liebsten Pyramiden, egal ob als Aktive oder als Coach. Mein größter Erfolg als Cheerleader bzw. als Coach war unser Junior Groupstunt, der sich 2018 für das CCVD Junior-Nationalteam qualifizieren konnten und am Schluss sogar den ersten Weltmeistertitel mit Team Germany holen konnte!
+            Fun Fact über mich: Ich habe schon 3 mal meine aktive Karriere beendet und bin dann doch noch zwei Mal eingesprungen und mit den Seniors auf die Matte gegangen. Mal schauen wie lange der 3. Versuch andauert 😉
+            </div>
+        </div>
+
+        <!-- 6. row -->
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lucy.jpg')]">
+        </div>
+        <div class="coach-info-1">
+            <div>
+                <h1>LUCY</h1>
+                <div>Seniors-Coach</div>
+                <div>Cheerleader seit: 2018</div>
+                <div>Coach seit: 2024</div>
+                <div>Coachingerfahrung: erste Saison bei den Seniors</div>
+            </div>
+        </div>
+        <div class="bg-zinc-700 text-white p-10 flex items-center">
+            <div>
+            Über Lucy: Lucy ist Nachwuchscoach bei den Seniors.
             </div>
         </div>
 
