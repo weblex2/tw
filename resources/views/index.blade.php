@@ -65,7 +65,7 @@
                     <i class="rounded-full icon-big px-7 py-6  fa fa-trophy"></i>
                 </div>
                 <div class="col-span-9">
-                    <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN 2023/2024</h1>
+                    <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN 2024/2025</h1>
                     <hr class="mb-3">
                     <h1>2024:</h1>
                     
