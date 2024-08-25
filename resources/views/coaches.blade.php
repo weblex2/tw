@@ -89,7 +89,7 @@
         </div>
 
         <!-- 4. row -->
-        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Isi.jpg')]">
+        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Isi.jpeg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -108,7 +108,7 @@
         </div>
 
         <!-- 5. row -->
-        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Leonie.jpg')]">
+        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Leonie.jpeg')]">
         </div>
         <div class="coach-info-1">
             <div>

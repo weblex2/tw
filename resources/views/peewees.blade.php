@@ -109,7 +109,7 @@
                 <div class="coachbox-wrapper">
                     <div class="coachbox">
                         <h2>Coaches</h2>
-                        <img class="zoomable"src="{{asset('img/dl/Foto_Peewee_Coaches.jpg')}}">
+                        <img class="zoomable"src="{{asset('img/dl/Foto_Peewee_Coaches.jpeg')}}">
                         <br>
                         <h4>Lea, Jasmin & Lena-Marie</h4>
                     </div>
