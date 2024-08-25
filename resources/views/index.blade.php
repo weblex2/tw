@@ -18,7 +18,7 @@
                 <i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
                 <div class="col-span-9">
                     <p>
-                        <h1>coming soon!!!</h1>
+                        <h1>Für den Saisonstart am 15.09.</h1>
                     </p>
                     <hr class="mb-3">
                     <p>
