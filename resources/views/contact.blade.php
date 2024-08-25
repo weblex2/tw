@@ -14,7 +14,7 @@
                     <br>
                     <div>Vertreten durch:</div>
                     <div>Thomas Wittke (1. Vorsitzender)</div>
-                    <div>Lea Fruhstorfer (2. Vorsitzende)</div>
+                    <div>Lea Gärber (2. Vorsitzende)</div>
                     <div>Doreen Wittke (Kassier)</div>
                     <div>Marlen Wilhelm (Schriftführer / Jugendbeauftragte)</div>
                     <br>
