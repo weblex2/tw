@@ -89,6 +89,44 @@
         </div>
 
         <!-- 4. row -->
+        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Isi.jpg')]">
+        </div>
+        <div class="coach-info-1">
+            <div>
+                <h1>Isi</h1>
+                <div>Peewee Coach</div>
+                <div>Cheerleader seit: 2018</div>
+                <div>Coach seit: 2024</div>
+                <div>Coachingerfahrung: erste Saision bei den Peewees</div>
+            </div>
+        </div>
+        <div class="bg-zinc-700 text-white p-10 flex items-center">
+            <div>
+            <h2>Über Isi:</h2>
+            Isi ist Nachwuchscoach im Peewee-Team.
+            </div>
+        </div>
+
+        <!-- 5. row -->
+        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Leonie.jpg')]">
+        </div>
+        <div class="coach-info-1">
+            <div>
+                <h1>Leonie</h1>
+                <div>Peewee Coach</div>
+                <div>Cheerleader seit: 2016</div>
+                <div>Coach seit: 2024</div>
+                <div>Coachingerfahrung: erste Saision bei den Peewees</div>
+            </div>
+        </div>
+        <div class="bg-zinc-700 text-white p-10 flex items-center">
+            <div>
+            <h2>Über Leonie:</h2>
+            Leonie ist Nachwuchscoach im Peewee-Team.
+            </div>
+        </div>
+
+        <!-- 6. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Ali.jpg')]">
         </div>
         <div class="coach-info-1">
