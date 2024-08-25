@@ -93,7 +93,7 @@
         </div>
         <div class="coach-info-1">
             <div>
-                <h1>Isi</h1>
+                <h1>ISI</h1>
                 <div>Peewee Coach</div>
                 <div>Cheerleader seit: 2018</div>
                 <div>Coach seit: 2024</div>
@@ -112,7 +112,7 @@
         </div>
         <div class="coach-info-1">
             <div>
-                <h1>Leonie</h1>
+                <h1>LEONIE</h1>
                 <div>Peewee Coach</div>
                 <div>Cheerleader seit: 2016</div>
                 <div>Coach seit: 2024</div>
@@ -131,8 +131,8 @@
         </div>
         <div class="coach-info-1">
             <div>
-                <h1>Melis</h1>
-                <div>Junior Coach</div>
+                <h1>MELIS</h1>
+                <div>Youth/Junior Head-Coach</div>
                 <div>Cheerleader seit: 2007</div>
                 <div>Coach seit: 2014</div>
                 <div>(mit 3 jähriger Pause)</div>
@@ -151,7 +151,7 @@
         <div class="coach-info-1">
             <div>
                 <h1>NELE</h1>
-                <div>Junior Coach</div>
+                <div>Youth/Junior Coach</div>
                 <div>Cheerleader seit: 2018</div>
                 <div>Coach seit: 2021</div>
                 <div>Coachingerfahrung: Junior Level 3</div>
@@ -170,7 +170,7 @@
         <div class="coach-info-1">
             <div>
                 <h1>MEXO</h1>
-                <div>Junior Assitant-Coach</div>
+                <div>Youth/Junior Coach</div>
                 <div>Cheerleader seit: 2022</div>
                 <div>Coach seit: 2022</div>
                 <div>Coachingerfahrung: Junior Level 3</div>
@@ -189,7 +189,7 @@
         <div class="coach-info-1">
             <div>
                 <h1>ALINA</h1>
-                <div>Junior Assitant-Coach</div>
+                <div>Youth/Junior Coach</div>
                 <div>Cheerleader seit: 2018</div>
                 <div>Coach seit: 2024</div>
                 <div>Coachingerfahrung: erstes Jahr bei den Youth/Juniors</div>
@@ -208,7 +208,7 @@
         <div class="coach-info-1">
             <div>
                 <h1>MAJA</h1>
-                <div>Junior Assitant-Coach</div>
+                <div>Youth/Junior Coach</div>
                 <div>Cheerleader seit: 2018</div>
                 <div>Coach seit: 2024</div>
                 <div>Coachingerfahrung: erstes Jahr im Youth-Team.</div>
@@ -227,7 +227,7 @@
         <div class="coach-info-1">
             <div>
                 <h1>ALI</h1>
-                <div>Junior Head-Coach</div>
+                <div>Senior Head-Coach</div>
                 <div>Cheerleader seit: 2008</div>
                 <div>Coach seit: 2014</div>
                 <div>Coachingerfahrung: Junior und Senior Level 3, 4, 5 u. 6</div>
@@ -246,7 +246,7 @@
         <div class="coach-info-1">
             <div>
                 <h1>LUCY</h1>
-                <div>Seniors-Coach</div>
+                <div>Senior Coach</div>
                 <div>Cheerleader seit: 2018</div>
                 <div>Coach seit: 2024</div>
                 <div>Coachingerfahrung: erste Saison bei den Seniors</div>
