@@ -32,9 +32,11 @@
 
 
     <div class="grid grid-cols-2 lg:grid-cols-3 coachesgrid">
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <!-- 1. row -->
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lea.jpg')]">
         </div>
+        
         <div class="coach-info-1">
             <div>
                 <h1>LEA</h1>
@@ -51,6 +53,7 @@
         </div>
 
         <!-- 2. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_LenaMarie.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -70,6 +73,7 @@
         </div>
 
         <!-- 3. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Jasi.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -89,6 +93,7 @@
         </div>
 
         <!-- 4. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Isi.jpeg')]">
         </div>
         <div class="coach-info-1">
@@ -108,6 +113,7 @@
         </div>
 
         <!-- 5. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Leonie.jpeg')]">
         </div>
         <div class="coach-info-1">
@@ -127,6 +133,7 @@
         </div>
 
         <!-- 6. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Melis.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -146,6 +153,7 @@
         </div>
 
         <!-- 7. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Nele.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -165,6 +173,7 @@
         </div>
 
         <!-- 8. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Mexo.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -184,6 +193,7 @@
         </div>
 
         <!-- 9. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Alina.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -203,6 +213,7 @@
         </div>
 
         <!-- 10. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Maja.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -222,6 +233,7 @@
         </div>
 
         <!-- 11. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Ali.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -241,6 +253,7 @@
         </div>
 
         <!-- 12. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lucy.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -259,6 +272,7 @@
         </div>
 
         <!-- 13. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Thomas.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -276,6 +290,7 @@
         </div>
 
         <!-- 14. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Lea.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -294,6 +309,7 @@
         </div>
 
         <!-- 15. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Doreen.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -312,6 +328,7 @@
         </div>
 
         <!-- 16. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Marlen.jpg')]">
         </div>
         <div class="coach-info-1">
