@@ -100,7 +100,7 @@
     <div class="bg-black-900 text-white text-center align-middle p-4"></div>
     </div>
 
-    <div class="grid grid-cols-2 lg:grid-cols-4">
+    <div class="grid grid-cols-2 lg:grid-cols-3">
         <!--div class="bg-white text-center align-middle p-10">
             <div class="text-5xl font-extrabold">107</div>
             <div class="text-3xl">aktive Mitglieder</div>
@@ -117,16 +117,12 @@
             <div class="text-5xl font-extrabold">4</div>
             <div class="text-3xl text-stone-300">Teams</div>
         </div>
-        <div class="bg-green-500 text-white text-center align-middle p-10">
-            <div class="text-5xl font-extrabold">9</div>
-            <div class="text-3xl text-stone-300">Coaches</div>
-        </div>
       </div>
     </div>
     <div class="grid grid-cols-1 lg:grid-cols-1">
     <div class="bg-black-900 text-white text-center align-middle p-2"></div>
     </div>
-    <div class="grid grid-cols-2 lg:grid-cols-4">
+    <div class="grid grid-cols-2 lg:grid-cols-3">
         <!--div class="bg-white text-center align-middle p-10">
             <div class="text-5xl font-extrabold">107</div>
             <div class="text-3xl">aktive Mitglieder</div>
@@ -136,14 +132,10 @@
         <img class="zoomable" src="{{asset('img/dl/Peewees_Index.jpg')}}">
         </div>
         <div class="bg-green-800 text-white text-center align-middle p-10">
-        <div class="text-3xl text-stone-300"><a href="http://cheer-base.de/juniors2">Juniors Level 2</a></div>
-        <img class="zoomable" src="{{asset('img/dl/JuniorsL2_Index.jpg')}}">
-        </div>
-        <div class="bg-green-700 text-white text-center align-middle p-10">
-        <div class="text-3xl text-stone-300"><a href="http://cheer-base.de/juniors3">Juniors Level 3</a></div>
+        <div class="text-3xl text-stone-300"><a href="http://cheer-base.de/juniors3">Youth</a></div>
         <img class="zoomable" src="{{asset('img/dl/JuniorsL3_Index.jpg')}}">
         </div>
-        <div class="bg-green-500 text-white text-center align-middle p-10">
+        <div class="bg-green-700 text-white text-center align-middle p-10">
         <div class="text-3xl text-stone-300"><a href="http://cheer-base.de/seniors">Seniors</a></div>
         <img class="zoomable" src="{{asset('img/dl/Seniors_Index.jpg')}}">
         </div>
