@@ -146,24 +146,6 @@
         </div>
 
         <!-- 7. row -->
-        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Emma.jpg')]">
-        </div>
-        <div class="coach-info-1">
-            <div>
-                <h1>EMMA</h1>
-                <div>Junior Coach</div>
-                <div>Cheerleader seit: 2018</div>
-                <div>Coach seit: 2021</div>
-                <div>Coachingerfahrung: Junior Level 3</div>
-            </div>
-        </div>
-        <div class="bg-zinc-700 text-white p-10 flex items-center">
-            <div>
-            Hey, ich bin Emma und habe 2018 bei den Gators mit Cheerleading angefangen. Seit 2021 bin ich Coach bei den Juniors und freue mich meine Leidenschaft an die Kids weitergeben zu können. Mein schönstes Erlebnis als Coach war die Deutsche Meisterschaft 2023, wo wir völlig unerwartet den 6.Platz mit nach Hause genommen haben 😉
-            </div>
-        </div>
-
-        <!-- 8. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Mexo.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -182,25 +164,7 @@
             </div>
         </div>
 
-        <!-- 9. row -->
-        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Cory.jpg')]">
-        </div>
-        <div class="coach-info-1">
-            <div>
-                <h1>Cory</h1>
-                <div>Senior Head-Coach</div>
-                <div>Cheerleader seit: 1997 </div>
-                <div>Coach seit: 2004</div>
-                <div>Coachingerfahrung: Junior und Senior Level 3, 4, 5 u. 6</div>
-            </div>
-        </div>
-        <div class="bg-zinc-700 text-white p-10 flex items-center">
-            <div>
-            Hi, ich bin Cory. Gefühlt bin ich schon ewig beim Cheerleading. Angefangen habe ich 1997 mit dem Cheerleading bei den Munich Cowboys, 2004 habe ich die Flames gegründet und bis 2014 die Abteilung geleitet und selbst gecoached. Seit 2022 bin ich bei CBF und unterstütze das Team der Seniors.
-            </div>
-        </div>
-
-        <!-- 10. row -->
+        <!-- 8. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Thomas.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -217,7 +181,7 @@
             </div>
         </div>
 
-        <!-- 11. row -->
+        <!-- 9. row -->
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Lea.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -235,7 +199,7 @@
             </div>
         </div>
 
-        <!-- 12. row -->
+        <!-- 10. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Doreen.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -253,7 +217,7 @@
             </div>
         </div>
 
-        <!-- 13. row -->
+        <!-- 11. row -->
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Marlen.jpg')]">
         </div>
         <div class="coach-info-1">
