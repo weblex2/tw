@@ -190,7 +190,7 @@
             <div>
                 <h1>ALINA</h1>
                 <div>Youth/Junior Coach</div>
-                <div>Cheerleader seit: 2018</div>
+                <div>Cheerleader seit: 2019</div>
                 <div>Coach seit: 2024</div>
                 <div>Coachingerfahrung: erstes Jahr bei den Youth/Juniors</div>
             </div>
@@ -247,7 +247,7 @@
             <div>
                 <h1>LUCY</h1>
                 <div>Senior Coach</div>
-                <div>Cheerleader seit: 2018</div>
+                <div>Cheerleader seit: 2022</div>
                 <div>Coach seit: 2024</div>
                 <div>Coachingerfahrung: erste Saison bei den Seniors</div>
             </div>
