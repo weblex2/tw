@@ -126,9 +126,7 @@
             </div>
         </div>
 
-        
-
-        <!-- 5. row -->
+        <!-- 6. row -->
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Melis.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -147,7 +145,7 @@
             </div>
         </div>
 
-        <!-- 6. row -->
+        <!-- 7. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Nele.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -166,7 +164,7 @@
             </div>
         </div>
 
-        <!-- 7. row -->
+        <!-- 8. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Mexo.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -185,7 +183,45 @@
             </div>
         </div>
 
-        <!-- 6. row -->
+        <!-- 9. row -->
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Alina.jpg')]">
+        </div>
+        <div class="coach-info-1">
+            <div>
+                <h1>ALINA</h1>
+                <div>Junior Assitant-Coach</div>
+                <div>Cheerleader seit: 2018</div>
+                <div>Coach seit: 2024</div>
+                <div>Coachingerfahrung: erstes Jahr bei den Youth/Juniors</div>
+            </div>
+        </div>
+        <div class="bg-zinc-700 text-white p-10 flex items-center">
+            <div>
+                <h2>Über Alina:</h2>
+                Alina ist Nachwuchscoach im Youth-Team.
+            </div>
+        </div>
+
+        <!-- 10. row -->
+        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Maja.jpg')]">
+        </div>
+        <div class="coach-info-1">
+            <div>
+                <h1>MAJA</h1>
+                <div>Junior Assitant-Coach</div>
+                <div>Cheerleader seit: 2018</div>
+                <div>Coach seit: 2024</div>
+                <div>Coachingerfahrung: erstes Jahr im Youth-Team.</div>
+            </div>
+        </div>
+        <div class="bg-zinc-700 text-white p-10 flex items-center">
+            <div>
+                <h2>Über Maja:</h2>
+                Maja ist Nachwuchscoach im Youth-Team.
+            </div>
+        </div>
+
+        <!-- 11. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Ali.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -204,7 +240,7 @@
             </div>
         </div>
 
-        <!-- 6. row -->
+        <!-- 12. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lucy.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -222,7 +258,7 @@
             </div>
         </div>
 
-        <!-- 8. row -->
+        <!-- 13. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Thomas.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -239,7 +275,7 @@
             </div>
         </div>
 
-        <!-- 9. row -->
+        <!-- 14. row -->
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Lea.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -257,7 +293,7 @@
             </div>
         </div>
 
-        <!-- 10. row -->
+        <!-- 15. row -->
         <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Doreen.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -275,7 +311,7 @@
             </div>
         </div>
 
-        <!-- 11. row -->
+        <!-- 16. row -->
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Marlen.jpg')]">
         </div>
         <div class="coach-info-1">
