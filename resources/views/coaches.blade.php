@@ -19,7 +19,7 @@
             <div class="text-1xl text-stone-300">in unseren 4 Teams</div>
         </div>
         <div class="bg-green-700 text-white text-left align-middle p-10">
-            <div class="text-2xl font-extrabold">9 Coaches</div>
+            <div class="text-2xl font-extrabold">10 Coaches</div>
             <div class="text-1xl text-stone-300">für Peewees, Junior und Seniors</div>
         </div>
       </div>
