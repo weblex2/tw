@@ -88,7 +88,8 @@
                 <div class="coachbox-wrapper">
 
                     <div class="coachbox">
-                        <h2>Coach</h2>
+                    <h2>Coaches</h2>
+                    <h4>Headcoach:</h4>
                         <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Ali.jpg')}}">
                         <br>
                         <h4>Ali</h4>
