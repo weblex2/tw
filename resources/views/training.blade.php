@@ -22,7 +22,7 @@
                         <br/>
                         <div>Sonntag: 17.00 Uhr – 19.00 Uhr</div>
                         <div>Dreifachturnhalle Feldkirchen</div>
-                        <div>Olympiastr. 1</div>
+                        <div>Olympiastr. 3</div>
                         <div>85622 Feldkirchen</div>
                     </div>
                 </div>
