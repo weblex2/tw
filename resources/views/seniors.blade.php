@@ -10,11 +10,11 @@
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-star"></i>
-                        <span class="font-semibold"> 10 Seniors</span>
+                        <span class="font-semibold"> 24 Seniors</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-user-group"></i>
-                        <span  class="font-semibold"> 1 Coach</span>
+                        <span  class="font-semibold"> 2 Coaches</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-calendar "></i>
@@ -22,7 +22,7 @@
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-trophy"></i>
-                        <span  class="font-semibold"> Senior Coed Level 3</span>
+                        <span  class="font-semibold"> Senior Coed Level 3/4</span>
                     </div>
                 </div>
             </div>
@@ -89,9 +89,9 @@
 
                     <div class="coachbox">
                         <h2>Coach</h2>
-                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Cory.jpg')}}">
+                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Ali.jpg')}}">
                         <br>
-                        <h4>Cory</h4>
+                        <h4>Ali</h4>
                     </div>
                 </div>
             </div>
