@@ -80,6 +80,9 @@
                     <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp; Mittwoch<br>
                     Von 17.30 bis 19.30 Uhr<br>
                     <br>
+                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;Sonntag<br>
+                    Von 19.00 bis 21.00 Uhr<br>
+                    <br>
 
                     <a href="/contact" class="btn btn-contact">
                         Anmeldung
