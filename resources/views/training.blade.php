@@ -59,6 +59,11 @@
                         <div>Gemeindehalle Feldkirchen</div>
                         <div>Richthofenstrasse 1</div>
                         <div>85622 Feldkirchen</div>
+                        <br>
+                        <div>Sonntag: 19.00 Uhr – 21.00 Uhr</div>
+                        <div>Gemeindehalle Feldkirchen</div>
+                        <div>Richthofenstrasse 1</div>
+                        <div>85622 Feldkirchen</div>
                     </div>
                 </div>
 
