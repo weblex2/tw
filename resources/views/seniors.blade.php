@@ -98,7 +98,7 @@
                         <h4>Ali</h4>
                         <br>
                         <br>
-                        <h4>Co-Coaches</h4>
+                        <h4>Co-Coache</h4>
                         <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Lucy.jpg')}}">
                         <br>
                         <h4>Lucy</h4>
