@@ -93,6 +93,12 @@
                         <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Ali.jpg')}}">
                         <br>
                         <h4>Ali</h4>
+                        <br>
+                        <br>
+                        <h2>Coaches</h2>
+                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Ali.jpg')}}">
+                        <br>
+                        <h4>Lucy</h4>
                     </div>
                 </div>
             </div>
