@@ -5,12 +5,12 @@
         <div class="content team-header-content">
             <div class="team-header-content-grid">
                 <div>
-                    <h1>JUNIOR ALLGIRL</h1>
+                    <h1>YOUTH / JUNIOR ALLGIRL</h1>
                     <h1>GATORS UNITED</h1>
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid  fa-star"></i>
-                        <span class="font-semibold"> 23 Juniors</span>
+                        <span class="font-semibold"> 16 Youth/Juniors</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-user-group"></i>
@@ -18,7 +18,7 @@
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-trophy"></i>
-                        <span  class="font-semibold"> Junior Allgirl Level 3</span>
+                        <span  class="font-semibold"> Youth Allgirl Level 2/3</span>
                     </div>
                 </div>
             </div>
