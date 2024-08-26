@@ -10,7 +10,7 @@
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-star"></i>
-                        <span class="font-semibold"> 23 Peewees</span>
+                        <span class="font-semibold"> 32 Peewees<br>2 Teams</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-user-group"></i>
