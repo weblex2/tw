@@ -32,7 +32,7 @@
                     <div>
                         <div>Montag: 18.00 Uhr – 20.00 Uhr</div>
                         <div>Dreifachturnhalle Feldkirchen</div>
-                        <div>Olympiastr. 1</div>
+                        <div>Olympiastr. 3</div>
                         <div>85622 Feldkirchen</div>
                         <br/>
                         <div>Mittwoch: 17.30 Uhr – 19.30 Uhr</div>
@@ -52,7 +52,7 @@
                     <div>
                         <div>Montag: 20.00 Uhr – 22.00 Uhr</div>
                         <div>Dreifachturnhalle Feldkirchen</div>
-                        <div>Olympiastr. 1</div>
+                        <div>Olympiastr. 3</div>
                         <div>85622 Feldkirchen</div>
                         <br>
                         <div>Mittwoch: 19.30 Uhr – 21.30 Uhr</div>
