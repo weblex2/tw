@@ -23,18 +23,20 @@
             <div class="text-1xl text-stone-300">für Peewees, Junior und Seniors</div>
         </div>
       </div>
+      <div class="spacer w-full bg-white h-5"></div>
     </div>
 
-    <div class="grid grid-cols-1 lg:grid-cols-1">
-    <div class="bg-black-900 text-white text-center align-middle p-2"></div>
-    </div>
+    
 
 
 
-    <div class="grid grid-cols-2 lg:grid-cols-3 coachesgrid">
-        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
+    <div class="lg:grid lg:grid-cols-3 coachesgrid">
+        
+        
         <!-- 1. row -->
-        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lea.jpg')]">
+        
+        <div class="h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lea.jpg')]">
+
         </div>
         
         <div class="coach-info-1">
@@ -46,7 +48,7 @@
                 <div>Coachingerfahrung: Peewee Level 1 u. 2</div>
             </div>
         </div>
-        <div class="bg-zinc-700 text-white p-10 flex items-center">
+        <div class="bg-zinc-700 text-white p-10 items-center">
             Hi, ich bin Lea und trainiere seit 8 Jahren unsere Jüngsten.
             Mein primäres Ziel ist es, den Kids den Sport und das Teamgefühl nahe zu bringen. Wenn man zusammenarbeitet kann man nämlich alles schaffen.
             Meine aktive Karriere endete 2018 leider nach einem Kreuzbandriss, was mir aber nie die Leidenschaft für diesen Sport nehmen konnte.
@@ -54,7 +56,7 @@
 
         <!-- 2. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_LenaMarie.jpg')]">
+        <div class="h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_LenaMarie.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -154,7 +156,7 @@
 
         <!-- 7. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Nele.jpg')]">
+        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Nele.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -174,7 +176,7 @@
 
         <!-- 8. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Mexo.jpg')]">
+        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Mexo.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -194,7 +196,7 @@
 
         <!-- 9. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Alina.jpg')]">
+        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Alina.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -214,7 +216,7 @@
 
         <!-- 10. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Maja.jpg')]">
+        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Maja.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -234,7 +236,7 @@
 
         <!-- 11. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Ali.jpg')]">
+        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Ali.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -254,7 +256,7 @@
 
         <!-- 12. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lucy.jpg')]">
+        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lucy.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -273,7 +275,7 @@
 
         <!-- 13. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Thomas.jpg')]">
+        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_VS_Thomas.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -310,7 +312,7 @@
 
         <!-- 15. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-red-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Doreen.jpg')]">
+        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_VS_Doreen.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
@@ -328,7 +330,7 @@
         </div>
 
         <!-- 16. row -->
-        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
+        <div class="sm:col-span-1 col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Marlen.jpg')]">
         </div>
         <div class="coach-info-1">
