@@ -30,7 +30,7 @@
 
 
 
-    <div class="lg:grid lg:grid-cols-3 coachesgrid">
+    <div class="grid lg:grid-cols-3 coachesgrid">
         
         
         <!-- 1. row -->
