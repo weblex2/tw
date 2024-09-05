@@ -22,15 +22,15 @@
             <div class="text-2xl font-extrabold">10 Coaches</div>
             <div class="text-1xl text-stone-300">für Peewees, Junior und Seniors</div>
         </div>
-      </div>
-      <div class="spacer w-full bg-white h-5"></div>
     </div>
+    <div class="spacer w-full bg-white h-5"></div>
+    
 
     
 
 
 
-    <div class="grid lg:grid-cols-3 coachesgrid">
+    <div class="md:grid md:grid-cols-3 coachesgrid">
         
         
         <!-- 1. row -->
