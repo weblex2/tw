@@ -10,11 +10,11 @@
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-star"></i>
-                        <span class="font-semibold"> 23 Peewees</span>
+                        <span class="font-semibold"> 32 Peewees / 2 Teams</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-user-group"></i>
-                        <span  class="font-semibold"> 3 Coaches</span>
+                        <span  class="font-semibold"> 5 Coaches</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-calendar "></i>
@@ -38,7 +38,7 @@
                     Die Peewees sind Jungs und Mädchen im Alter zwischen 7 – 12 Jahren und sind somit die jüngsten in unserem Verein.
                     Trotzdem erzielen sie große Leistungen und haben sich 2022 für die Regionalmeisterschaft qualifiziert.<br>
                     <br>
-                    Trainiert werden sie von drei Coaches, mit viel Erfahrung aus der eigenen aktiven Zeit.
+                    Trainiert werden sie von fünf Coaches, mit viel Erfahrung aus der eigenen aktiven Zeit.
 
                     <div class="block my-10 text-center w-fit">
                     <div class="fa-solid fa-trophy text-5xl border-2 mb-2 rounded-full border-yellow-400 p-5 text-yellow-400"></div>
@@ -111,7 +111,7 @@
                         <h2>Coaches</h2>
                         <img class="zoomable"src="{{asset('img/dl/Foto_Peewee_Coaches.jpeg')}}">
                         <br>
-                        <h4>Lea, Jasmin & Lena-Marie</h4>
+                        <h4>Lena-Marie, Jasmin, Lea, Isi & Leonie</h4>
                     </div>
                 </div>
             </div>

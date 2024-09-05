@@ -10,11 +10,11 @@
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-star"></i>
-                        <span class="font-semibold"> 10 Seniors</span>
+                        <span class="font-semibold"> 24 Seniors</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-user-group"></i>
-                        <span  class="font-semibold"> 1 Coach</span>
+                        <span  class="font-semibold"> 2 Coaches</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-calendar "></i>
@@ -22,7 +22,7 @@
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-trophy"></i>
-                        <span  class="font-semibold"> Senior Coed Level 3</span>
+                        <span  class="font-semibold"> Senior Coed Level 3/4</span>
                     </div>
                 </div>
             </div>
@@ -75,10 +75,13 @@
                 <div class="training-times">
                     <h2>Trainingszeiten</h2>
                     <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;Montag</h6><br>
-                    Von 18.00 bis 20.00 Uhr<br>
+                    Von 20.00 bis 22.00 Uhr<br>
                     <br>
                     <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp; Mittwoch<br>
-                    Von 17.30 bis 19.30 Uhr<br>
+                    Von 19.30 bis 21.30 Uhr<br>
+                    <br>
+                    <i class="fa-regular fa-clock font-normal text-green-500"></i>&nbsp;Sonntag<br>
+                    Von 19.00 bis 21.00 Uhr<br>
                     <br>
 
                     <a href="/contact" class="btn btn-contact">
@@ -88,10 +91,17 @@
                 <div class="coachbox-wrapper">
 
                     <div class="coachbox">
-                        <h2>Coach</h2>
-                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Cory.jpg')}}">
+                    <h2>Coaches</h2>
+                    <h4>Headcoach:</h4>
+                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Ali.jpg')}}">
                         <br>
-                        <h4>Cory</h4>
+                        <h4>Ali</h4>
+                        <br>
+                        <br>
+                        <h4>Co-Coach</h4>
+                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Lucy.jpg')}}">
+                        <br>
+                        <h4>Lucy</h4>
                     </div>
                 </div>
             </div>
