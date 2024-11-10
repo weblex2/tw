@@ -68,7 +68,6 @@
                     <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN 2024/2025</h1>
                     <hr class="mb-3">
                     <h1>2024:</h1>
-                    
                     <br>
                     <h4>Dezember</h4>
                     Landesmeisterschaft Bayern - 08.12.24<br>
@@ -91,7 +90,7 @@
                     <h4>März</h4>
                     Mountain Cup - 08.03.25
                     Vaduz<br><br>
-                    
+
                     Deutsche Pokalmeisterschaft - 29./30.03.25<br>
                     Ulm<br><br>
                     <h4>Mai</h4>
