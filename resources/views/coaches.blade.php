@@ -292,7 +292,7 @@
 
         <!-- 14. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_VS_Doreen.jpg')]">
+        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_VS_DoreenII.jpg')]">
         </div>
         <div class="coach-info-1">
             <div>
