@@ -69,7 +69,7 @@
                     <hr class="mb-3">
                     <h1>2024:</h1>
                     <h4>Dezember</h4>
-                    Generalprobe - 01.12.25 (ab 18:30h)
+                    Generalprobe - 01.12.25<br>
                     Feldkirchen
                     <br>
                     <br>
