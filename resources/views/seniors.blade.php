@@ -102,6 +102,11 @@
                         <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Lucy.jpg')}}">
                         <br>
                         <h4>Lucy</h4>
+                        <br>
+                        <h4>Co-Coach</h4>
+                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Melis.jpg')}}">
+                        <br>
+                        <h4>Melis</h4>
                     </div>
                 </div>
             </div>
