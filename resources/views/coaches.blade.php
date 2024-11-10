@@ -156,26 +156,6 @@
 
         <!-- 7. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Nele.jpg')]">
-        </div>
-        <div class="coach-info-1">
-            <div>
-                <h1>NELE</h1>
-                <div>Youth/Junior Coach</div>
-                <div>Cheerleader seit: 2018</div>
-                <div>Coach seit: 2021</div>
-                <div>Coachingerfahrung: Junior Level 3</div>
-            </div>
-        </div>
-        <div class="bg-zinc-700 text-white p-10 flex items-center">
-            <div>
-            <h2>Über Nele:</h2>
-            Nele ist Coach des Youth/Junior-Teams.
-            </div>
-        </div>
-
-        <!-- 8. row -->
-        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Mexo.jpg')]">
         </div>
         <div class="coach-info-1">
@@ -194,7 +174,7 @@
             </div>
         </div>
 
-        <!-- 9. row -->
+        <!-- 8. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Alina.jpg')]">
         </div>
@@ -214,7 +194,7 @@
             </div>
         </div>
 
-        <!-- 10. row -->
+        <!-- 9. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Maja.jpg')]">
         </div>
@@ -234,7 +214,7 @@
             </div>
         </div>
 
-        <!-- 11. row -->
+        <!-- 10. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Ali.jpg')]">
         </div>
@@ -254,7 +234,7 @@
             </div>
         </div>
 
-        <!-- 12. row -->
+        <!-- 11. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Lucy.jpg')]">
         </div>
@@ -273,7 +253,7 @@
             </div>
         </div>
 
-        <!-- 13. row -->
+        <!-- 12. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_VS_Thomas.jpg')]">
         </div>
@@ -291,7 +271,7 @@
             </div>
         </div>
 
-        <!-- 14. row -->
+        <!-- 13. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Lea.jpg')]">
         </div>
@@ -310,7 +290,7 @@
             </div>
         </div>
 
-        <!-- 15. row -->
+        <!-- 14. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_VS_Doreen.jpg')]">
         </div>
@@ -329,7 +309,7 @@
             </div>
         </div>
 
-        <!-- 16. row -->
+        <!-- 15. row -->
         <div class="sm:col-span-1 col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Marlen.jpg')]">
         </div>
