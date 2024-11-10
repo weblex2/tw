@@ -310,7 +310,7 @@
         </div>
 
         <!-- 15. row -->
-        <div class="sm:col-span-1 col-span-3 h-5 bg-white">&nbsp;</div>
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
         <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_VS_Marlen.jpg')]">
         </div>
         <div class="coach-info-1">
