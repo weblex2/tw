@@ -102,12 +102,6 @@
                         <br>
                         <br>
                         <h4>Co-Coach:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Nele.jpg')}}">
-                        <br>
-                        Nele
-                        <br>
-                        <br>
-                        <h4>Co-Coach:</h4>
                         <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Mexo.jpg')}}">
                         <br>
                         Mexo
