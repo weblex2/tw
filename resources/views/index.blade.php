@@ -69,22 +69,29 @@
                     <hr class="mb-3">
                     <h1>2024:</h1>
                     
-                    <h4>September</h4>
-                    Jahreshauptversammlung - 22.09.24<br>
-                    Feldkirchen
-                    <br>
                     <br>
                     <h4>Dezember</h4>
                     Landesmeisterschaft Bayern - 08.12.24<br>
                     Ingolstadt
                     <br>
+                    Weihnachtsmarkt Gem. Feldkirchen - 14.12.24<br>
+                    Feldkirchen
+
                     <br>
                     <h1>2025:</h1>
                     
+                    <h4>Januar</h4>
+                    Neujahrsfeier - Termin folgt<br>
+                    Feldkirchen<br><br>
+
                     <h4>Februar</h4>
                     Regionalmeisterschaft Süd - 22.02.25<br>
                     Ulm<br><br>
+
                     <h4>März</h4>
+                    Mountain Cup - 08.03.25
+                    Vaduz<br><br>
+                    
                     Deutsche Pokalmeisterschaft - 29./30.03.25<br>
                     Ulm<br><br>
                     <h4>Mai</h4>
