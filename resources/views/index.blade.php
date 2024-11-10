@@ -68,7 +68,6 @@
                     <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN 2024/2025</h1>
                     <hr class="mb-3">
                     <h1>2024:</h1>
-                    <br>
                     <h4>Dezember</h4>
                     Landesmeisterschaft Bayern - 08.12.24<br>
                     Ingolstadt
