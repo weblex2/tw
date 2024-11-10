@@ -97,10 +97,13 @@
 
                     Deutsche Pokalmeisterschaft - 29./30.03.25<br>
                     Ulm<br><br>
+
                     <h4>Mai</h4>
                     Auftritt Maibaumsetzen - 01.05.25<br>
-                    Feldkirchen<br><br>
-
+                    Feldkirchen<br>
+                    <br>
+                    Summer All Level Championship - 03.05.25<br>
+                    Chemnitz<br><br>
                 </div>
                 </div>
         </div>
