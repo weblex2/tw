@@ -92,7 +92,7 @@
                     Ulm<br><br>
 
                     <h4>März</h4>
-                    Mountain Cup - 08.03.25
+                    Mountain Cup - 08.03.25<br>
                     Vaduz<br><br>
 
                     Deutsche Pokalmeisterschaft - 29./30.03.25<br>
