@@ -6,7 +6,7 @@
             <div class="team-header-content-grid">
                 <div>
                     <h1>SENIORS</h1>
-                    <h1>GATORS WARRIORS</h1>
+                    <h1>GATORS ATTACKS</h1>
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-star"></i>
@@ -14,7 +14,7 @@
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-user-group"></i>
-                        <span  class="font-semibold"> 2 Coaches</span>
+                        <span  class="font-semibold"> 3 Coaches</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-calendar "></i>
