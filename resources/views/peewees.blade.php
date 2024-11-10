@@ -6,7 +6,7 @@
             <div class="team-header-content-grid">
                 <div>
                     <h1>PEEWEES</h1>
-                    <h1>GATORS RISE</h1>
+                    <h1>GATORS SPIRIT & JOY</h1>
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-star"></i>
