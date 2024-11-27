@@ -44,7 +44,7 @@
                     <p>85622 Feldkirchen</p>
                     <br>
                     <p>Sporthalle Feldkirchen</p>
-                    <p>Olympiastraße 1</p>
+                    <p>Olympiastraße 3</p>
                     <p>85622 Feldkirchen</p>
                     <br>
                     <br>
