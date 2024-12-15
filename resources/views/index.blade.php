@@ -67,36 +67,15 @@
                 <div class="col-span-9">
                     <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN 2024/2025</h1>
                     <hr class="mb-3">
-                    <h1>2024:</h1>
-                    <h4>Dezember</h4>
-                    Generalprobe - 01.12.25<br>
-                    Feldkirchen
-                    <br>
-                    <br>
-                    Landesmeisterschaft Bayern - 08.12.24<br>
-                    Ingolstadt
-                    <br>
-                    <br>
-                    Weihnachtsmarkt Gem. Feldkirchen - 14.12.24<br>
-                    Feldkirchen
-                    <br>
-                    <br>
                     <h1>2025:</h1>
                     
                     <h4>Januar</h4>
-                    Neujahrsfeier - Termin folgt<br>
-                    Feldkirchen<br><br>
-
-                    <h4>Februar</h4>
-                    Regionalmeisterschaft Süd - 22.02.25<br>
-                    Ulm<br><br>
+                    Neujahrsfeier - 25.01.25<br>
+                    Gemeindehalle Feldkirchen<br><br>
 
                     <h4>März</h4>
-                    Mountain Cup - 08.03.25<br>
-                    Vaduz<br><br>
-
-                    Deutsche Pokalmeisterschaft - 29./30.03.25<br>
-                    Ulm<br><br>
+                    Cheer Championship Tirol - 01.03.25<br>
+                    6410 Telfs (AT) <br><br>
 
                     <h4>Mai</h4>
                     Auftritt Maibaumsetzen - 01.05.25<br>
