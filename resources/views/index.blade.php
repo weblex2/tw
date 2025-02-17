@@ -69,10 +69,6 @@
                     <hr class="mb-3">
                     <h1>2025:</h1>
                     
-                    <h4>Januar</h4>
-                    Neujahrsfeier - 25.01.25<br>
-                    Gemeindehalle Feldkirchen<br><br>
-
                     <h4>März</h4>
                     Cheer Championship Tirol - 01.03.25<br>
                     6410 Telfs (AT) <br><br>
