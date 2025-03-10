@@ -77,8 +77,7 @@
                     Chemnitz
                     <br>
                     Southern Cheer Classics 2025 - 24.05.25<br>
-                    Haar<br><br>
-
+                    Haar<br>
                     <h4>Dezember</h4>
                     Landesmeisterschaft Bayern - 06./07.12.25<br>
                     Neu-Ulm<br>
