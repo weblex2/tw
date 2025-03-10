@@ -74,10 +74,11 @@
                     Feldkirchen<br>
                     <br>
                     Summer All Level Championship - 03.05.25<br>
-                    Chemnitz
+                    Chemnitz<br>
                     <br>
                     Southern Cheer Classics 2025 - 24.05.25<br>
                     Haar<br>
+                    <br>
                     <h4>Dezember</h4>
                     Landesmeisterschaft Bayern - 06./07.12.25<br>
                     Neu-Ulm<br>
