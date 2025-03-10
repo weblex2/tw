@@ -69,16 +69,19 @@
                     <hr class="mb-3">
                     <h1>2025:</h1>
                     
-                    <h4>März</h4>
-                    Cheer Championship Tirol - 01.03.25<br>
-                    6410 Telfs (AT) <br><br>
-
                     <h4>Mai</h4>
                     Auftritt Maibaumsetzen - 01.05.25<br>
                     Feldkirchen<br>
                     <br>
                     Summer All Level Championship - 03.05.25<br>
                     Chemnitz<br><br>
+                    <br>
+                    Southern Cheer Classics 2025 - 24.05.25<br>
+                    Haar<br><br>
+
+                    <h4>Dezember</h4>
+                    Landesmeisterschaft Bayern - 06./07.12.25<br>
+                    Neu-Ulm<br>
                 </div>
                 </div>
         </div>
