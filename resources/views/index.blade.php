@@ -74,7 +74,7 @@
                     Feldkirchen<br>
                     <br>
                     Summer All Level Championship - 03.05.25<br>
-                    Chemnitz<br><br>
+                    Chemnitz<br>
                     <br>
                     Southern Cheer Classics 2025 - 24.05.25<br>
                     Haar<br><br>
