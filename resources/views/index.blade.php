@@ -65,7 +65,7 @@
                     <i class="rounded-full icon-big px-7 py-6  fa fa-trophy"></i>
                 </div>
                 <div class="col-span-9">
-                    <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN SAISON 2024/2025</h1>
+                    <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN SAISON 2025/2026</h1>
                     <hr class="mb-3">
                     <h1>2025:</h1>
                     
@@ -77,7 +77,7 @@
 
                     <h4>Februar</h4>
                     Regionalmeisterschaft Süd - 07.02.26<br>
-                    Neu-Ulm<br>
+                    Neu-Ulm<br><br>
 
                     Cheer Championsip Tirol - 28.02.26<br>
                     Tirol<br>
