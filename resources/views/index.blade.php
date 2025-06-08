@@ -69,19 +69,19 @@
                     <hr class="mb-3">
                     <h1>2025:</h1>
                     
-                    <h4>Mai</h4>
-                    Auftritt Maibaumsetzen - 01.05.25<br>
-                    Feldkirchen<br>
-                    <br>
-                    Summer All Level Championship - 03.05.25<br>
-                    Chemnitz<br>
-                    <br>
-                    Southern Cheer Classics 2025 - 24.05.25<br>
-                    Haar<br>
-                    <br>
                     <h4>Dezember</h4>
                     Landesmeisterschaft Bayern - 06./07.12.25<br>
                     Neu-Ulm<br>
+
+                    <h1>2026:</h1|
+
+                    <h4>Februar</h4>
+                    Regionalmeisterschaft Süd - 07.02.26<br>
+                    Neu-Ulm<br>
+
+                    Cheer Championsip Tirol - 28.02.26<br>
+                    Tirol<br>
+
                 </div>
                 </div>
         </div>
