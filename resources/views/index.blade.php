@@ -77,7 +77,7 @@
 
                     <h4>Februar</h4>
                     Regionalmeisterschaft Süd - 07.02.26<br>
-                    Neu-Ulm<br><br>
+                    Neu-Ulm<br>
                     <br>
                     Cheer Championsip Tirol - 28.02.26<br>
                     Tirol<br>
