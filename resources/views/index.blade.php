@@ -71,9 +71,9 @@
                     
                     <h4>Dezember</h4>
                     Landesmeisterschaft Bayern - 06./07.12.25<br>
-                    Neu-Ulm<br>
+                    Neu-Ulm<br><br>
 
-                    <h1>2026:</h1|
+                    <h1>2026:</h1>
 
                     <h4>Februar</h4>
                     Regionalmeisterschaft Süd - 07.02.26<br>
