@@ -10,7 +10,7 @@
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid  fa-star"></i>
-                        <span class="font-semibold"> 20 Youth/Juniors</span>
+                        <span class="font-semibold"> 30 Youth/Juniors</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-user-group"></i>
