@@ -22,7 +22,7 @@
                     <hr class="mb-3">
                     <p>WIR HABEN AKTUELL NOCH SPOTS BEI YOUTH / JUNIOR / SENIOR FREI!</p>
                     <br>
-                    <p>Bei Interesse einfach eine E-Mail an: info@cheer-base.com
+                    <p>Bei Interesse einfach eine E-Mail an: <a href="mailto:info@cheer-base.com">info@cheer-base.com</a>
                     </p>
         </div></div></div>
 
