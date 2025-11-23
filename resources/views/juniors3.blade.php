@@ -5,8 +5,8 @@
         <div class="content team-header-content">
             <div class="team-header-content-grid">
                 <div>
-                    <h1>YOUTH / JUNIOR ALLGIRL</h1>
-                    <h1>GATORS INFINITY</h1>
+                    <h1>YOUTH ALLGIRL - INFINITY</h1>
+                    <h1>JUNIOR COED - REVENGE</h1>
                     <br>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid  fa-star"></i>
