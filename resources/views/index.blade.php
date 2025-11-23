@@ -71,7 +71,7 @@
                     
                     <h4>Dezember</h4>
                     
-                    Generalprobe - 30.11.25<br>
+                    Generalprob - 30.11.25<br>
                     Feldkirchen<br><br>
                     
                     Landesmeisterschaft Bayern - 06./07.12.25<br>
@@ -129,7 +129,7 @@
         </div>
         </div>
         <div class="bg-green-800 text-white text-center align-middle p-10">
-        <div class="text-3xl text-stone-300"><a href="http://cheer-base.de/juniors3">Youth</a></div>
+        <div class="text-3xl text-stone-300"><a href="http://cheer-base.de/juniors3">Youth / Juniors</a></div>
         <div class="w-full h-full flex items-center justify-center">
             <img class="zoomable" src="{{asset('img/dl/JuniorsL3_Index.jpg')}}">
         </div>    
