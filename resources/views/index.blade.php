@@ -18,13 +18,12 @@
                 <i class="rounded-full icon-big px-10 py-6 fa-solid fa fa-house"></i></div>
                 <div class="col-span-9">
                     <p>
-                        <h1>Coming Soon</h1>
-                    </p>
+                    <h1>NEWS</h1>
                     <hr class="mb-3">
-                    <p>
+                    <p>WIR HABEN AKTUELL NOCH SPOTS BEI YOUTH / JUNIOR / SENIOR FREI!:</p>
                     <br>
-                    <img class="w-[80%]" src="{{  asset('img/dl/coacheswanted25.jpg') }}">
-                </div>    
+                    <p>BEI INTERESSE EINFACH EINE E-MAIL AN: info@cheer-base.com
+                    </p>
             </div>
         </div>
 
@@ -65,7 +64,7 @@
                     <i class="rounded-full icon-big px-7 py-6  fa fa-trophy"></i>
                 </div>
                 <div class="col-span-9">
-                    <h1>AKTUELLE TERMINE / MEISTERSCHAFTEN SAISON 2025/2026</h1>
+                    <h1>TERMINE / MEISTERSCHAFTEN SAISON 2025/2026</h1>
                     <hr class="mb-3">
                     <h1>2025:</h1>
                     
