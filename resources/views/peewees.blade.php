@@ -22,7 +22,7 @@
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-trophy"></i>
-                        <span  class="font-semibold"> Level 1</span>
+                        <span  class="font-semibold"> Level 0 un 1</span>
                     </div>
                 </div>
             </div>
@@ -109,9 +109,9 @@
                 <div class="coachbox-wrapper">
                     <div class="coachbox">
                         <h2>Coaches</h2>
-                        <img class="zoomable"src="{{asset('img/dl/Foto_Peewee_Coaches.jpeg')}}">
+                        <img class="zoomable"src="{{asset('img/dl/Foto_Peewee_Coaches_NEU.jpeg')}}">
                         <br>
-                        <h4>Lena-Marie, Jasmin, Lea, Isi & Leonie</h4>
+                        <h4>Lena-Marie, Jasmin, Lea, Sabrina & Ben</h4>
                     </div>
                 </div>
             </div>
