@@ -101,13 +101,13 @@
                         Lucy
                         <br>
                         <br>
-                        <h4>Co-Coach:</h4>
+                        <h4>Coach:</h4>
                         <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Sahra.jpg')}}">
                         <br>
                         Sahra
                         <br>
                         <br>
-                        <h4>Co-Coach:</h4>
+                        <h4>Coach:</h4>
                         <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Shirin.jpg')}}">
                         <br>
                         Shirin
