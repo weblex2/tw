@@ -72,6 +72,7 @@
                     <h4>Dezember</h4>
                     
                     Generalprobe - 30.11.25<br>
+                    Feldkirchen<br><br>
                     
                     Landesmeisterschaft Bayern - 06./07.12.25<br>
                     Neu-Ulm<br><br>
