@@ -24,7 +24,6 @@
                     <br>
                     <p>BEI INTERESSE EINFACH EINE E-MAIL AN: info@cheer-base.com
                     </p>
-            </div>
         </div>
 
         <div class="m m2">
