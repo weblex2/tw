@@ -69,7 +69,7 @@
                     
                     <h4>Dezember</h4>
                     
-                    Generalprob - 30.11.25<br>
+                    Generalprobe - 30.11.25<br>
                     Feldkirchen<br><br>
                     
                     Landesmeisterschaft Bayern - 06./07.12.25<br>
