@@ -92,20 +92,15 @@
 
                     <div class="coachbox">
                     <h2>Coaches</h2>
-                    <h4>Headcoach:</h4>
-                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Ali.jpg')}}">
-                        <br>
-                        <h4>Ali</h4>
-                        <br>
-                        <h4>Co-Coach</h4>
+                    <h4>Coach</h4>
                         <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Lucy.jpg')}}">
                         <br>
                         <h4>Lucy</h4>
                         <br>
-                        <h4>Co-Coach</h4>
-                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Melis.jpg')}}">
+                        <h4>Coach</h4>
+                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Sahra.jpg')}}">
                         <br>
-                        <h4>Melis</h4>
+                        <h4>Sahra</h4>
                     </div>
                 </div>
             </div>
