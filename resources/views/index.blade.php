@@ -20,9 +20,9 @@
                     <p>
                     <h1>NEWS</h1>
                     <hr class="mb-3">
-                    <p>WIR HABEN AKTUELL NOCH SPOTS BEI YOUTH / JUNIOR / SENIOR FREI!:</p>
+                    <p>WIR HABEN AKTUELL NOCH SPOTS BEI YOUTH / JUNIOR / SENIOR FREI!</p>
                     <br>
-                    <p>BEI INTERESSE EINFACH EINE E-MAIL AN: info@cheer-base.com
+                    <p>Bei Interesse einfach eine E-Mail an: info@cheer-base.com
                     </p>
         </div></div></div>
 
