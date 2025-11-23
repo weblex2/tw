@@ -14,11 +14,11 @@
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-user-group"></i>
-                        <span  class="font-semibold"> 4 Coaches</span>
+                        <span  class="font-semibold"> 3 Coaches</span>
                     </div>
                     <div class="icon-wrapper">
                         <i class="icon  fa-solid fa-trophy"></i>
-                        <span  class="font-semibold"> Youth Allgirl Level 2/3</span>
+                        <span  class="font-semibold"> Youth Allgirl Level 2 und Junior Coed Level 3</span>
                     </div>
                 </div>
             </div>
