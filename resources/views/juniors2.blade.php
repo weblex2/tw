@@ -65,34 +65,25 @@
 
                     <div class="coachbox">
                         <h2>Coaches</h2>
-                        <h4>Headcoach:</h4>
-                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Mexo.jpg')}}">
+                        <h4>Coach:</h4>
+                        <img class="zoomable"src="{{asset('img/dl/Foto_Coaches_Lucy.jpg')}}">
                         <br>
-                        Mexo
-                        <br>
-                        <br>
-                        <h4>Co-Coach:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Ali.jpg')}}">
-                        <br>
-                        Ali
+                        Lucy
                         <br>
                         <br>
                         <h4>Co-Coach:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Melis.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Sahra.jpg')}}">
                         <br>
-                        Melis
-                        <br>
-                        <br>
-                        <h4>Co-Coach:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Nele.jpg')}}">
-                        <br>
-                        Nele
+                        Sahra
                         <br>
                         <br>
                         <h4>Co-Coach:</h4>
-                        <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Emma.jpg')}}">
+                        <img class="zoomable" src="{{asset('img/dl/Foto_Coaches_Shirin.jpg')}}">
                         <br>
-                        Emma
+                        Shirin
+                        <br>
+                        <br>
+                        
                     </div>
                 </div>
             </div>
