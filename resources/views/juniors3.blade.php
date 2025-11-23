@@ -31,9 +31,9 @@
             <div class="whatwedo">
                 <div class="col-span-5 p-10">
                     <h2>WAS WIR MACHEN</h2>
-                    Unser Junior Allgirl – Team sind Mädchen im Alter zwischen 12 – 17 Jahren und sind die “Goldene Mitte”.<br>
+                    Unser Youth/Junior - Teams sind Mädchen und Jungs im Alter zwischen 12 – 17 Jahren und sind die “Goldene Mitte”.<br>
                     <br>
-                    Trainiert werden sie von vier Coaches, mit viel Erfahrung aus der eigenen aktiven Zeit.
+                    Trainiert werden sie von Coaches, die die Erfahrung aus der eigenen aktiven Zeit mitbringen.
 
                     <div class="block my-10 text-center w-fit">
                     <div class="fa-solid fa-trophy text-5xl border-2 mb-2 rounded-full border-yellow-400 p-5 text-yellow-400"></div>
