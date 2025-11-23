@@ -96,141 +96,41 @@
 
         <!-- 4. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Isi.jpeg')]">
+        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Sabrina.jpeg')]">
         </div>
         <div class="coach-info-1">
             <div>
-                <h1>ISI</h1>
+                <h1>SABRINA</h1>
                 <div>Peewee Coach</div>
-                <div>Cheerleader seit: 2018</div>
-                <div>Coach seit: 2024</div>
+                <div>Cheerleader seit: 2020</div>
+                <div>Coach seit: 2025</div>
                 <div>Coachingerfahrung: erste Saision bei den Peewees</div>
             </div>
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            <h2>Über Isi:</h2>
+            <h2>Über Sabrina:</h2>
             Isi ist Nachwuchscoach des Peewee-Teams.
             </div>
         </div>
 
         <!-- 5. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Leonie.jpeg')]">
+        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Ben.jpeg')]">
         </div>
         <div class="coach-info-1">
             <div>
-                <h1>LEONIE</h1>
+                <h1>BEN</h1>
                 <div>Peewee Coach</div>
-                <div>Cheerleader seit: 2016</div>
-                <div>Coach seit: 2024</div>
+                <div>Cheerleader seit: 2020</div>
+                <div>Coach seit: 2025</div>
                 <div>Coachingerfahrung: erste Saision bei den Peewees</div>
             </div>
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            <h2>Über Leonie:</h2>
+            <h2>Über Ben:</h2>
             Leonie ist Nachwuchscoach des Peewee-Teams.
-            </div>
-        </div>
-
-        <!-- 6. row -->
-        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-white-500 bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Melis.jpg')]">
-        </div>
-        <div class="coach-info-1">
-            <div>
-                <h1>MELIS</h1>
-                <div>Youth/Junior Head-Coach</div>
-                <div>Cheerleader seit: 2007</div>
-                <div>Coach seit: 2014</div>
-                <div>(mit 3 jähriger Pause)</div>
-                <div>Coachingerfahrung: Junior und Senior Level 3,4,5 u. 6</div>
-            </div>
-        </div>
-        <div class="bg-zinc-700 text-white p-10 flex items-center">
-            <div>
-            Hi, ich bin Melis.
-            </div>
-        </div>
-
-        <!-- 7. row -->
-        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Mexo.jpg')]">
-        </div>
-        <div class="coach-info-1">
-            <div>
-                <h1>MEXO</h1>
-                <div>Youth/Junior Coach</div>
-                <div>Cheerleader seit: 2022</div>
-                <div>Coach seit: 2022</div>
-                <div>Coachingerfahrung: Junior Level 3</div>
-            </div>
-        </div>
-        <div class="bg-zinc-700 text-white p-10 flex items-center">
-            <div>
-                <h2>Über Mexo:</h2>
-                Mexo ist Coach des Youth/Junior-Teams.
-            </div>
-        </div>
-
-        <!-- 8. row -->
-        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Alina.jpg')]">
-        </div>
-        <div class="coach-info-1">
-            <div>
-                <h1>ALINA</h1>
-                <div>Youth/Junior Coach</div>
-                <div>Cheerleader seit: 2019</div>
-                <div>Coach seit: 2024</div>
-                <div>Coachingerfahrung: erstes Jahr bei den Youth/Juniors</div>
-            </div>
-        </div>
-        <div class="bg-zinc-700 text-white p-10 flex items-center">
-            <div>
-                <h2>Über Alina:</h2>
-                Alina ist Nachwuchscoach des Youth/Junior-Teams.
-            </div>
-        </div>
-
-        <!-- 9. row -->
-        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Maja.jpg')]">
-        </div>
-        <div class="coach-info-1">
-            <div>
-                <h1>MAJA</h1>
-                <div>Youth/Junior Coach</div>
-                <div>Cheerleader seit: 2018</div>
-                <div>Coach seit: 2024</div>
-                <div>Coachingerfahrung: erstes Jahr im Youth-Team.</div>
-            </div>
-        </div>
-        <div class="bg-zinc-700 text-white p-10 flex items-center">
-            <div>
-                <h2>Über Maja:</h2>
-                Maja ist Nachwuchscoach des Youth/Junior-Teams.
-            </div>
-        </div>
-
-        <!-- 10. row -->
-        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
-        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Ali.jpg')]">
-        </div>
-        <div class="coach-info-1">
-            <div>
-                <h1>ALI</h1>
-                <div>Senior Head-Coach</div>
-                <div>Cheerleader seit: 2008</div>
-                <div>Coach seit: 2014</div>
-                <div>Coachingerfahrung: Junior und Senior Level 3, 4, 5 u. 6</div>
-            </div>
-        </div>
-        <div class="bg-zinc-700 text-white p-10 flex items-center">
-            <div>
-            Hi ich bin Ali und schon seit Gründung 2008 in dem Verein. Im Training mache ich am liebsten Pyramiden, egal ob als Aktive oder als Coach. Mein größter Erfolg als Cheerleader bzw. als Coach war unser Junior Groupstunt, der sich 2018 für das CCVD Junior-Nationalteam qualifizieren konnten und am Schluss sogar den ersten Weltmeistertitel mit Team Germany holen konnte!
-            Fun Fact über mich: Ich habe schon 3 mal meine aktive Karriere beendet und bin dann doch noch zwei Mal eingesprungen und mit den Seniors auf die Matte gegangen. Mal schauen wie lange der 3. Versuch andauert 😉
             </div>
         </div>
 
@@ -241,10 +141,10 @@
         <div class="coach-info-1">
             <div>
                 <h1>LUCY</h1>
-                <div>Senior Coach</div>
+                <div>Junior und Senior Coach</div>
                 <div>Cheerleader seit: 2022</div>
                 <div>Coach seit: 2024</div>
-                <div>Coachingerfahrung: erste Saison bei den Seniors</div>
+                <div>Coachingerfahrung: zweite Saison bei CBF</div>
             </div>
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
@@ -252,6 +152,45 @@
             Über Lucy:<br>Lucy ist Nachwuchscoach des Senior-Teams.
             </div>
         </div>
+
+        <!-- 10. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
+        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Sahra.jpg')]">
+        </div>
+        <div class="coach-info-1">
+            <div>
+                <h1>SAHRA</h1>
+                <div>Junior und Senior Coach</div>
+                <div>Cheerleader seit: 2008</div>
+                <div>Coach seit: 2025</div>
+                <div>Coachingerfahrung: erste Saison bei CBF</div>
+            </div>
+        </div>
+        <div class="bg-zinc-700 text-white p-10 flex items-center">
+            <div>
+            Über Lucy:<br>Sahra ist als neuer Coach dieses Jahr zu CBF gekommen und coached die Juniors und Seniors.
+            </div>
+        </div>
+
+<!-- 10. row -->
+        <div class="col-span-3 h-5 bg-white">&nbsp;</div>
+        <div class="flex h-96 w-full bg-center bg-cover bg-[url('../../public/img/Foto_Coach_Shirin.jpg')]">
+        </div>
+        <div class="coach-info-1">
+            <div>
+                <h1>SHIRIN</h1>
+                <div>Junior Coach</div>
+                <div>Cheerleader seit: 2014</div>
+                <div>Coach seit: 2025</div>
+                <div>Coachingerfahrung: erste Saison bei CBF</div>
+            </div>
+        </div>
+        <div class="bg-zinc-700 text-white p-10 flex items-center">
+            <div>
+            Über Shirin:<br>Shirin ist als neuer Coach dieses Jahr zu CBF gekommen und coached die Juniors.
+            </div>
+        </div>
+
 
         <!-- 12. row -->
         <div class="col-span-3 h-5 bg-white">&nbsp;</div>
