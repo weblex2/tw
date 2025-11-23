@@ -149,7 +149,7 @@
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            Über Lucy:<br>Lucy ist Nachwuchscoach des Senior-Teams.
+            Über Lucy:<br>Lucy coached das Junior und Senior-Team.
             </div>
         </div>
 
