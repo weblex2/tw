@@ -65,24 +65,21 @@
                 <div class="col-span-9">
                     <h1>TERMINE / MEISTERSCHAFTEN SAISON 2025/2026</h1>
                     <hr class="mb-3">
-                    <h1>2025:</h1>
+                    <h1>2026:</h1>
                     
                     <h4>Dezember</h4>
                     
-                    Generalprobe - 30.11.25<br>
+                    Generalprobe - Termin folgt<br>
                     Feldkirchen<br><br>
                     
-                    Landesmeisterschaft Bayern - 06./07.12.25<br>
+                    Landesmeisterschaft Bayern - 05./05.12.26<br>
                     Neu-Ulm<br><br>
 
-                    <h1>2026:</h1>
+                    <h1>2027:</h1>
 
-                    <h4>Februar</h4>
-                    Regionalmeisterschaft Süd - 07.02.26<br>
+                    <h4>Januar</h4>
+                    Regionalmeisterschaft Süd - 31.01.27<br>
                     Neu-Ulm<br>
-                    <br>
-                    Cheer Championsip Tirol - 28.02.26<br>
-                    Tirol<br>
 
                 </div>
                 </div>
