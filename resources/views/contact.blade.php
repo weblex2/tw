@@ -16,7 +16,7 @@
                     <div>Stephan Grabe (1. Vorsitzender)</div>
                     <div>Lea Gärber (2. Vorsitzende)</div>
                     <div>Monika W.-Koller (Kassier)</div>
-                    <div>Daniel Eichenseher (Schriftführer / Jugendbeauftragte)</div>
+                    <div>Daniel Eichenseher (Schriftführer/Jugendbeauftragte)</div>
                     <br>
                     <h2>KONTAKT</h2>
                     <div>E-Mail: <a href="mailto:info@cheer-base.com">info@cheer-base.com</a></div>
