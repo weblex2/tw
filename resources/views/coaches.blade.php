@@ -149,7 +149,7 @@
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            Über Lucy:<br>Lucy coached das Junior und Senior-Team.
+            Über Lucy:<br>Lucy coached das Junior-Team.
             </div>
         </div>
 
@@ -168,7 +168,7 @@
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            Über Sahra:<br>Sahra ist als neuer Coach im letzten Jahr zu CBF gekommen und coached die Juniors und Seniors.
+            Über Sahra:<br>Sahra ist als neuer Coach im letzten Jahr zu CBF gekommen und coached die Juniors.
             </div>
         </div>
 
