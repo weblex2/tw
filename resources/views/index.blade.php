@@ -72,7 +72,7 @@
                     Generalprobe - Termin folgt<br>
                     Feldkirchen<br><br>
                     
-                    Landesmeisterschaft Bayern - 05./05.12.26<br>
+                    Landesmeisterschaft Bayern - 05./06.12.26<br>
                     Neu-Ulm<br><br>
 
                     <h1>2027:</h1>
