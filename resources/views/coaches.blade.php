@@ -168,7 +168,7 @@
         </div>
         <div class="bg-zinc-700 text-white p-10 flex items-center">
             <div>
-            Über Lucy:<br>Sahra ist als neuer Coach dieses Jahr zu CBF gekommen und coached die Juniors und Seniors.
+            Über Sahra:<br>Sahra ist als neuer Coach im letzten Jahr zu CBF gekommen und coached die Juniors und Seniors.
             </div>
         </div>
 
